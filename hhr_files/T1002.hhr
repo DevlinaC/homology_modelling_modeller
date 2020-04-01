@@ -1,0 +1,2114 @@
+Query         T1002 Q184J8, Clostridium difficile, 270 residues
+Match_columns 270
+No_of_seqs    1 out of 1
+Neff          1
+Searched_HMMs 80569
+Date          Wed Mar 25 16:12:48 2020
+Command       hhsearch -i T1002.fasta -d ../hhbits_database/pdb70 -o T1002.hhr 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 4XXT_A Fused Zn-dependent amid  99.4 1.8E-16 2.3E-21  123.4   0.0  136  134-270   125-261 (261)
+  2 3ZG4_A ERFK/YBIS/YCFS/YNHG (E.  99.1 3.3E-14 4.1E-19   97.6   0.0  116  148-270     4-129 (129)
+  3 6FJ1_C L,D-TRANSPEPTIDASE; L,   99.1 6.6E-14 8.2E-19  110.6   0.0  119  145-270   124-250 (258)
+  4 5E5L_D L,D-transpeptidase 1; P  99.1 9.7E-14 1.2E-18  109.8   0.0  113  147-270    94-222 (223)
+  5 6D4K_A Probable L,D-transpepti  99.1 1.1E-13 1.4E-18  118.1   0.0  122  142-270   109-260 (261)
+  6 4JMN_A Probable L,D-transpepti  99.0 1.8E-13 2.2E-18  107.5   0.0  113  147-270    91-219 (220)
+  7 4XVO_C L,D-transpeptidase; L,   99.0 2.6E-13 3.2E-18  106.7   0.0  116  144-270    91-222 (223)
+  8 2HKL_B ErfK/YbiS/YcfS/YnhG; l,  99.0   4E-13   5E-18  103.9   0.0  119  145-270   122-250 (250)
+  9 4LPQ_A ErfK/YbiS/YcfS/YnhG fam  99.0 5.7E-13   7E-18   98.5   0.0  112  145-270    81-207 (207)
+ 10 6IYV_A L,D-transpeptidase 2 (E  99.0 6.3E-13 7.8E-18  109.4   0.0  115  145-270   112-242 (272)
+ 11 6BOI_B Putative conserved lipo  98.9 7.9E-13 9.8E-18  111.7   0.0  113  147-270   195-323 (352)
+ 12 4A1K_A PUTATIVE L, D-TRANSPEPT  98.9   9E-13 1.1E-17   91.2   0.0  110  147-270    54-164 (165)
+ 13 6RLG_A Beta-lactamase (E.C.3.5  98.9 1.1E-12 1.3E-17  111.4   0.0  114  146-270   196-325 (355)
+ 14 5DU7_C L,D-transpeptidase 2; P  98.9 1.1E-12 1.4E-17  112.6   0.0  113  147-270   212-340 (370)
+ 15 3VYP_B Probable conserved lipo  98.9 1.2E-12 1.4E-17  108.1   0.0  116  144-270   108-239 (269)
+ 16 4A1J_A PUTATIVE L, D-TRANSPEPT  98.9 1.3E-12 1.6E-17   90.5   0.0  109  148-270    55-164 (165)
+ 17 4HUC_A PROBABLE CONSERVED LIPO  98.9 1.4E-12 1.7E-17  106.6   0.0  116  144-270   101-232 (262)
+ 18 1ZAT_A L,D-transpeptidase; L,D  98.9 1.4E-12 1.7E-17  101.7   0.0  119  145-270   122-250 (250)
+ 19 6D5A_A L,D-transpeptidase 5 (E  98.9 1.9E-12 2.3E-17  110.5   0.0  115  145-270   230-356 (388)
+ 20 5DVP_A L,D-transpeptidase 2 (E  98.9 2.2E-12 2.8E-17  109.3   0.0  113  147-270   193-321 (350)
+ 21 5BMQ_A ErfK/YbiS/YcfS/YnhG fam  98.7 1.3E-11 1.6E-16   97.7   0.0  111  148-270   124-237 (243)
+ 22 4Z7A_A Mycobacterium tuberculo  98.7 2.4E-11   3E-16  109.0   0.0  112  148-270   261-384 (451)
+ 23 6V45_A Probable carnitine oper  98.6 3.9E-11 4.8E-16   96.2   0.0  112  146-270    68-209 (209)
+ 24 4XZZ_B Conserved hypothetical   98.6 6.4E-11 7.9E-16   98.7   0.0  117  146-270    74-209 (339)
+ 25 4Y4V_B Conserved hypothetical   98.6 6.4E-11 7.9E-16   98.7   0.0  117  146-270    74-209 (339)
+ 26 4LZH_A L,D-transpeptidase; str  98.6 8.2E-11   1E-15  100.0   0.0  114  146-270    74-213 (285)
+ 27 6BIM_A Clan CA, family C40, Nl  98.1 7.5E-09 9.3E-14   80.1   0.0  113    7-119    25-145 (278)
+ 28 6BIO_A Clan CA, family C40, Nl  98.0 1.5E-08 1.9E-13   78.7   0.0  114    6-119    24-145 (278)
+ 29 1XOV_A Ply protein(E.C.3.5.1.2  97.5 4.1E-07 5.1E-12   73.3   0.0  107    8-114   202-322 (326)
+ 30 3H41_A NLP/P60 family protein,  97.5 5.1E-07 6.4E-12   73.9   0.0  108    9-117    47-176 (311)
+ 31 4KRT_A Autolytic lysozyme (E.C  97.5 6.7E-07 8.3E-12   72.3   0.0  111    6-116   228-350 (353)
+ 32 4KRT_B Autolytic lysozyme (E.C  97.5 6.7E-07 8.3E-12   72.3   0.0  111    6-116   228-350 (353)
+ 33 3NPF_B putative dipeptidyl-pep  97.4 7.4E-07 9.2E-12   70.7   0.0  111    7-118    18-144 (306)
+ 34 3NPF_A putative dipeptidyl-pep  97.4 1.1E-06 1.4E-11   69.7   0.0  111    7-118    18-144 (306)
+ 35 6NTW_A GIL01 gp7; l, d-transpe  95.8 0.00061 7.6E-09   65.8   0.0   44  151-198   346-389 (585)
+ 36 2KRS_A Probable enterotoxin; a  95.2   0.002 2.4E-08   40.8   0.0   51    8-58      9-59  (74)
+ 37 2KT8_A Probable surface protei  94.6  0.0058 7.2E-08   38.8   0.0   52    8-59     11-62  (76)
+ 38 2KYB_A Mannosyl-glycoprotein e  94.4  0.0075 9.4E-08   34.1   0.0   47    8-54     10-56  (60)
+ 39 3M1U_A Putative gamma-D-glutam  94.2  0.0096 1.2E-07   53.9   0.0  108    6-116   120-264 (434)
+ 40 2HBW_A NLP/P60 protein; Nlp/p6  93.7   0.015 1.8E-07   47.4   0.0   52    8-60     22-76  (235)
+ 41 6BIM_A Clan CA, family C40, Nl  93.5   0.018 2.2E-07   45.3   0.0   54    8-61     91-145 (278)
+ 42 2KQ8_A Cell wall hydrolase (E.  93.0   0.029 3.5E-07   35.5   0.0   53    8-60     10-62  (70)
+ 43 6BIO_A Clan CA, family C40, Nl  92.9    0.03 3.7E-07   44.3   0.0   54    8-61     91-145 (278)
+ 44 2KYB_A Mannosyl-glycoprotein e  92.1    0.05 6.1E-07   30.7   0.0   47   66-112    10-56  (60)
+ 45 1XOV_A Ply protein(E.C.3.5.1.2  91.8   0.058 7.2E-07   44.2   0.0   58   65-122   201-258 (326)
+ 46 6BIM_A Clan CA, family C40, Nl  90.8   0.096 1.2E-06   41.3   0.0   54   66-119    26-83  (278)
+ 47 2KRS_A Probable enterotoxin; a  90.8   0.098 1.2E-06   33.1   0.0   54   66-119     9-62  (74)
+ 48 3H41_A NLP/P60 family protein,  90.7     0.1 1.2E-06   43.5   0.0   52    9-61    126-178 (311)
+ 49 6BIO_A Clan CA, family C40, Nl  90.7     0.1 1.2E-06   41.4   0.0   56   64-119    24-83  (278)
+ 50 2HBW_A NLP/P60 protein; Nlp/p6  90.5    0.11 1.4E-06   42.4   0.0   53   66-119    22-77  (235)
+ 51 3NPF_A putative dipeptidyl-pep  90.4    0.11 1.4E-06   41.8   0.0   54   65-119    18-72  (306)
+ 52 3H41_A NLP/P60 family protein,  90.3    0.12 1.5E-06   43.1   0.0   54   67-120    47-109 (311)
+ 53 6B26_A SH3 and cysteine-rich d  90.1    0.13 1.6E-06   32.7   0.0   92   26-117    22-118 (120)
+ 54 6B27_D SH3 and cysteine-rich d  90.1    0.13 1.6E-06   32.7   0.0   92   26-117    22-118 (120)
+ 55 2KT8_A Probable surface protei  90.1    0.13 1.6E-06   32.7   0.0   52   66-117    11-62  (76)
+ 56 3NPF_B putative dipeptidyl-pep  90.0    0.13 1.6E-06   41.5   0.0   53   66-119    19-72  (306)
+ 57 6B25_A SH3 and cysteine-rich d  89.1    0.18 2.2E-06   32.2   0.0   90   26-116    22-115 (118)
+ 58 1XOV_A Ply protein(E.C.3.5.1.2  87.4     0.3 3.7E-06   40.2   0.0   48    9-56    271-322 (326)
+ 59 2KQ8_A Cell wall hydrolase (E.  86.0    0.41 5.1E-06   30.3   0.0   47   66-112    10-56  (70)
+ 60 4KRT_A Autolytic lysozyme (E.C  85.7    0.44 5.5E-06   39.3   0.0   51    8-58    296-350 (353)
+ 61 4KRT_B Autolytic lysozyme (E.C  85.7    0.44 5.5E-06   39.3   0.0   51    8-58    296-350 (353)
+ 62 3NPF_A putative dipeptidyl-pep  85.5    0.46 5.7E-06   38.4   0.0   53    8-60     91-144 (306)
+ 63 3NPF_B putative dipeptidyl-pep  84.6    0.55 6.8E-06   38.0   0.0   53    8-60     91-144 (306)
+ 64 6ILU_A Lysin; cell-wall bindin  83.5    0.67 8.3E-06   34.4   0.0   89    8-102    23-124 (140)
+ 65 4KRT_B Autolytic lysozyme (E.C  82.6    0.78 9.7E-06   37.9   0.0   54   66-119   230-286 (353)
+ 66 4KRT_A Autolytic lysozyme (E.C  82.6    0.78 9.7E-06   37.9   0.0   54   66-119   230-286 (353)
+ 67 1M9S_A Internalin B; internali  79.6     1.2 1.5E-05   39.8   0.0   92   28-122   398-518 (605)
+ 68 3M1U_A Putative gamma-D-glutam  76.1     1.8 2.3E-05   39.7   0.0   55   65-119   121-193 (434)
+ 69 1M9S_A Internalin B; internali  73.2     2.5   3E-05   38.0   0.0   86   28-113   477-590 (605)
+ 70 1NG2_A Neutrophil cytosolic fa  64.6       5 6.3E-05   30.8   0.0   91   28-119    32-136 (193)
+ 71 6B27_D SH3 and cysteine-rich d  55.5     9.4 0.00012   24.2   0.0   38   22-59     78-118 (120)
+ 72 6B26_A SH3 and cysteine-rich d  55.5     9.4 0.00012   24.2   0.0   38   22-59     78-118 (120)
+ 73 1UEC_A Neutrophil cytosol fact  54.5      10 0.00012   29.1   0.0   92   27-119    31-136 (193)
+ 74 1OV3_B Neutrophil cytosol fact  46.8      16  0.0002   23.7   0.0   29   29-57     33-62  (138)
+ 75 6B25_A SH3 and cysteine-rich d  45.9      17 0.00021   23.3   0.0   33   26-58     82-115 (118)
+ 76 3GZR_A uncharacterized protein  42.0      21 0.00026   23.3   0.0   30  154-184   103-132 (146)
+ 77 3GZR_B uncharacterized protein  41.8      22 0.00027   23.3   0.0   30  154-184   103-132 (146)
+ 78 3CU3_A Domain of unknown funct  41.8      22 0.00027   25.1   0.0   30  155-185   112-141 (172)
+ 79 1GRI_A GROWTH FACTOR BOUND PRO  40.6      23 0.00029   25.4   0.0   36   27-62     20-57  (217)
+ 80 4EPC_A N-acetylmuramoyl-L-alan  36.8      29 0.00036   29.9   0.0   89   27-115   218-331 (334)
+ 81 2UX0_C CALCIUM-CALMODULIN DEPE  36.8      29 0.00036   21.9   0.0   26  156-182   112-137 (143)
+ 82 1WLP_B Cytochrome b-245 light   36.6      29 0.00037   22.7   0.0   33   26-58     29-62  (138)
+ 83 1HKX_E CALCIUM/CALMODULIN-DEPE  35.8      31 0.00038   21.9   0.0   25  156-181   116-140 (147)
+ 84 6OF9_D CaMKII hub; Chlamydomon  34.5      33 0.00042   21.6   0.0   19  155-173   107-125 (134)
+ 85 6OF9_C CaMKII hub; Chlamydomon  34.5      33 0.00042   21.6   0.0   19  155-173   107-125 (134)
+ 86 3DUK_B NTF2-like protein of un  33.0      37 0.00046   21.7   0.0   19  154-172    97-115 (125)
+ 87 3HZP_A NTF2-like protein of un  31.8      40 0.00049   23.2   0.0   20  155-174    96-115 (131)
+ 88 3B8L_A Uncharacterized protein  31.2      41 0.00051   23.7   0.0   26  155-181   126-151 (163)
+ 89 3B8L_F Uncharacterized protein  31.2      41 0.00051   23.7   0.0   26  155-181   126-151 (163)
+ 90 5O3U_M Prolyl oligopeptidase,   30.9      42 0.00052   24.6   0.0   27  192-218     4-30  (38)
+ 91 2RCD_C Uncharacterized protein  29.2      47 0.00058   21.0   0.0   18  156-173   102-119 (129)
+ 92 4I4K_B uncharacterized protein  28.3      50 0.00062   21.1   0.0   18  155-172   114-131 (143)
+ 93 4I4K_A uncharacterized protein  28.3      50 0.00062   21.1   0.0   18  155-172   114-131 (143)
+ 94 4EPC_A N-acetylmuramoyl-L-alan  27.6      52 0.00065   28.4   0.0   40   22-61    126-171 (334)
+ 95 4OVM_D uncharacterized protein  27.5      53 0.00065   20.8   0.0   18  155-172   115-132 (144)
+ 96 4OVM_F uncharacterized protein  27.5      53 0.00065   20.8   0.0   18  155-172   115-132 (144)
+ 97 2F86_H Hypothetical protein K1  27.4      53 0.00066   21.4   0.0   21  156-176   108-128 (143)
+ 98 3B7C_A Uncharacterized protein  26.4      57  0.0007   19.7   0.0   18  155-172    97-114 (122)
+ 99 3KSP_A Calcium/calmodulin-depe  26.1      58 0.00072   20.4   0.0   21  155-175   100-120 (129)
+100 2R4I_A Uncharacterized protein  25.6      60 0.00074   19.8   0.0   17  157-173    98-114 (123)
+101 4Q2W_A Putative endo-beta-N-ac  25.5      60 0.00075   29.8   0.0   40   22-61     37-79  (290)
+102 2RFR_A Uncharacterized protein  24.1      66 0.00082   21.2   0.0   18  155-172   116-133 (155)
+103 6OF8_A Calcium/calmodulin-depe  23.7      68 0.00085   19.9   0.0   18  156-173   107-124 (135)
+104 6OF8_E Calcium/calmodulin-depe  23.3      70 0.00087   19.8   0.0   18  156-173   107-124 (135)
+105 5IG4_E CaMKII-A hub; Ca2+/CaM-  21.9      78 0.00097   20.5   0.0   18  155-172   117-134 (145)
+106 5IG4_C CaMKII-A hub; Ca2+/CaM-  21.9      78 0.00097   20.5   0.0   18  155-172   117-134 (145)
+107 5KVB_A Hexachlorocyclohexane d  21.6      81   0.001   21.9   0.0   18  156-173   116-133 (156)
+108 2RGQ_C Domain of Unknown Funct  20.6      87  0.0011   20.2   0.0   17  156-172   103-119 (144)
+109 2CHC_A PROTEIN RV3472; RV3472,  20.1      90  0.0011   22.8   0.0   19  155-173   106-124 (170)
+110 2CHC_B PROTEIN RV3472; RV3472,  20.1      90  0.0011   22.8   0.0   19  155-173   106-124 (170)
+111 3M1U_A Putative gamma-D-glutam  20.0      91  0.0011   29.2   0.0   46   10-58    214-264 (434)
+112 4GB5_A Uncharacterized protein  20.0      91  0.0011   21.5   0.0   25  156-181   117-141 (159)
+
+No 1
+>4XXT_A Fused Zn-dependent amidase/peptidase/peptodoglycan-binding domain-containing protein; L, D-transpeptidases, Structural Genomics, PSI-Biology; HET: EDO, MSE, IMD; 1.77A {Clostridium acetobutylicum}
+Probab=99.39  E-value=1.8e-16  Score=123.37  Aligned_cols=136  Identities=41%  Similarity=0.822  Sum_probs=110.1  Template_Neff=9.800
+
+Q T1002           134 DMIKFVNENNIKSTSDYLIVTDLRNKYTYIFKKDNGGWGQLYKWQCTIGKPETPTITGIFYISGRKPSFGTD-EYSVKYA  212 (270)
+Q Consensus       134 dmikfvnennikstsdylivtdlrnkytyifkkdnggwgqlykwqctigkpetptitgifyisgrkpsfgtd-eysvkya  212 (270)
+                      .|..+..........++.|+.|+.....++|+++++.|..+..+.|..|++..+|-.|.|.|..+.+.+... .....|.
+T Consensus       125 ~~~~~~~~~~~~~~~~~~I~V~~~~~~l~v~~~~~~~~~~v~~~~v~~G~~~~~TP~G~~~i~~~~~~~~~~~~~~~~~~  204 (261)
+T 4XXT_A          125 AAENLANSNDTPTYTKFFIITSLKEQRVYVFNGDPHNWKLINTFQCTSGASDTPTITGRFYVQGKGLAFKTSNDVICKYY  204 (261)
+T ss_dssp             HHHHHHHTSCCCCSSSEEEEEETTTTEEEEEEEETTEEEEEEEEECBCCCTTSCCCCEEEECCEEEEEC----CCCCEEE
+T ss_pred             HHHHHhcCCCCCCCCceEEEEECCCCEEEEEeCCCCceEEEEEEEeecCCCCCCCCCEEEEEceeeeeeeccCcccccee
+Confidence            333444444555678899999999999999999988999999999999999999999999999887655422 3346788
+
+
+Q T1002           213 TRIKGGYYYHSVLYDSTGSYIIDGRLGEALSHGCIRLSTENAKWIYDNIPDTTTVIIH  270 (270)
+Q Consensus       213 trikggyyyhsvlydstgsyiidgrlgealshgcirlstenakwiydnipdtttviih  270 (270)
+                      ++..|++.+|++.++..|.+ ..+.+|...|||||||+.++++|+|++++..+.|+|+
+T Consensus       205 ~~~~~~~~~~~~~~~~~g~~-~~~~~g~~~S~GCIrl~~~d~~~l~~~~~~Gt~V~I~  261 (261)
+T 4XXT_A          205 TQIQGNYLFHSILFDKNGNV-VDGTLGASLSHGCIRLAVQNAKYIYDTLPMGTGIWIY  261 (261)
+T ss_dssp             EEEETTEEEEECBC----CC-BCHHHHHHHHTTCEEECHHHHHHHHHHCCTTCEEEEC
+T ss_pred             eeeeCCEEEeeEEECCCCCe-ecCccCCCCCCCeEEECHHHHHHHHHhCCCCCEEEeC
+Confidence            88899999999999877754 4678899999999999999999999999999999986
+
+
+No 2
+>3ZG4_A ERFK/YBIS/YCFS/YNHG (E.C.2.3.2.12); TRANSFERASE, TRANSPEPTIDATION, PEPTIDOGLYCAN BIOSYNTHESIS, ANTIBIOTIC; NMR {ENTEROCOCCUS FAECIUM}
+Probab=99.14  E-value=3.3e-14  Score=97.63  Aligned_cols=116  Identities=26%  Similarity=0.363  Sum_probs=88.0  Template_Neff=10.500
+
+Q T1002           148 SDYLIVTDLRNKYTYIFKKDNGGWGQLYKWQCTIGKPETPTITGIFYISGRKPSFG---------TDEYSVKYATRIK-G  217 (270)
+Q Consensus       148 sdylivtdlrnkytyifkkdnggwgqlykwqctigkpetptitgifyisgrkpsfg---------tdeysvkyatrik-g  217 (270)
+                      .++.|+.|+.....+++..  +.  .+..|.|..|++..+|-.|.|.+..+.....         .......|+.++. +
+T Consensus         4 ~~~~i~v~~~~~~l~v~~~--~~--~~~~~~~~~G~~~~~Tp~G~~~v~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   79 (129)
+T 3ZG4_A            4 EDTYIEVDLENQHMWYYKD--GK--VALETDIVSGKPTTPTPAGVFYVWNKEEDATLKGTNDDGTPYESPVNYWMPIDWT   79 (129)
+T ss_dssp             SSSEEEEETTTTEEEEEET--TE--EEEEEECCBCCTTSCCCCSCEECCCCEESCEEEEECSSSCEEEEECSEEEECSSS
+T ss_pred             cCcEEEEECCCCEEEEEEC--CE--EEEEEEccCCCCCCCCCCEEEEEEEeeeCceeeccCCCCCCCcCCCcceeeccCC
+Confidence            4678889999998999863  22  6789999999999999999999987543211         1112345666664 5
+
+
+Q T1002           218 GYYYHSVLYDSTGSYIIDGRLGEALSHGCIRLSTENAKWIYDNIPDTTTVIIH  270 (270)
+Q Consensus       218 gyyyhsvlydstgsyiidgrlgealshgcirlstenakwiydnipdtttviih  270 (270)
+                      +++.|+.-+....   -...+|...|||||||+.++++|+|+++|..|+|+||
+T Consensus        80 ~~~iH~~~~~~~~---~~~~~g~~~S~GCirl~~~d~~~l~~~~~~gt~V~i~  129 (129)
+T 3ZG4_A           80 GVGIHDSDWQPEY---GGDLWKTRGSHGCINTPPSVMKELFGMVEKGTPVLVF  129 (129)
+T ss_dssp             SCEEEECSSSCCC---STTCHHHHCCSSCEEECTTTHHHHHHHCCTTCEECCC
+T ss_pred             ceEEeccCCChhh---CCCccccCCCCCceeCCHHHHHHHHhhCCCCCeEEEC
+Confidence            7888887665431   1334578899999999999999999999999999986
+
+
+No 3
+>6FJ1_C L,D-TRANSPEPTIDASE; L, D-TRANSPEPTIDATION, PEPTIDOGLYCAN, ANTIBIOTIC RESISTANCE; HET: P3G, NXL, GOL; 2.69A {Enterococcus faecium}
+Probab=99.10  E-value=6.6e-14  Score=110.63  Aligned_cols=119  Identities=26%  Similarity=0.383  Sum_probs=94.9  Template_Neff=9.400
+
+Q T1002           145 KSTSDYLIVTDLRNKYTYIFKKDNGGWGQLYKWQCTIGKPETPTITGIFYISGRKPSFG-------TDEYSVKYATRIK-  216 (270)
+Q Consensus       145 kstsdylivtdlrnkytyifkkdnggwgqlykwqctigkpetptitgifyisgrkpsfg-------tdeysvkyatrik-  216 (270)
+                      ....++.|+.|+.+...++|+  +|  .-++.|.|..|++++||-+|.|.|..+.+...       .-...+.|+.++. 
+T Consensus       124 ~~~~~~~i~Vd~~~~~l~~~~--~g--~~v~~~~v~~G~~~~~TP~G~~~v~~k~~~~~~~~~~g~~~~~~~~~~~~~~~  199 (258)
+T 6FJ1_C          124 PLIEDTYIEVDLENQHMWYYK--DG--KVALETDIVSGKPTTPTPAGVFYVWNKEEDATLKGTNGTPYESPVNYWMPIDW  199 (258)
+T ss_dssp             CSSCSCEEEEETTTTEEEEEE--TT--EEEEEEECBCBCTTSCCCCEEEECCCCEEEEEEEECSSSCEEEEEEEEEECST
+T ss_pred             CCCCCcEEEEECCCCEEEEEE--CC--EEEEEEEeEcCCCCCCCCCeeEEEEEEecCceeeCCCCCCCCCCCcceeeCCC
+Confidence            456788999999999999997  23  35788999999999999999999988765421       1224567888887 
+
+
+Q T1002           217 GGYYYHSVLYDSTGSYIIDGRLGEALSHGCIRLSTENAKWIYDNIPDTTTVIIH  270 (270)
+Q Consensus       217 ggyyyhsvlydstgsyiidgrlgealshgcirlstenakwiydnipdtttviih  270 (270)
+                      +|++.|+.-+.+.  + ....+|.+.|||||||+.++|+|+|+++|..|+|+|.
+T Consensus       200 ~~~~iHg~~~~~~--~-~~~~~~~~~ShGCIrl~~~da~~ly~~~~~Gt~V~i~  250 (258)
+T 6FJ1_C          200 TGVGIHDSDWQPE--Y-GGDLWKTRGSHGCINTPPSVMKELFGMVEKGTPVLVF  250 (258)
+T ss_dssp             TCCEEEECSSCSC--C-CTTTHHHHCBSSSEEECHHHHHHHHHHCCTTCEEEEE
+T ss_pred             CcEEEEcCCCChh--h-CCCccccCCCCCceeCCHHHHHHHHhhCCCCCeEEEe
+Confidence            6899998765432  1 1235678899999999999999999999999999873
+
+
+No 4
+>5E5L_D L,D-transpeptidase 1; Peptidoglycan synthesis enzyme, cell wall; 1.89A {Mycobacterium tuberculosis}
+Probab=99.08  E-value=9.7e-14  Score=109.81  Aligned_cols=113  Identities=27%  Similarity=0.525  Sum_probs=86.0  Template_Neff=8.800
+
+Q T1002           147 TSDYLIVTDLRNKYTYIFKKDNGGWGQLYKWQCTIGKPETPTITGIFYISGRKPSFG------------TDEY--SVKYA  212 (270)
+Q Consensus       147 tsdylivtdlrnkytyifkkdnggwgqlykwqctigkpetptitgifyisgrkpsfg------------tdey--svkya  212 (270)
+                      ..+++|+.|+.....++|+.  |  ..+..|.|.+|+++.+|-.|.|.|..+.+..-            .+.|  .++|+
+T Consensus        94 g~~~ii~vd~~~~~l~v~~~--g--~~v~~~~vs~G~~~~~TP~G~~~I~~k~~~~~~~~~~~~~~~~~~~~y~~~~~~~  169 (223)
+T 5E5L_D           94 GDALIGVASISAHTFTVSRN--G--EVLRTMPASLGKPSRPTPIGSFHAMSKERTVVMDSRTIGIPLNSSDGYLLTAHYA  169 (223)
+T ss_dssp             CCCEEEEEETTTTEEEEEES--S--CEEEEEECEEC---CCCCCEEEECCEEEEEEEEEGGGGTCCTTSTTCCEEEEEEE
+T ss_pred             CCEEEEEEECCCCEEEEEEC--C--EEEEEEEcccCCCCCCCCCeEEEeeEeeccceeecCcCCCCCCCcccccceeeee
+Confidence            45688899999999999873  3  46789999999999999999999988766532            1122  47889
+
+
+Q T1002           213 TRIK-GGYYYHSVLYDSTGSYIIDGRLG-EALSHGCIRLSTENAKWIYDNIPDTTTVIIH  270 (270)
+Q Consensus       213 trik-ggyyyhsvlydstgsyiidgrlg-ealshgcirlstenakwiydnipdtttviih  270 (270)
+                      .++. +|++.|+.-...       +.+| ...|||||||+.++|+|+|++++..|.|+|+
+T Consensus       170 ~~~~~~g~~iHg~~~~~-------~~~G~~~~ShGCIrl~~~da~~l~~~v~~Gt~V~I~  222 (223)
+T 5E5L_D          170 VRVTWSGVYVHSAPWSV-------NSQGYANVSHGCINLSPDNAAWYFDAVTVGDPIEVV  222 (223)
+T ss_dssp             EECCTTSCEEEECCCC-------------CCCCTTCEEECHHHHHHHHHHCCTTCEEEEE
+T ss_pred             eeccCCcEEEecCCCcc-------ccCCCCCCCCcceecCHHHHHHHHHhCCCCCeEEEE
+Confidence            9985 899999865432       2344 6799999999999999999999999999875
+
+
+No 5
+>6D4K_A Probable L,D-transpeptidase 3 (E.C.2.3.2.-); Apo-form, TRANSFERASE; 1.32A {Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)}
+Probab=99.07  E-value=1.1e-13  Score=118.14  Aligned_cols=122  Identities=30%  Similarity=0.502  Sum_probs=96.6  Template_Neff=6.800
+
+Q T1002           142 NNIKSTSDYLIVTDLRNKYTYIFKKDNGG--------------WGQLYKWQCTIGKPETPTITGIFYISGRKPSFG----  203 (270)
+Q Consensus       142 nnikstsdylivtdlrnkytyifkkdngg--------------wgqlykwqctigkpetptitgifyisgrkpsfg----  203 (270)
+                      .+++...+++|+.|+...--++|..+..-              |.....+.|..|+++.||..|.|.|..+.+..-    
+T Consensus       109 ~~~~~g~~~~ivVd~~~~~l~V~~~g~~v~~~~~~~~~~~~~~~~~~~t~~vs~G~~~~~TP~G~~~V~~K~~~~~~~~~  188 (261)
+T 6D4K_A          109 SDFKTGPAVVGVASISQHTFTVSIDGVEEGPPPPLPAPHHRVHFGEDGVMPASMGRPEYPTPVGSYTVLSKERSVIMDSS  188 (261)
+T ss_pred             eeeEeCCeEEEEEECCCCEEEEEECCEEEecCCCCCCccccceeecCeEEEEEccCCCCCCCCeeEEEEEeecCCCCCCC
+Confidence            34556677899999998888888765433              444478999999999999999999998765421    
+
+
+Q T1002           204 --------TDEY--SVKYATRIK-GGYYYHSVLYDSTGSYIIDGRLGE-ALSHGCIRLSTENAKWIYDNIPDTTTVIIH  270 (270)
+Q Consensus       204 --------tdey--svkyatrik-ggyyyhsvlydstgsyiidgrlge-alshgcirlstenakwiydnipdtttviih  270 (270)
+                              .+.|  .+.|+.|+. +|++.|+..+.       .+.+|. ..|||||||+.++|+|+|++++..+.|+|.
+T Consensus       189 ~~g~~~~~p~~Y~~~v~~~~~~~~~g~~iHg~~~~-------~~~~G~~~~ShGCIrL~~~dA~wly~~v~~Gt~V~I~  260 (261)
+T 6D4K_A          189 SVGIPVDDPDGYRLSVDYAVRITSRGLYVHSAPWA-------LPALGLENVSHGCISLSREDAEWYYNAVDIGDPVIVQ  260 (261)
+T ss_pred             CCCCCCCCccccccccceeecccCCCccccccCCc-------cccCCCCCCCCCeEEeCHHHHHHHHHhCCCCCeEEEe
+Confidence                    1122  458999997 89999997654       246774 899999999999999999999999988874
+
+
+No 6
+>4JMN_A Probable L,D-transpeptidase LdtA; IG-like domain and beta barrel; 2.2A {Mycobacterium tuberculosis}
+Probab=99.05  E-value=1.8e-13  Score=107.45  Aligned_cols=113  Identities=27%  Similarity=0.525  Sum_probs=89.5  Template_Neff=9.000
+
+Q T1002           147 TSDYLIVTDLRNKYTYIFKKDNGGWGQLYKWQCTIGKPETPTITGIFYISGRKPSFG------------TDEY--SVKYA  212 (270)
+Q Consensus       147 tsdylivtdlrnkytyifkkdnggwgqlykwqctigkpetptitgifyisgrkpsfg------------tdey--svkya  212 (270)
+                      ..+++|+.|+.....++|+.  |  ..+..|.|..|++..+|-.|.|.|..+.+..-            .+.|  .++|+
+T Consensus        91 g~~~ii~v~~~~~~l~v~~~--g--~~v~~~~vs~G~~~~~TP~G~~~I~~k~~~~~~~~~~~~~~~~~~~~y~~~~~~~  166 (220)
+T 4JMN_A           91 GDALIGVASISAHTFTVSRN--G--EVLRTMPASLGKPSRPTPIGSFHAMSKERTVVMDSRTIGIPLNSSDGYLLTAHYA  166 (220)
+T ss_dssp             CCCEEEEEETTTTEEEEEET--T--EEEEEEECBCBCTTSCCCCEEEECCEEEEEEEEEGGGGTCCTTSTTCCEEEEEEE
+T ss_pred             CCEEEEEEECCCCEEEEEEC--C--EEEEEEEcccCCCCCCCCCeeEEceeccceeeeccccCCCCCCCcccccceeeee
+Confidence            35688889999998888873  2  45778999999999999999999987765432            1222  37889
+
+
+Q T1002           213 TRIK-GGYYYHSVLYDSTGSYIIDGRLG-EALSHGCIRLSTENAKWIYDNIPDTTTVIIH  270 (270)
+Q Consensus       213 trik-ggyyyhsvlydstgsyiidgrlg-ealshgcirlstenakwiydnipdtttviih  270 (270)
+                      .++. +|++.|+.-...       +.+| ...|||||||+.++|+|+|++++..|.|+|+
+T Consensus       167 ~~~~~~g~~iHg~~~~~-------~~~g~~~~ShGCIrl~~~da~~l~~~v~~Gt~V~I~  219 (220)
+T 4JMN_A          167 VRVTWSGVYVHSAPWSV-------NSQGYANVSHGCINLSPDNAAWYFDAVTVGDPIEVV  219 (220)
+T ss_dssp             EECSTTSCEEEECGGGT-------TTTTTCCCBSSSEEECHHHHHHHHHHCCTTCEEEEC
+T ss_pred             eeccCCcEEEecCCCcc-------ccCCCCCCCCcceecChHHHHHHHHhCCCCCeEEEE
+Confidence            9986 899999865432       2334 6799999999999999999999999999874
+
+
+No 7
+>4XVO_C L,D-transpeptidase; L, D-transpeptidase, Mycobacterium, Structural Genomics; HET: MSE, PO4; 2.6A {Mycobacterium smegmatis}
+Probab=99.02  E-value=2.6e-13  Score=106.68  Aligned_cols=116  Identities=34%  Similarity=0.575  Sum_probs=90.6  Template_Neff=9.000
+
+Q T1002           144 IKSTSDYLIVTDLRNKYTYIFKKDNGGWGQLYKWQCTIGKPETPTITGIFYISGRKPSFGTD------------EY--SV  209 (270)
+Q Consensus       144 ikstsdylivtdlrnkytyifkkdnggwgqlykwqctigkpetptitgifyisgrkpsfgtd------------ey--sv  209 (270)
+                      .....+..|+.|+..+..+++..  |  ..+..+.|..|++..||-.|.|+|..+.+.+.-+            .|  .+
+T Consensus        91 ~~~~~~~~i~Vd~~~~~l~v~~~--g--~~v~~~~v~~G~~~~~TP~G~~~V~~k~~~~~~~~~~~~~~~~~~~~~~~~~  166 (223)
+T 4XVO_C           91 FNTGAEVLGVADIDAHTFTVSVD--G--EVLRKMPASMGKPKFPTPRGTFTALAKEPVVVMDSRTIGIPLSDPEGYKLTV  166 (223)
+T ss_dssp             EEECCCEEEEEETTTTEEEEEET--T--EEEEEEECBCBCTTSCCCCEEEECCEEEEEEEEEGGGGTCCTTSTTCCEEEE
+T ss_pred             eEeCCCEEEEEEcCCCEEEEEEC--C--EEEEEEECcccCCCCCCCCEEEEEEEEcCceEecccccccCCCCcccccccc
+Confidence            33456788999999998888873  2  4577899999999999999999999887754211            11  24
+
+
+Q T1002           210 KYATRI-KGGYYYHSVLYDSTGSYIIDGRLGE-ALSHGCIRLSTENAKWIYDNIPDTTTVIIH  270 (270)
+Q Consensus       210 kyatri-kggyyyhsvlydstgsyiidgrlge-alshgcirlstenakwiydnipdtttviih  270 (270)
+                      +|+.++ .+|++.|+.-..       .|.+|. +.|||||||+.++|+|+|++++..+.|+|+
+T Consensus       167 ~~~~~~~~~~i~iHg~p~~-------~~~~g~~~~ShGCIrl~~~da~~l~~~~~~Gt~V~I~  222 (223)
+T 4XVO_C          167 NHAVRVTWGGVYVHSAPWS-------VGSQGYANVSHGCINLSPDNAAWYYDMVSVGDPIIVQ  222 (223)
+T ss_dssp             EEEEECCTTSCEEEECGGG-------TTTTTTCCCBSSSEEECHHHHHHHHHHCCTTCEEEEE
+T ss_pred             ceeeeccCCcEEEeCCCCc-------ccCCCCccCCCCceeeCHHHHHHHHHhCCCCCeEEEE
+Confidence            677777 568888875422       245665 799999999999999999999999999885
+
+
+No 8
+>2HKL_B ErfK/YbiS/YcfS/YnhG; l, d-transpeptidase, antibiotic resistance, TRANSFERASE; HET: SO4; 2.6A {Enterococcus faecium}
+Probab=98.99  E-value=4e-13  Score=103.89  Aligned_cols=119  Identities=24%  Similarity=0.343  Sum_probs=91.1  Template_Neff=9.900
+
+Q T1002           145 KSTSDYLIVTDLRNKYTYIFKKDNGGWGQLYKWQCTIGKPETPTITGIFYISGRKPSFG--T-----DEY--SVKYATRI  215 (270)
+Q Consensus       145 kstsdylivtdlrnkytyifkkdnggwgqlykwqctigkpetptitgifyisgrkpsfg--t-----dey--svkyatri  215 (270)
+                      ....++.|+.|+.+...++|..  |  ..+..|.|..|++++||-.|.|+|..+.+...  .     ..|  .+.|+.++
+T Consensus       122 ~~~~~~~i~Vd~~~~~l~v~~~--g--~~v~~~~v~~G~~~~~TP~G~~~i~~k~~~~~~~~~~~~~~~~~~~~~~~~~~  197 (250)
+T 2HKL_B          122 PLIEDTYIEVDLENQHMWYYKD--G--KVALETDIVSGKPTTPTPAGVFYVWNKEEDATLKGTNDDGTPYESPVNYWMPI  197 (250)
+T ss_dssp             CSSCSCEEEEETTTTEEEEEET--T--EEEEEEECBCBCTTSCCCCEEEECCCCEEEEECCEEC--CCEECCEEEEEEEC
+T ss_pred             CCCCCcEEEEECCCCEEEEEEC--C--EEEEEEEeEcCCCCCCCCCeEEEEEEEecCceeeccCCCCCCCCCCCCccccC
+Confidence            3456789999999999999872  2  46788999999999999999999988764311  0     123  25677777
+
+
+Q T1002           216 K-GGYYYHSVLYDSTGSYIIDGRLGEALSHGCIRLSTENAKWIYDNIPDTTTVIIH  270 (270)
+Q Consensus       216 k-ggyyyhsvlydstgsyiidgrlgealshgcirlstenakwiydnipdtttviih  270 (270)
+                      . +|++.|..-+...   .-.+.++.+.|||||||+.+.|+|+|+++|..|.|+|+
+T Consensus       198 ~~~~~~iHg~~~~~~---~~~~~~~~~~S~GCIrl~~~da~~l~~~~~~Gt~V~I~  250 (250)
+T 2HKL_B          198 DWTGVGIHDSDWQPE---YGGDLWKTRGSHGSINTPPSVMKELFGMVEKGTPVLVF  250 (250)
+T ss_dssp             SSSSCEEEECTTCSS---CSTTHHHHHCBSSSEEECHHHHHHHHHHCCTTCEEEEC
+T ss_pred             CCCcEEEEccCCChh---hCCCccccCCCCCcccCCHHHHHHHHHhCCCCCeEEEC
+Confidence            6 6888887644321   11224678899999999999999999999999999986
+
+
+No 9
+>4LPQ_A ErfK/YbiS/YcfS/YnhG family protein; MCSG, LD-transpeptidase, Structural Genomics, Midwest; 1.37A {Xylanimonas cellulosilytica}
+Probab=98.97  E-value=5.7e-13  Score=98.50  Aligned_cols=112  Identities=22%  Similarity=0.390  Sum_probs=86.7  Template_Neff=10.400
+
+Q T1002           145 KSTSDYLIVTDLRNKYTYIFKKDNGGWGQLYKWQCTIGKPE----------TPTITGIFYISGRKPSFGTDEYS---VKY  211 (270)
+Q Consensus       145 kstsdylivtdlrnkytyifkkdnggwgqlykwqctigkpe----------tptitgifyisgrkpsfgtdeys---vky  211 (270)
+                      .+..+++|+.|+...-.+++.  +|  ..++.+.|..|+++          .+|-+|.|.+..+.+.+....+.   ..+
+T Consensus        81 ~~~~~~~i~v~~~~~~l~~~~--~~--~~~~~~~~~~G~~~~~~~~~~~~~~~Tp~G~~~v~~k~~~~~~~~~~~~~~~~  156 (207)
+T 4LPQ_A           81 RSSSGKVVEIDLDKQILLAVE--DG--RVVRIINASSGNGETYEAKGRTYRATTPRGDFAVYMQRDGMHSSTLELGDMWR  156 (207)
+T ss_dssp             SCCSSEEEEEETTTTEEEEEE--TT--EEEEEEECBCBCCCEEEETTEEEECCCCCEEEECCEECSSEECCSSCSSCEEE
+T ss_pred             CCCCCceEEecccccEEEEee--CC--cEEEEEEceeeCCcccccCCeEeEeecCCcceEEEeccCCCcccceecccCcc
+Confidence            345678899998888777776  22  45778999999987          78999999998776544333332   445
+
+
+Q T1002           212 ATRIKGGYYYHSVLYDSTGSYIIDGRLGEALSHGCIRLSTENAKWIYDN--IPDTTTVIIH  270 (270)
+Q Consensus       212 atrikggyyyhsvlydstgsyiidgrlgealshgcirlstenakwiydn--ipdtttviih  270 (270)
+                      +....+|++.|+.-+          ++|...|||||||+.++++|+|++  +|..|.|+|+
+T Consensus       157 ~~~~~~~~~iHg~~~----------~~g~~~S~GCI~l~~~d~~~l~~~~~~~~gt~V~i~  207 (207)
+T 4LPQ_A          157 PKYFRGGYAVHGSSS----------IPTYPASHGCVRVSNAAMNWLWDSWGMPIGTRVLLY  207 (207)
+T ss_dssp             EEEEETTEEEEECSC----------CCSSCCBSSSEEECHHHHHCCCCCCCCCTTCEEEEC
+T ss_pred             ceeeeCeEEEecCCC----------CCCCCCccCeEecCHHHHHHHHHhcCCCCCCeEEEC
+Confidence            556677888886432          467789999999999999999999  9999999885
+
+
+No 10
+>6IYV_A L,D-transpeptidase 2 (E.C.2.3.2.-); LD-TRANSPEPTIDASE, PEPTIDOGLYCAN SYNTHESIS ENZYME, beta-lactam; HET: PEG, GOL, 2RG; 1.5A {Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)}
+Probab=98.96  E-value=6.3e-13  Score=109.42  Aligned_cols=115  Identities=28%  Similarity=0.492  Sum_probs=92.4  Template_Neff=8.400
+
+Q T1002           145 KSTSDYLIVTDLRNKYTYIFKKDNGGWGQLYKWQCTIGKPETPTITGIFYISGRKPSFG--TD----------E--YSVK  210 (270)
+Q Consensus       145 kstsdylivtdlrnkytyifkkdnggwgqlykwqctigkpetptitgifyisgrkpsfg--td----------e--ysvk  210 (270)
+                      .....+.|+.|+.....++|.  +|  ..+..+.|..|+++.||-.|.|.|..+.+..-  ..          .  ..+.
+T Consensus       112 ~~g~~~~I~Vd~~~~~l~v~~--~g--~~v~~~~vs~G~~~~~TP~G~~~V~~k~~~~~~~~~~~~~~~~~~~~y~~~~~  187 (272)
+T 6IYV_A          112 TIGDEVIATADDNTKILTVRV--NG--EVVKSMPTSMGKDSTPTANGIYIVGSRYKHIIMDSSTYGVPVNSPNGYRTDVD  187 (272)
+T ss_dssp             EECCCEEEEEETTTTEEEEEE--TT--EEEEEEECBCBCTTSCCCBEEEECCCEEEEEEEEGGGGTCCTTSTTCCEEEEE
+T ss_pred             eeCCEEEEEEECCCCEEEEEE--CC--EEEEEEEcccCCCCCCCCCeEEEeeEeeccccccccccCCCCCCCCCCccCcc
+Confidence            345678899999999999998  33  46788999999999999999999998765432  11          1  2357
+
+
+Q T1002           211 YATRIK-GGYYYHSVLYDSTGSYIIDGRLG-EALSHGCIRLSTENAKWIYDNIPDTTTVIIH  270 (270)
+Q Consensus       211 yatrik-ggyyyhsvlydstgsyiidgrlg-ealshgcirlstenakwiydnipdtttviih  270 (270)
+                      |+.|+. +|++.|+.....       |.+| ...|||||||+.++|+|+|++++.-+.|+|+
+T Consensus       188 ~~~~l~~~g~~IHg~~~~~-------~~~G~~~~ShGCIrl~~~da~~ly~~v~~Gt~V~I~  242 (272)
+T 6IYV_A          188 WATQISYSGVFVHSAPWSV-------GAQGHTNTSHGCLNVSPSNAQWFYDHVKRGDIVEVV  242 (272)
+T ss_dssp             EEEECCTTCCEEEECGGGT-------TTTTTCCCBSSSEEECHHHHHHHHHHCCTTCEEEEE
+T ss_pred             eEEEecCCcEEEeccCCcc-------ccCCCCCCCCCceeeCHHHHHHHHHhCCCCCEEEEE
+Confidence            888886 899999876432       2466 6899999999999999999999999998874
+
+
+No 11
+>6BOI_B Putative conserved lipoprotein LppS; L, D-Transpeptidase 2, Carbapenem, Complex; HET: SO4, E0Y, GOL, PEG; 2.102A {Mycobacterium tuberculosis (strain ATCC 25177 / H37Ra)}
+Probab=98.95  E-value=7.9e-13  Score=111.75  Aligned_cols=113  Identities=28%  Similarity=0.531  Sum_probs=91.4  Template_Neff=8.600
+
+Q T1002           147 TSDYLIVTDLRNKYTYIFKKDNGGWGQLYKWQCTIGKPETPTITGIFYISGRKPSFG--T----------DEY--SVKYA  212 (270)
+Q Consensus       147 tsdylivtdlrnkytyifkkdnggwgqlykwqctigkpetptitgifyisgrkpsfg--t----------dey--svkya  212 (270)
+                      ..+++|+.|+.....++|+.  |  ..+..|.|..|++++||..|.|.|..+.+..-  .          ..|  .++|+
+T Consensus       195 g~~~~i~V~~~~~~l~v~~~--g--~~v~~~~vs~G~~~~~TP~G~~~V~~k~~~~~~~~~~~~~~~~~~~~y~~~~~~~  270 (352)
+T 6BOI_B          195 GDEVIATADDNTKILTVRVN--G--EVVKSMPTSMGKDSTPTANGIYIVGSRYKHIIMDSSTYGVPVNSPNGYRTDVDWA  270 (352)
+T ss_dssp             CCCEEEEEETTTTEEEEEET--T--EEEEEEECBCBCTTSCCCBEEEECCCEEEEEEEEGGGGTCCTTSTTCCEEEEEEE
+T ss_pred             CCeEEEEEECCCCEEEEEEC--C--EEEEEEEceecCCCCCCCCEEEEeeEeecceeecccccCCCCCCCCCccccccce
+Confidence            45678999999999999973  2  35788999999999999999999998866532  1          122  45789
+
+
+Q T1002           213 TRIK-GGYYYHSVLYDSTGSYIIDGRLG-EALSHGCIRLSTENAKWIYDNIPDTTTVIIH  270 (270)
+Q Consensus       213 trik-ggyyyhsvlydstgsyiidgrlg-ealshgcirlstenakwiydnipdtttviih  270 (270)
+                      .++. +|++.|+.-...       +.+| ...|||||||+.++|+|+|++++.-+.|+|+
+T Consensus       271 ~~~~~~g~~iHg~~~~~-------~~~G~~~~ShGCIrl~~~da~~l~~~~~~Gt~V~I~  323 (352)
+T 6BOI_B          271 TQISYSGVFVHSAPWSV-------GAQGHTNTSHGCLNVSPSNAQWFYDHVKRGDIVEVV  323 (352)
+T ss_dssp             EECCTTSCEEEECGGGT-------TTTTTCCCBSSCEEECHHHHHHHHHHCCTTCEEEEE
+T ss_pred             EEecCCCEEEEeeCCcc-------cCCCCCCCCCCceeeCHHHHHHHHHhCCCCCEEEEE
+Confidence            9986 899999875432       2455 5899999999999999999999999999885
+
+
+No 12
+>4A1K_A PUTATIVE L, D-TRANSPEPTIDASE YKUD (E.C.2.-.-.-); TRANSFERASE, PEPTIDOGLYCAN SYNTHESIS; 1.75A {BACILLUS SUBTILIS}
+Probab=98.94  E-value=9e-13  Score=91.22  Aligned_cols=110  Identities=26%  Similarity=0.362  Sum_probs=81.6  Template_Neff=11.200
+
+Q T1002           147 TSDYLIVTDLRNKYTYIFKKDNGGWGQLYKWQCTIGKPETPTITGIFYISGRKPSFGTDEYSVKYATRIK-GGYYYHSVL  225 (270)
+Q Consensus       147 tsdylivtdlrnkytyifkkdnggwgqlykwqctigkpetptitgifyisgrkpsfgtdeysvkyatrik-ggyyyhsvl  225 (270)
+                      +..+.|..|+.....+++..+    ..+..+.|..|++..||-.|.|++..+......  ....|+.+.. +++..|+.-
+T Consensus        54 ~~~~~i~v~~~~~~~~~~~~~----~~~~~~~v~~G~~~~~tp~G~~~v~~k~~~~~~--~~~~~~~~~~~~~~~~h~~~  127 (165)
+T 4A1K_A           54 TIPYHIAVSIGAKTLTLSLNN----RVMKTYPIAVGKILTQTPTGEFYIINRQRNPGG--PFGAYWLSLSAAHYGIHGTN  127 (165)
+T ss_dssp             GCCEEEEEETTTTEEEEEETT----EEEEEEECBEECGGGCCCCEEEEEEEEEECCCG--GGTTEEEEESSTTCEEECCS
+T ss_pred             CCCeEEEEEcCCcEEEEEeCC----eEEEEEEEEecCCCccCCCEEEEEEecccCCCC--CchheeEEeccccEEEccCC
+Confidence            344666677766666666522    345688999999999999999999887654321  1234555554 577778754
+
+
+Q T1002           226 YDSTGSYIIDGRLGEALSHGCIRLSTENAKWIYDNIPDTTTVIIH  270 (270)
+Q Consensus       226 ydstgsyiidgrlgealshgcirlstenakwiydnipdtttviih  270 (270)
+                      ..        .++|...|||||||+.++|+|+|+++|..|.|+|+
+T Consensus       128 ~~--------~~~~~~~s~Gci~l~~~~~~~l~~~~~~gt~v~i~  164 (165)
+T 4A1K_A          128 NP--------ASIGKAVSKGCIRMHNKDVIELASIVPNGTRVTIN  164 (165)
+T ss_dssp             CG--------GGTTSEEESSSEECCHHHHHHHHHHCCTTCEEEEE
+T ss_pred             Cc--------hhcCCccCCCceecChHHHHHHHhhCCCCCEEEEe
+Confidence            32        45678899999999999999999999999999885
+
+
+No 13
+>6RLG_A Beta-lactamase (E.C.3.5.2.6); beta lactmase, antibiotic resistance, tuberculosis; HET: EDO, TRS; 1.51000183032A {Mycobacterium tuberculosis (strain CDC 1551 / Oshkosh)}
+Probab=98.93  E-value=1.1e-12  Score=111.44  Aligned_cols=114  Identities=28%  Similarity=0.521  Sum_probs=91.8  Template_Neff=8.500
+
+Q T1002           146 STSDYLIVTDLRNKYTYIFKKDNGGWGQLYKWQCTIGKPETPTITGIFYISGRKPSFG--T----------DEY--SVKY  211 (270)
+Q Consensus       146 stsdylivtdlrnkytyifkkdnggwgqlykwqctigkpetptitgifyisgrkpsfg--t----------dey--svky  211 (270)
+                      ...+++|+.|+.....++|+.  |  ..+..+.|..|+++.||-.|.|+|..+.+..-  .          ..|  .++|
+T Consensus       196 ig~~~~i~Vd~~~~~l~v~~~--g--~~v~~~~vs~G~~~~~TP~G~~~v~~k~~~~~~~~~~~~~~~~~~~~y~~~~~~  271 (355)
+T 6RLG_A          196 IGDEVIATADDNTKILTVRVN--G--EVVKSMPTSMGKDSTPTANGIYIVGSRYKHIIMDSSTYGVPVNSPNGYRTDVDW  271 (355)
+T ss_dssp             ECCCEEEEEETTTTEEEEEET--T--EEEEEEECBCBCTTSCCCBEEEECCCEEEEEEEEGGGGTCCTTSTTCCEEEEEE
+T ss_pred             cCCeEEEEEeCCCCEEEEEEC--C--EEEEEEEccccCCCCCCCCEEEEeeEeecceeecccccCCCCCCCCCccccccc
+Confidence            346678999999999999972  2  46788999999999999999999998876532  1          112  4578
+
+
+Q T1002           212 ATRIK-GGYYYHSVLYDSTGSYIIDGRLG-EALSHGCIRLSTENAKWIYDNIPDTTTVIIH  270 (270)
+Q Consensus       212 atrik-ggyyyhsvlydstgsyiidgrlg-ealshgcirlstenakwiydnipdtttviih  270 (270)
+                      +.++. +|++.|..-...       +.+| ...|||||||+.++|+|+|++++.-+.|.|+
+T Consensus       272 ~~~~~~~g~~iHg~~~~~-------~~~G~~~~ShGCIrl~~~da~~l~~~~~~Gt~V~I~  325 (355)
+T 6RLG_A          272 ATQISYSGVFVHSAPWSV-------GAQGHTNTSHGCLNVSPSNAQWFYDHVKRGDIVEVV  325 (355)
+T ss_dssp             EEECCTTSCEEEECGGGT-------TTTTTCCCBSSSEEECHHHHHHHHHHCCTTCEEEEE
+T ss_pred             eeEecCCCEEEEeecCcc-------cCCCCCCCCCCccccCHHHHHHHHHhCCCCCEEEEE
+Confidence            88887 899999875432       1455 6899999999999999999999999998875
+
+
+No 14
+>5DU7_C L,D-transpeptidase 2; Peptidoglycan synthesis enzyme, cell wall; 1.79A {Mycobacterium tuberculosis}
+Probab=98.93  E-value=1.1e-12  Score=112.57  Aligned_cols=113  Identities=28%  Similarity=0.531  Sum_probs=90.8  Template_Neff=8.300
+
+Q T1002           147 TSDYLIVTDLRNKYTYIFKKDNGGWGQLYKWQCTIGKPETPTITGIFYISGRKPSFG--T----------DEY--SVKYA  212 (270)
+Q Consensus       147 tsdylivtdlrnkytyifkkdnggwgqlykwqctigkpetptitgifyisgrkpsfg--t----------dey--svkya  212 (270)
+                      ..+++|+.|+.+...++|+.  |  .-+..+.|..|++++||.+|.|+|..+....-  .          ..|  .++|+
+T Consensus       212 g~~~~i~Vd~~~~~l~vy~~--g--~~v~~~~vs~G~~~~~TP~G~~~V~~k~~~~~~~~~~~~~~~~~~~~y~~~~~~~  287 (370)
+T 5DU7_C          212 GDEVIATADDNTKILTVRVN--G--EVVKSMPTSMGKDSTPTANGIYIVGSRYKHIIMDSSTYGVPVNSPNGYRTDVDWA  287 (370)
+T ss_pred             CCeEEEEEECCCCEEEEEEC--C--EEEEEEEccCCCCCCCCCCeEEEEEEeecCCccCccccCCCCCCCCCCCCCCcee
+Confidence            35678999999999898872  2  46778999999999999999999988755321  1          122  46799
+
+
+Q T1002           213 TRIK-GGYYYHSVLYDSTGSYIIDGRLG-EALSHGCIRLSTENAKWIYDNIPDTTTVIIH  270 (270)
+Q Consensus       213 trik-ggyyyhsvlydstgsyiidgrlg-ealshgcirlstenakwiydnipdtttviih  270 (270)
+                      .|+. +|++.|+.-+..       +.+| ...|||||||+.++|+|+|++++--+.|+|+
+T Consensus       288 ~~~~~~g~~iHg~~~~~-------~~~G~~~~ShGCIrl~~~da~~l~~~~~~Gt~V~I~  340 (370)
+T 5DU7_C          288 TQISYSGVFVHSAPWSV-------GAQGHTNTSHGCLNVSPSNAQWFYDHVKRGDIVEVV  340 (370)
+T ss_pred             EEccCCcEEEcccCCCC-------ccCCCCCCCCCceecCHHHHHHHHHhCCCCCeEEEE
+Confidence            9987 899999876542       1455 5799999999999999999999999999885
+
+
+No 15
+>3VYP_B Probable conserved lipoprotein LPPS(E.C.2.3.2.12); BETA BARREL, YkuD domain, L; HET: MXR, GOL; 1.4A {Mycobacterium tuberculosis}
+Probab=98.92  E-value=1.2e-12  Score=108.06  Aligned_cols=116  Identities=28%  Similarity=0.521  Sum_probs=91.7  Template_Neff=8.300
+
+Q T1002           144 IKSTSDYLIVTDLRNKYTYIFKKDNGGWGQLYKWQCTIGKPETPTITGIFYISGRKPSFG--TDE----------Y--SV  209 (270)
+Q Consensus       144 ikstsdylivtdlrnkytyifkkdnggwgqlykwqctigkpetptitgifyisgrkpsfg--tde----------y--sv  209 (270)
+                      +.....+.|+.|+..+..++|.  +|  ..+..+.|..|++..||-.|.|.|..+....-  ...          |  .+
+T Consensus       108 ~~~g~~~~I~Vd~~~~~l~v~~--~g--~~v~~~~vs~G~~~~~TP~G~~~V~~k~~~~~~~~~~~~~~~~~~~~y~~~~  183 (269)
+T 3VYP_B          108 FTIGDEVIATADDNTKILTVRV--NG--EVVKSMPTSMGKDSTPTANGIYIVGSRYKHIIMDSSTYGVPVNSPNGYRTDV  183 (269)
+T ss_dssp             EEECCCEEEEEETTTTEEEEEE--TT--EEEEEEECBCBCTTSCCCBEEEECCCEEEEEEEEGGGGTCCSSSTTCCEEEE
+T ss_pred             ceeCCeEEEEEECCCCEEEEEE--CC--EEEEEEEccccCCCCCCCCeEEEEEEeecceeecccccCCCCCCCCCCccCC
+Confidence            3445678999999999999997  33  35678999999999999999999987755331  111          1  25
+
+
+Q T1002           210 KYATRIK-GGYYYHSVLYDSTGSYIIDGRLG-EALSHGCIRLSTENAKWIYDNIPDTTTVIIH  270 (270)
+Q Consensus       210 kyatrik-ggyyyhsvlydstgsyiidgrlg-ealshgcirlstenakwiydnipdtttviih  270 (270)
+                      .|+.|+. +|++.|+.-...       |.+| ...|||||||+.++|+|+|++++.-+.|+|+
+T Consensus       184 ~~~~~~~~~g~~iHg~~~~~-------~~~G~~~~ShGCIrL~~~da~~l~~~v~~Gt~V~I~  239 (269)
+T 3VYP_B          184 DWATQISYSGVFVHSAPWSV-------GAQGHTNTSHGCLNVSPSNAQWFYDHVKRGDIVEVV  239 (269)
+T ss_dssp             EEEEECCTTCCEEEECGGGT-------TTTTTCCCBSSSEEECHHHHHHHHHHCCTTCEEEEE
+T ss_pred             ceeeEccCCcEEEeccCCCc-------ccCCCCCCCCCCceeChHHHHHHHHhCCCCCEEEEE
+Confidence            7888886 899999876432       2466 6899999999999999999999999998874
+
+
+No 16
+>4A1J_A PUTATIVE L, D-TRANSPEPTIDASE YKUD (E.C.2.-.-.-); TRANSFERASE; HET: SO4; 2.2A {BACILLUS SUBTILIS}
+Probab=98.92  E-value=1.3e-12  Score=90.48  Aligned_cols=109  Identities=26%  Similarity=0.352  Sum_probs=82.0  Template_Neff=11.200
+
+Q T1002           148 SDYLIVTDLRNKYTYIFKKDNGGWGQLYKWQCTIGKPETPTITGIFYISGRKPSFGTDEYSVKYATRIK-GGYYYHSVLY  226 (270)
+Q Consensus       148 sdylivtdlrnkytyifkkdnggwgqlykwqctigkpetptitgifyisgrkpsfgtdeysvkyatrik-ggyyyhsvly  226 (270)
+                      ..+-|+.|+.....+++..  +  .....+.|..|++..||-.|.|++..+.+....  ....|+.++. ++++.|+.-.
+T Consensus        55 ~~~~i~v~~~~~~~~~~~~--~--~~~~~~~v~~G~~~~~tp~G~~~v~~k~~~~~~--~~~~~~~~~~~~~~~~h~~~~  128 (165)
+T 4A1J_A           55 IPYHIAVSIGAKTLTLSLN--N--RVMKTYPIAVGKILTQTPTGEFYIINRQRNPGG--PFGAYWLSLSAAHYGIHGTNN  128 (165)
+T ss_dssp             CCEEEEEETTTTEEEEEET--T--EEEEEEECBEECTTSCCCCEEEEEEEEEECCCG--GGTTEEEEESSTTCEEECCSC
+T ss_pred             CCeEEEEEcCCcEEEEEeC--C--eEEEEEEEEccCCcccCCCeEEEEEeceeCCCC--CccceEEEeccCeEEEcCCCC
+Confidence            3466677777666666652  2  245688999999999999999999988765432  1234555554 5777887644
+
+
+Q T1002           227 DSTGSYIIDGRLGEALSHGCIRLSTENAKWIYDNIPDTTTVIIH  270 (270)
+Q Consensus       227 dstgsyiidgrlgealshgcirlstenakwiydnipdtttviih  270 (270)
+                      +        .++|...|||||||+.++|+|+|+++|..|.|+|+
+T Consensus       129 ~--------~~~~~~~s~Gci~l~~~~~~~l~~~~~~g~~v~i~  164 (165)
+T 4A1J_A          129 P--------ASIGKAVSKGCIRMHNKDVIELASIVPNGTRVTIN  164 (165)
+T ss_dssp             G--------GGTTSEEESSSEECCHHHHHHHHHHCCTTCEEEEE
+T ss_pred             c--------hhcCCcccCCceecChHHHHHHHhhCCCCCeEEEe
+Confidence            2        35678899999999999999999999999999874
+
+
+No 17
+>4HUC_A PROBABLE CONSERVED LIPOPROTEIN LPPS; extracellular, Transpeptidase, Peptidoglycan remodeling, periplasmic; HET: ACT; 1.86A {Mycobacterium tuberculosis}
+Probab=98.91  E-value=1.4e-12  Score=106.56  Aligned_cols=116  Identities=28%  Similarity=0.489  Sum_probs=91.4  Template_Neff=8.500
+
+Q T1002           144 IKSTSDYLIVTDLRNKYTYIFKKDNGGWGQLYKWQCTIGKPETPTITGIFYISGRKPSFG--TD------------EYSV  209 (270)
+Q Consensus       144 ikstsdylivtdlrnkytyifkkdnggwgqlykwqctigkpetptitgifyisgrkpsfg--td------------eysv  209 (270)
+                      .+....+.|+.|+.+...++|+  +|  ..+..+.|..|+++.||-.|.|.|..+.+..-  ..            ...+
+T Consensus       101 f~~g~~~~i~Vd~~~~~l~v~~--~g--~~v~~~~vs~G~~~~~TP~G~~~V~~k~~~~~~~~~~~~~~~~~~~~y~~~~  176 (262)
+T 4HUC_A          101 FTIGDEVIATADDNTKILTVRV--NG--EVVKSMPTSMGKDSTPTANGIYIVGSRYKHIIMDSSTYGVPVNSPNGYRTDV  176 (262)
+T ss_dssp             EEECCCEEEEEETTTTEEEEEE--TT--EEEEEEECBCBCTTSCCCBEEEECCCEEEEEEEEGGGGTCCTTSTTCCEEEE
+T ss_pred             eEeCCeEEEEEECCCCEEEEEE--CC--EEEEEEEccccCCCCCCCCEEEEEeEeecceeccccccCCCCCCCCCcccCC
+Confidence            3445678899999999999997  33  35778999999999999999999987754321  11            1236
+
+
+Q T1002           210 KYATRIK-GGYYYHSVLYDSTGSYIIDGRLG-EALSHGCIRLSTENAKWIYDNIPDTTTVIIH  270 (270)
+Q Consensus       210 kyatrik-ggyyyhsvlydstgsyiidgrlg-ealshgcirlstenakwiydnipdtttviih  270 (270)
+                      .|+.++. +|++.|+.-..       .|.+| ...|||||||+.++|+|+|++++..+.|+|+
+T Consensus       177 ~~~~~~~~~g~~iHg~~~~-------~~~~G~~~~ShGCIrl~~~da~~l~~~v~~Gt~V~I~  232 (262)
+T 4HUC_A          177 DWATQISYSGVFVHSAPWS-------VGAQGHTNTSHGCLNVSPSNAQWFYDHVKRGDIVEVV  232 (262)
+T ss_dssp             EEEEECCTTSCEEEECGGG-------TTTTTTCCCBSSSEEECHHHHHHHHHHCCTTCEEEEE
+T ss_pred             cceEEccCCcEEEeecCcc-------cccCCCCCCCCCceeeCHHHHHHHHHhCCCCCEEEEE
+Confidence            7888886 79999987543       12456 7899999999999999999999999998874
+
+
+No 18
+>1ZAT_A L,D-transpeptidase; L,D-transpeptidation, peptidoglycan, beta-lactam insensitive transpeptidase; 2.4A {Enterococcus faecium} SCOP: b.160.1.1, d.335.1.1
+Probab=98.91  E-value=1.4e-12  Score=101.68  Aligned_cols=119  Identities=26%  Similarity=0.403  Sum_probs=89.4  Template_Neff=9.700
+
+Q T1002           145 KSTSDYLIVTDLRNKYTYIFKKDNGGWGQLYKWQCTIGKPETPTITGIFYISGRKPSF--GT-----DEY--SVKYATRI  215 (270)
+Q Consensus       145 kstsdylivtdlrnkytyifkkdnggwgqlykwqctigkpetptitgifyisgrkpsf--gt-----dey--svkyatri  215 (270)
+                      .+..++.|+.|+.....++|.  +|  .-+..|-|..|++..||-+|.|+|..+.+..  ..     ..|  .+.|+.++
+T Consensus       122 ~~~~~~~I~V~~~~~~l~~~~--~g--~~v~~~~v~~G~~~~~TP~G~~~I~~k~~~~~~~~~~~~~~~~~~~~~~~~~~  197 (250)
+T 1ZAT_A          122 PLIEDTYIEVDLENQHMWYYK--DG--KVALETDIVSGKPTTPTPAGVFYVWNKEEDATLKGTNDDGTPYESPVNYWMPI  197 (250)
+T ss_dssp             CSSCSCEEEEETTTTEEEEEE--TT--EEEEEEECBCBCTTSCCCCEEEECCCCEEEEECCBCC--CCCBCCEEEEEEEC
+T ss_pred             CCCCCcEEEEECCCCEEEEEE--CC--EEEEEEEEEcCCCCCCCCCeEEEEEEEeeCceeeccCCCCCCCCCCCcccccC
+Confidence            345678999999999999997  33  2567899999999999999999998875432  11     122  35566666
+
+
+Q T1002           216 K-GGYYYHSVLYDSTGSYIIDGRLGEALSHGCIRLSTENAKWIYDNIPDTTTVIIH  270 (270)
+Q Consensus       216 k-ggyyyhsvlydstgsyiidgrlgealshgcirlstenakwiydnipdtttviih  270 (270)
+                      . +|++.|+.-+...  +. ...+|...|||||||+.+.|+|+|+++|..|.|+|+
+T Consensus       198 ~~~~~~iH~~~~~~~--~~-~~~~~~~~S~GCIrl~~~da~~l~~~~~~Gt~V~I~  250 (250)
+T 1ZAT_A          198 DWTGVGIHDSDWQPE--YG-GDLWKTRGSHGCINTPPSVMKELFGMVEKGTPVLVF  250 (250)
+T ss_dssp             SSSSCEEEECTTCSC--CS-TTHHHHHCBSSSEEECHHHHHHHHHHCCTTCEEEEC
+T ss_pred             CCCCeEEeccCCChh--hC-CCccccCCCCCcccCCHHHHHHHHHhCCCCCeEEEC
+Confidence            5 6778887654321  11 123567899999999999999999999999999986
+
+
+No 19
+>6D5A_A L,D-transpeptidase 5 (E.C.2.3.2.-); L, D transpeptidation, apo form; HET: PG4; 2.622A {Mycobacterium tuberculosis}
+Probab=98.89  E-value=1.9e-12  Score=110.52  Aligned_cols=115  Identities=23%  Similarity=0.438  Sum_probs=90.2  Template_Neff=8.700
+
+Q T1002           145 KSTSDYLIVTDLRNKYTYIFKKDNGGWGQLYKWQCTIGKPE---TPTITGIFYISGRKPSFGTD----EY---SVKYATR  214 (270)
+Q Consensus       145 kstsdylivtdlrnkytyifkkdnggwgqlykwqctigkpe---tptitgifyisgrkpsfgtd----ey---svkyatr  214 (270)
+                      +....++|+.|+.+.-.++|+.+    ..++.|.|..|++.   ++|.+|.|+|..+.+...-+    .|   .+.|+.+
+T Consensus       230 ~tg~~~~ivVd~~~~~l~v~~~g----~~v~~~~vs~G~~~~gd~~TP~G~~~v~~k~~~~~~~~~~~~y~~~~~~~~~~  305 (388)
+T 6D5A_A          230 QIGRRQVVKAEVSSHRIQVVTDA----GVIMDFPCSYGEADLARNVTRNGIHVVTEKYSDFYMSNPAAGYSHIHERWAVR  305 (388)
+T ss_pred             ccCccEEEEEeCCCCEEEEEECC----EEEEEEEeeecCCCCCCCCCCCEEEEEEEcCCCCccCCCCCCCCCCCCcceee
+Confidence            33467789999999999999732    26789999999999   89999999998886643211    23   3678888
+
+
+Q T1002           215 IK-GGYYYHSVLYDSTGSYIIDGRLG-EALSHGCIRLSTENAKWIYDNIPDTTTVIIH  270 (270)
+Q Consensus       215 ik-ggyyyhsvlydstgsyiidgrlg-ealshgcirlstenakwiydnipdtttviih  270 (270)
+                      +. +|++.|+..+.       .+++| ...|||||||+.++|+|||++++..+.|+|+
+T Consensus       306 ~~~~g~~iHg~~~~-------~~~~g~~~~S~GCIrL~~~da~~ly~~~~~Gt~V~I~  356 (388)
+T 6D5A_A          306 ISNNGEFIHANPMS-------AGAQGNSNVTNGCINLSTENAEQYYRSAVYGDPVEVT  356 (388)
+T ss_pred             cCCCCeeecccCCc-------cccCCCCCCCCCceecCHHHHHHHHHhCCCCCeEEEE
+Confidence            85 68999987433       12445 6799999999999999999999999998874
+
+
+No 20
+>5DVP_A L,D-transpeptidase 2 (E.C.2.3.2.-); Peptidoglycan synthesis enzyme, cell wall; HET: DRW; 2.18A {Mycobacterium tuberculosis}
+Probab=98.88  E-value=2.2e-12  Score=109.31  Aligned_cols=113  Identities=28%  Similarity=0.531  Sum_probs=90.8  Template_Neff=8.500
+
+Q T1002           147 TSDYLIVTDLRNKYTYIFKKDNGGWGQLYKWQCTIGKPETPTITGIFYISGRKPSFG--T----------DEY--SVKYA  212 (270)
+Q Consensus       147 tsdylivtdlrnkytyifkkdnggwgqlykwqctigkpetptitgifyisgrkpsfg--t----------dey--svkya  212 (270)
+                      -.+++|+.|+.+...++|+.  |  ..+..+.|..|+++.||-.|.|+|..+....-  .          ..|  .+.|+
+T Consensus       193 g~~~~i~vd~~~~~l~v~~~--g--~~v~~~~vs~G~~~~~TP~G~~~v~~k~~~~~~~~~~~~~~~~~~~~y~~~~~~~  268 (350)
+T 5DVP_A          193 GDEVIATADDNTKILTVRVN--G--EVVKSMPTSMGKDSTPTANGIYIVGSRYKHIIMDSSTYGVPVNSPNGYRTDVDWA  268 (350)
+T ss_dssp             CCCEEEEEETTTTEEEEEET--T--EEEEEEECBCBCTTSCCCBEEEECCCEEEEEEEEGGGGTCCTTSTTCCEEEEEEE
+T ss_pred             CCEEEEEEeCCCCEEEEEEC--C--EEEEEEECcccCCCCCCCCEEEEeeEeecceeecccccCCCCCCCCCccccccce
+Confidence            35678999999999999973  2  46788999999999999999999988766432  1          112  45788
+
+
+Q T1002           213 TRIK-GGYYYHSVLYDSTGSYIIDGRLG-EALSHGCIRLSTENAKWIYDNIPDTTTVIIH  270 (270)
+Q Consensus       213 trik-ggyyyhsvlydstgsyiidgrlg-ealshgcirlstenakwiydnipdtttviih  270 (270)
+                      .++. +|++.|+.-.+.       +.+| ...|||||||+.++|+|+|++++.-+.|+|+
+T Consensus       269 ~~~~~~g~~iHg~~~~~-------~~~G~~~~ShGCIrl~~~da~~l~~~~~~Gt~V~I~  321 (350)
+T 5DVP_A          269 TQISYSGVFVHSAPWSV-------GAQGHTNTSHGCLNVSPSNAQWFYDHVKRGDIVEVV  321 (350)
+T ss_dssp             EECCTTSCEEEECGGGT-------TTTTTCCCBSSSEEECHHHHHHHHHHCCTTCEEEEE
+T ss_pred             EEecCCCEEEEeecCcc-------cCCCCCCCCCCcceeCHHHHHHHHHhCCCCCEEEEE
+Confidence            8886 899999886542       2456 5899999999999999999999999999875
+
+
+No 21
+>5BMQ_A ErfK/YbiS/YcfS/YnhG family protein; L,D-transpeptidases, Structural Genomics, PSI-Biology, Midwest; HET: SO4, MSE; 2.05A {Stackebrandtia nassauensis (strain DSM 44728 / NRRL B-16338 / NBRC 102104 / LLR-40K-21)}
+Probab=98.74  E-value=1.3e-11  Score=97.65  Aligned_cols=111  Identities=18%  Similarity=0.250  Sum_probs=86.4  Template_Neff=9.200
+
+Q T1002           148 SDYLIVTDLRNKYTYIFKKDNGGWGQLY-KWQCTIGKPETPTITGIFYISGRKPSFGTDEY--SVKYATRIKGGYYYHSV  224 (270)
+Q Consensus       148 sdylivtdlrnkytyifkkdnggwgqly-kwqctigkpetptitgifyisgrkpsfgtdey--svkyatrikggyyyhsv  224 (270)
+                      ..+.|+.|+.++..++|+   +|+ .+. .|.|..|++..+|-.|.|.+..+....-...|  .+.|+.++.+|++.|+.
+T Consensus       124 ~~~~i~V~~~~~~l~v~~---~g~-~~~~~~~~~~G~~~~~Tp~G~~~v~~k~~~~~~~~~~~~~~~~~~~~~~~~iHg~  199 (243)
+T 5BMQ_A          124 KGKTVCVDLTHQTLWVVE---DGK-RIFEPTVVRTGMAGYATQPGAWKIFVKEGTHWSKKYKVWLPYWQNFNNGEGLHTT  199 (243)
+T ss_dssp             SSCEEEEETTTTEEEEEE---TTE-EEEEEEEEECCCTTSCCCCEEEECCEEEEEEEETTTTEEEEEEEEEETTEEEEEC
+T ss_pred             CCeEEEEECCCCEEEEEE---CCE-EEEEEEEEecCCCCCCCCCeEEEEEEEecCCccccccccccceEeecCCeecccC
+Confidence            567888888888888886   232 344 49999999999999999999987644333333  46678888888888876
+
+
+Q T1002           225 LYDSTGSYIIDGRLGEALSHGCIRLSTENAKWIYDNIPDTTTVIIH  270 (270)
+Q Consensus       225 lydstgsyiidgrlgealshgcirlstenakwiydnipdtttviih  270 (270)
+                      -+..        ..+...|||||||+.+.++|+|+++|..+.|+|+
+T Consensus       200 ~~~~--------~~~~~~S~GCIrl~~~da~~l~~~~~~Gt~V~I~  237 (243)
+T 5BMQ_A          200 TTYI--------HEPWIGSHGCVNLLPSDSKKLYEMLDFGDTVQVF  237 (243)
+T ss_dssp             SSCT--------TCGGGCCSSSEEECHHHHHHHHHHCCTTCEEEEE
+T ss_pred             Cccc--------CCCCCCCCCccccCHHHHHHHHHhCCCCCEEEEE
+Confidence            4432        1356799999999999999999999999999885
+
+
+No 22
+>4Z7A_A Mycobacterium tuberculosis (3,3)L,D-Transpeptidase type 5; peptidoglycan, cell wall biosynthesis, carbapenems; HET: PEG, PGE; 1.98A {Mycobacterium tuberculosis (strain ATCC 25177 / H37Ra)}
+Probab=98.69  E-value=2.4e-11  Score=108.97  Aligned_cols=112  Identities=22%  Similarity=0.442  Sum_probs=87.7  Template_Neff=7.600
+
+Q T1002           148 SDYLIVTDLRNKYTYIFKKDNGGWGQLYKWQCTIGKPE---TPTITGIFYISGRKPSFGTD----E---YSVKYATRIKG  217 (270)
+Q Consensus       148 sdylivtdlrnkytyifkkdnggwgqlykwqctigkpe---tptitgifyisgrkpsfgtd----e---ysvkyatrikg  217 (270)
+                      ....|+.|+..+.-++|+  +|  ..+..+.|..|++.   .+|-.|.|.|..+.+..--+    .   -.+.|+.|+.+
+T Consensus       261 ~~~~i~Vd~~~~~l~v~~--~g--~~v~t~pvs~G~~~~~~~~TP~G~~~I~~k~~~~~~~~~~~~y~~~~~~~a~~~~~  336 (451)
+T 4Z7A_A          261 RRQVVKAEVSSHRIQVVT--DA--GVIMDFPCSYGEADLARNVTRNGIHVVTEKYSDFYMSNPAAGYSHIHERWAVRISN  336 (451)
+T ss_dssp             CCEEEEEEGGGTEEEEEE--TT--EEEEEEECBCCCCSSGGGSCCBEEEECCCEEEECCBCCTTTSCSSBCCEEEEECCT
+T ss_pred             cceEEEEeeccCEEEEEE--CC--EEEEEEEeeecccccccCcCCCEEEEEeEeecCccccCCCCCCCcccceeeEEecC
+Confidence            457889999998888887  22  47889999999998   79999999998876654322    2   25788999986
+
+
+Q T1002           218 -GYYYHSVLYDSTGSYIIDGRLGE-ALSHGCIRLSTENAKWIYDNIPDTTTVIIH  270 (270)
+Q Consensus       218 -gyyyhsvlydstgsyiidgrlge-alshgcirlstenakwiydnipdtttviih  270 (270)
+                       |+|.|+.-+..       +.+|. ..|||||||+.++|+|+|++++..+.|.|+
+T Consensus       337 sg~~iHg~p~~~-------~~~G~~n~ShGCIrL~~~da~~ly~~~~~G~~V~I~  384 (451)
+T 4Z7A_A          337 NGEFIHANPMSA-------GAQGNSNVTNGCINLSTENAEQYYRSAVYGDPVEVT  384 (451)
+T ss_dssp             TSCEEEECCC-------------CTTSSSSCEEECHHHHHHHHHHCCTTCEEEEE
+T ss_pred             CcEEEEecCCcc-------cccCCCCCCCCcccCCHHHHHHHHHHCCCCCeEEEE
+Confidence             99999986542       13344 399999999999999999999999888875
+
+
+No 23
+>6V45_A Probable carnitine operon oxidoreductase caia; SSGCID, Probable carnitine operon oxidoreductase; HET: SO4; 2.6A {Brucella melitensis biotype 1 (strain 16M / ATCC 23456 / NCTC 10094)}
+Probab=98.65  E-value=3.9e-11  Score=96.21  Aligned_cols=112  Identities=20%  Similarity=0.276  Sum_probs=83.1  Template_Neff=8.200
+
+Q T1002           146 STSDYLIVTDLRNKYTYIFKKDNGGWGQLYKWQCTIGKPETPTITGIFYISGRKPSFG---TD-----------------  205 (270)
+Q Consensus       146 stsdylivtdlrnkytyifkkdnggwgqlykwqctigkpetptitgifyisgrkpsfg---td-----------------  205 (270)
+                      +..++.|+.|+...-.++|..  |  ..+..|.|.+|++.. |-+|.|.|..+.+...   +.                 
+T Consensus        68 ~~~~~~IvVd~s~~~L~vy~~--g--~~i~~~~vs~G~~~~-TP~G~y~I~~k~~~~~~~~~~~~~~~~~~~~~~~~~~~  142 (209)
+T 6V45_A           68 GYKPGTIVIDPKKRFLYLVET--S--TTARRYGIAVGKQGL-EFQGKATISAKREWPRWIPTKEMIERDPAHYGRFKNGM  142 (209)
+T ss_dssp             SSCTTCEEEEGGGTEEEEECS--S--SEEEEEECCCCTTSS-SCCSCCEEEEEEESCCBCCCHHHHHHCHHHHGGGTTCB
+T ss_pred             CCCCcEEEEECccCEEEEEeC--C--EEEEEEEeEecCCCC-cccEEEEEEEeeeCCCCCCChHHhcCCHHHHhccccCC
+Confidence            456889999999999999973  3  467889999999987 8899999988765421   10                 
+
+
+Q T1002           206 -----EYSVKYATRI-----KGGYYYHSVLYDSTGSYIIDGRLGEALSHGCIRLSTENAKWIYDNIPDTTTVIIH  270 (270)
+Q Consensus       206 -----eysvkyatri-----kggyyyhsvlydstgsyiidgrlgealshgcirlstenakwiydnipdtttviih  270 (270)
+                           .+-..++.++     .+|++.|....+        +.+|...|||||||+.++++|+|+.++..|.|+|.
+T Consensus       143 ~~~~~~~~g~~~i~~~~~~~g~gi~IHgt~~~--------~~~g~~~S~GCIrl~n~d~~~L~~~v~~Gt~V~I~  209 (209)
+T 6V45_A          143 DGGPGNPLGSRAMYLFQGNKDTYIRIHGTVQP--------WTIGSSASNGCFRMINEDVMDLYDRVTLGTEVVVL  209 (209)
+T ss_dssp             CSSTTCTTTTEEEEEEETTEEEEEEEECCCSS--------CCCTTCGGGCSSCCCHHHHHHHHTTCCTTCCCCCC
+T ss_pred             CCCCCCCCcceeEecccCCCCCeEEEcCCCCc--------cccCccccCCEeeeChHHHHHHHHhCCCCCEEEEC
+Confidence                 1111233333     245566665443        45688899999999999999999999999988873
+
+
+No 24
+>4XZZ_B Conserved hypothetical secreted protein; Csd6, cell shape, L, D-carboxypeptidase; HET: GOL; 2.03A {Helicobacter pylori 26695}
+Probab=98.60  E-value=6.4e-11  Score=98.65  Aligned_cols=117  Identities=15%  Similarity=0.302  Sum_probs=84.4  Template_Neff=9.000
+
+Q T1002           146 STSDYLIVTDLRNKYTYIFKKDNGGWGQLYKWQCTIGKP--------ETPTITGIFYISGRKPS----FGTDEYSVKYAT  213 (270)
+Q Consensus       146 stsdylivtdlrnkytyifkkdnggwgqlykwqctigkp--------etptitgifyisgrkps----fgtdeysvkyat  213 (270)
+                      ....+.|+.|+...-.++|.++++.|......-|..|+.        ..+|-+|.|.|..+.+.    +|+......|..
+T Consensus        74 ~~~~~~I~V~~~~~~l~vy~~~~~~~~~~~~~~~~g~~~~~~k~~~gd~~TP~G~y~i~~k~~~~~~~yg~~~~~~~yp~  153 (339)
+T 4XZZ_B           74 QNKQFLFVANKSKPSLEFYEIENNMLKKINSSKALVGSKKGDKTLEGDLATPIGVYRITQKLERLDQYYGVLAFVTNYPN  153 (339)
+T ss_dssp             SSCEEEEEEETTTTEEEEEEEETTEEEEEEEEECBCBSBCSCCCSTTCCBCCCEEEEEEEEECSCCGGGCSCEEEECCSC
+T ss_pred             CCCcEEEEEECCCCEEEEEEeeCCeEEEEecCEEeecCCCCCccccCCCCCCcEEEEeeeeccccccccceeeEecCCCC
+Confidence            457889999999999999988766665543356766655        47888999999888654    111111111211
+
+
+Q T1002           214 -------RIKGGYYYHSVLYDSTGSYIIDGRLGEALSHGCIRLSTENAKWIYDNIPDTTTVIIH  270 (270)
+Q Consensus       214 -------rikggyyyhsvlydstgsyiidgrlgealshgcirlstenakwiydnipdtttviih  270 (270)
+                             ...+|++.|+.-.+.        .+|..-|||||||+.++++|+|+++|..|.|+|+
+T Consensus       154 ~~~~~~~~~~~gi~iHg~~~~~--------~~g~~~S~GCIrl~~~d~~~l~~~v~~gt~V~I~  209 (339)
+T 4XZZ_B          154 LYDTLKKRTGHGIWVHGMPLNG--------DRNELNTKGCIAIENPLLSSYDKVLKGEKAFLIT  209 (339)
+T ss_dssp             HHHHHTTCCCCCCEEECCCTTC--------CCCCSCBSSCEECCHHHHHHHHHHHTTCCEEEEE
+T ss_pred             HHHHhhccCCCcEEEecccCCC--------CCCCCCCCCeeeechHHHHHHHHHcCCCCcEEEE
+Confidence                   124567778765543        3678899999999999999999999999988874
+
+
+No 25
+>4Y4V_B Conserved hypothetical secreted protein; Csd6, cell shape, L, D-carboxypeptidase; HET: DAL, GOL; 2.04A {Helicobacter pylori 26695}
+Probab=98.60  E-value=6.4e-11  Score=98.65  Aligned_cols=117  Identities=15%  Similarity=0.302  Sum_probs=84.4  Template_Neff=9.000
+
+Q T1002           146 STSDYLIVTDLRNKYTYIFKKDNGGWGQLYKWQCTIGKP--------ETPTITGIFYISGRKPS----FGTDEYSVKYAT  213 (270)
+Q Consensus       146 stsdylivtdlrnkytyifkkdnggwgqlykwqctigkp--------etptitgifyisgrkps----fgtdeysvkyat  213 (270)
+                      ....+.|+.|+...-.++|.++++.|......-|..|+.        ..+|-+|.|.|..+.+.    +|+......|..
+T Consensus        74 ~~~~~~I~V~~~~~~l~vy~~~~~~~~~~~~~~~~g~~~~~~k~~~gd~~TP~G~y~i~~k~~~~~~~yg~~~~~~~yp~  153 (339)
+T 4Y4V_B           74 QNKQFLFVANKSKPSLEFYEIENNMLKKINSSKALVGSKKGDKTLEGDLATPIGVYRITQKLERLDQYYGVLAFVTNYPN  153 (339)
+T ss_dssp             SSCEEEEEEETTTTEEEEEEEETTEEEEEEEEECBCBSBCSCCCSTTCCBCCCEEEEEEEEECSCCGGGTTCEEEECCSC
+T ss_pred             CCCcEEEEEECCCCEEEEEEeeCCeEEEEecCEEeecCCCCCccccCCCCCCcEEEEeeeeccccccccceeeEecCCCC
+Confidence            457889999999999999988766665543356766655        47888999999888654    111111111211
+
+
+Q T1002           214 -------RIKGGYYYHSVLYDSTGSYIIDGRLGEALSHGCIRLSTENAKWIYDNIPDTTTVIIH  270 (270)
+Q Consensus       214 -------rikggyyyhsvlydstgsyiidgrlgealshgcirlstenakwiydnipdtttviih  270 (270)
+                             ...+|++.|+.-.+.        .+|..-|||||||+.++++|+|+++|..|.|+|+
+T Consensus       154 ~~~~~~~~~~~gi~iHg~~~~~--------~~g~~~S~GCIrl~~~d~~~l~~~v~~gt~V~I~  209 (339)
+T 4Y4V_B          154 LYDTLKKRTGHGIWVHGMPLNG--------DRNELNTKGCIAIENPLLSSYDKVLKGEKAFLIT  209 (339)
+T ss_dssp             HHHHHTTCCCCCCEEEECCTTC--------CCCCSCBSSCEEECHHHHHHHHHHHTTCCEEEEE
+T ss_pred             HHHHhhccCCCcEEEecccCCC--------CCCCCCCCCeeeechHHHHHHHHHcCCCCcEEEE
+Confidence                   124567778765543        3678899999999999999999999999988874
+
+
+No 26
+>4LZH_A L,D-transpeptidase; structural genomics, APC110661, L,D-transpeptidase, PSI-Biology; 1.9A {Klebsiella pneumoniae subsp. pneumoniae}
+Probab=98.58  E-value=8.2e-11  Score=99.96  Aligned_cols=114  Identities=24%  Similarity=0.341  Sum_probs=78.4  Template_Neff=7.600
+
+Q T1002           146 STSDYLIVTDLRNKYTYIFKKDNGGWGQLYKWQCTIGKPETPTITG-IFYISGRK--PSFG-------------------  203 (270)
+Q Consensus       146 stsdylivtdlrnkytyifkkdnggwgqlykwqctigkpetptitg-ifyisgrk--psfg-------------------  203 (270)
+                      ...+..|+.|+...-.|+|.++.   ..+..+.|.+|++.++|-+| .|.|..+.  |.+.                   
+T Consensus        74 ~~~~~~IvVnl~~~rL~~~~~g~---~~v~t~pv~~G~~~~~TP~G~~~~I~~k~~~p~w~~p~~i~~~~~~~g~~l~~~  150 (285)
+T 4LZH_A           74 DTVHEGIIINSAEMRLYYYPKGT---NTVIVLPIGIGQLGKDTPINWTTKVERKKAGPTWTPTAKMHAEYAAAGNPLPAV  150 (285)
+T ss_dssp             SSCSSEEEEEGGGTEEEEECTTS---SEEEEEECEEC------CCSEEEECCEEEESCCBCCCHHHHHHHHHHTCCCCSS
+T ss_pred             CCCCceEEEECCCCEEEEEcCCC---ceEEEEEEEEeeCCcccCCCcEEEEEEeccCCccCCCHHHHHHHHhcCCCCCcc
+Confidence            34567899999999999997431   36788999999999999999 67776543  2211                   
+
+
+Q T1002           204 ----TDEYSVKYATRIKGGYYYHSVLYDSTGSYIIDGRLGEALSHGCIRLSTENAKWIYDNIPDTTTVIIH  270 (270)
+Q Consensus       204 ----tdeysvkyatrikggyyyhsvlydstgsyiidgrlgealshgcirlstenakwiydnipdtttviih  270 (270)
+                          .+..-..|+.++.+||+.|..-.        ...+|.+.|||||||+.++|+|+|+++|-.|.|.|+
+T Consensus       151 ~p~gp~nplG~~~~~l~~~~~IHGt~~--------~~~iG~~~ShGCIRL~~~da~~Ly~~v~~GT~V~I~  213 (285)
+T 4LZH_A          151 VPAGPDNPMGLYALYIGRLYAIHGTNA--------NFGIGLRVSHGCVRLRNDDIKFLFENVPVGTRVQFI  213 (285)
+T ss_dssp             BCSSTTCTTTTEEEEEETTEEEECCSS--------SSCTTSBCSSCSEECCHHHHHHHHHHCCTTCEEEEE
+T ss_pred             cCCCCCCCcceEEEEeCCceeecCcCC--------CCCcCccccCCceecCHHHHHHHHHhCCCCCEEEEE
+Confidence                11112345666667777776432        124677899999999999999999999999998874
+
+
+No 27
+>6BIM_A Clan CA, family C40, NlpC/P60; peptidoglycan, peptidase, NlpC protein, HYDROLASE; HET: MSE; 1.547A {Trichomonas vaginalis}
+Probab=98.10  E-value=7.5e-09  Score=80.10  Aligned_cols=113  Identities=19%  Similarity=0.293  Sum_probs=97.4  Template_Neff=10.400
+
+Q T1002             7 LANVNLRSA---KSTNSS-IITVIPQGAKMEVLDEEDDWIKVMYNSQEGYVYKDLVSVSE---YAWSNLNLREDKSTTSN   79 (270)
+Q Consensus         7 lanvnlrsa---kstnss-iitvipqgakmevldeeddwikvmynsqegyvykdlvsvse---yawsnlnlredksttsn   79 (270)
+                      -.++|+|+.   .++++. +++.++.|..++++++.++|.+|.++..+||+.++.+...+   ....++++|...++.+.
+T Consensus        25 ~~~~~~r~~~~~p~~~~~~~~~~l~~g~~v~v~~~~~~W~~V~~~~~~Gwv~~~~l~~~~~~~~~~~~~~v~~~p~~~~~  104 (278)
+T 6BIM_A           25 TPGTNLVKAYKSSNPDLARNCYWLYFDYYVHILGYENGFAHVRIGTEDCWISKDSLEEITIPTQSVTEANIYSEPSRTGT  104 (278)
+T ss_dssp             CTTSSEEEEESSSSCCTTCCCEEEETTCEEEEEEEETTEEEEEETTEEEEEEGGGEEEECEEEEBSSCEEEESSSSSSCC
+T ss_pred             cCCccchhcccCCCcchheeeeEEeCCCeEEEEEEcCCEEEEEECCeEEEEEHHHeeeccCCceeeeeEEEEeCCCCCCc
+Confidence            346889988   777777 77799999999999999999999999999999988776543   33567899998888999
+
+
+Q T1002            80 IITVIPEKSRVEVLQV-DGDWSKVVYDDKIGYVFNYFLSID  119 (270)
+Q Consensus        80 iitvipeksrvevlqv-dgdwskvvyddkigyvfnyflsid  119 (270)
+                      ++..++...+++++.. +++|-+|-+++..||+..-++.+.
+T Consensus       105 ~~~~l~~G~~v~v~~~~~~~w~~V~~~g~~G~v~~~~~~~~  145 (278)
+T 6BIM_A          105 IVRYVPANSQVTILDFNCDGFYRINYRGYIGYILEDALQYK  145 (278)
+T ss_dssp             EEEEECTTCEEEEEEEEETTEEEEEETTEEEEEEGGGBSCC
+T ss_pred             eEEEEcCCCEEEEEEeCCCcEEEEEeCCeEeeeeHHHheee
+Confidence            9999999999999987 899999999999999988877765
+
+
+No 28
+>6BIO_A Clan CA, family C40, NlpC/P60; peptidase, NlpC protein, HYDROLASE; 1.2A {Trichomonas vaginalis}
+Probab=98.01  E-value=1.5e-08  Score=78.71  Aligned_cols=114  Identities=18%  Similarity=0.292  Sum_probs=96.8  Template_Neff=10.300
+
+Q T1002             6 ALANVNLRSA---KSTNSS-IITVIPQGAKMEVLDEEDDWIKVMYNSQEGYVYKDLVSVSE---YAWSNLNLREDKSTTS   78 (270)
+Q Consensus         6 alanvnlrsa---kstnss-iitvipqgakmevldeeddwikvmynsqegyvykdlvsvse---yawsnlnlredkstts   78 (270)
+                      +-.++|+|+.   .++++. +++.++.|..++|+++.++|.+|.++.++||+.++.+...+   ....++++|...++.+
+T Consensus        24 ~~~~~~~r~~~~~p~~~~~~~~~~l~~g~~v~v~~~~~~W~~V~~~~~~Gwv~~~~l~~~~~~~~~~~~~~v~~~p~~~~  103 (278)
+T 6BIO_A           24 TTPGTNLVKAYKSSNPDLARNCYWLYFDYYVHILGYENGFAHVRIGTEDCWISKDSLEEITIPTQSVTEANIYSEPSRTG  103 (278)
+T ss_dssp             CCTTSSEEEEESSSSCCTTCCCEEEETTCEEEEEEEETTEEEEEETTEEEEEEGGGEEEECEEEEBSSCEEEESSSSSSC
+T ss_pred             ecCCcceeecccCCCccccccceEEeCCCEEEEEEEcCCEEEEEECCeeEEEEHHHceeccCCceeeeeEEEEeCCCCCC
+Confidence            3456889988   777777 66799999999999999999999999999999987765433   3346788999888888
+
+
+Q T1002            79 NIITVIPEKSRVEVLQV-DGDWSKVVYDDKIGYVFNYFLSID  119 (270)
+Q Consensus        79 niitvipeksrvevlqv-dgdwskvvyddkigyvfnyflsid  119 (270)
+                      .++..++...++.++.. +++|-+|.++++.|||..-++...
+T Consensus       104 ~~~~~l~~G~~v~i~~~~~~~w~~V~~~g~~G~v~~~~~~~~  145 (278)
+T 6BIO_A          104 TIVRYVPANSQVTILDFNCDGFYRINYRGYIGYILEDALQYK  145 (278)
+T ss_dssp             CEEEEECTTCEEEEEEEEETTEEEEEETTEEEEEEGGGBSCC
+T ss_pred             ceEEEEcCCCEEEEEEcCCCcEEEEEeCCeeeeeeHHHhhee
+Confidence            89999999999999987 789999999999999988777664
+
+
+No 29
+>1XOV_A Ply protein(E.C.3.5.1.28); alpha/beta hydrolase, multi-domain, hydrolase; 1.8A {Listeria phage PSA} SCOP: c.56.5.6, b.34.11.4
+Probab=97.54  E-value=4.1e-07  Score=73.26  Aligned_cols=107  Identities=19%  Similarity=0.223  Sum_probs=88.5  Template_Neff=10.000
+
+Q T1002             8 ANVNLRSAKSTNSSIITVIPQGAKMEVLDEEDDWIKVMYNSQEGYVYKDLVSVSEY----------AWSNLNLRED----   73 (270)
+Q Consensus         8 anvnlrsakstnssiitvipqgakmevldeeddwikvmynsqegyvykdlvsvsey----------awsnlnlred----   73 (270)
+                      ..+|+|+..+..+.++..++.|..+.++++.+.|.++.++..+||+..+.+.....          .-..+++|..    
+T Consensus       202 ~~~~vr~~~~~~~~~v~~~~~g~~~~v~~~~~~w~~v~~~~~~g~v~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  281 (326)
+T 1XOV_A          202 DSVPMLSKMDFKSSPIKMYKAGSSLLVYEHNKYWYKAYINDKLCYIYKSFCISNGKKDAKGRIKVRIKSAKDLRIPVWNN  281 (326)
+T ss_dssp             SEEEEESSSCTTSCEEEEEETTCEEEEEECSSSEEEEEETTEEEEEEGGGEEECCCCSTTCCEEEEECCTTTCCEEEESS
+T ss_pred             cceeccccCCCCCCceEEEcCCCEEEEEEeCCCEEEEEECCEEEEEEHHheEecCCcCCCCCeeEEEeccceeeeeeecC
+Confidence            46788999899999999999999999999999999999999999998877654321          1134566655    
+
+
+Q T1002            74 KSTTSNIITVIPEKSRVEVLQVDGDWSKVVYDDKIGYVFNY  114 (270)
+Q Consensus        74 ksttsniitvipeksrvevlqvdgdwskvvyddkigyvfny  114 (270)
+                      .++.+.++..++....+.++...++|.+|.++.+.|||..-
+T Consensus       282 ~~~~~~~v~~l~~g~~~~v~~~~~~w~~v~~~~~~g~v~~~  322 (326)
+T 1XOV_A          282 TKLNSGKIKWYSPGTKLSWYDNKKGYLELWYEKDGWYYTAN  322 (326)
+T ss_dssp             TTCSSSSEEEECTTCEEEEECCSSSSEEEEETTTEEEEECG
+T ss_pred             CCCCCcceeEeCCCCeEEEEeCCCCeEEEEEcCcEEEEEcc
+Confidence            77778888889999999999999999999998888887653
+
+
+No 30
+>3H41_A NLP/P60 family protein, Water; NLPC/P60 FAMILY PROTEIN, STRUCTURAL GENOMICS; HET: PG4, DGL; 1.79A {Bacillus cereus ATCC 10987}
+Probab=97.51  E-value=5.1e-07  Score=73.85  Aligned_cols=108  Identities=14%  Similarity=0.206  Sum_probs=88.2  Template_Neff=9.400
+
+Q T1002             9 NVNLRSAKSTNSSIITVIPQGAKMEVLDEEDDWIKVMY---------NSQEGYVYKDLVSVSE------------YAWSN   67 (270)
+Q Consensus         9 nvnlrsakstnssiitvipqgakmevldeeddwikvmy---------nsqegyvykdlvsvse------------yawsn   67 (270)
+                      +.+.|+..++++.+++.++.|...+|+++.++|.+|.+         +.+.|||.++.++..+            ....+
+T Consensus        47 ~~~~r~~~~~~~~v~~ql~~G~~v~Vl~~~~~W~~V~~~~q~~~~~~~g~~GWv~~~~l~~~~~~~~~~~~~~~~v~~~~  126 (311)
+T 3H41_A           47 TLDEKLWLTNANKLETQALLGQEVTVVDKKGDWVKVLVHGQPTPRNEEGYPGWMPEKQLTYNQEFADKTNEPFVLVTKPT  126 (311)
+T ss_dssp             CHHHHHHHHHTTCEEEEEETTCEEEEEEEETTEEEEEETTCCBTTBSSCEEEEEEGGGEECCHHHHHTTTSCEEEECSSE
+T ss_pred             CHHHHHhhccCCceeeeEeCCCEEEEEEeeCCEEEEEECCcCCCCCCCCCceeeeHHHeEeCHHhccccCCCEEEEeCCc
+Confidence            44578888899999999999999999999999999997         6778999987766532            12346
+
+
+Q T1002            68 LNLREDKSTTSNIITVIPEKSRVEVLQVDGDWSKVVYD-DKIGYVFNYFLS  117 (270)
+Q Consensus        68 lnlredksttsniitvipeksrvevlqvdgdwskvvyd-dkigyvfnyfls  117 (270)
+                      +++|...++.+.++ .++...++.++...++|-+|.+. .+.||+..-.+.
+T Consensus       127 ~~l~~~p~~~~~~~-~l~~gt~l~v~~~~~~w~~V~~~~g~~g~v~~~~v~  176 (311)
+T 3H41_A          127 AILYINPSEKHKSL-EVSYNTRLPLLSEDTISYRVLLPNGQKAWLRKNDGT  176 (311)
+T ss_dssp             EEEEESSCTTCCEE-EEETTCEEEEEEECSSEEEEECTTSCEEEEEGGGEE
+T ss_pred             eEEEeCCCCCCceE-EEeCCcEEEeeecCCCeEEEECCCCCeeeEEecccc
+Confidence            77887767777777 78999999999999999999884 578988765554
+
+
+No 31
+>4KRT_A Autolytic lysozyme (E.C.3.2.1.17 ); beta/alpha barrel, muramidase and putative; HET: ACT, MLA, EPE; 1.92A {Clostridium phage phiSM101}
+Probab=97.46  E-value=6.7e-07  Score=72.30  Aligned_cols=111  Identities=31%  Similarity=0.477  Sum_probs=93.2  Template_Neff=10.200
+
+Q T1002             6 ALANVNLRSAKSTNSSIITVIPQGAKMEVL---DEEDDWIKVMYNSQEGYVYKDLVSVSE-----YAWSNLNLREDKSTT   77 (270)
+Q Consensus         6 alanvnlrsakstnssiitvipqgakmevl---deeddwikvmynsqegyvykdlvsvse-----yawsnlnlredkstt   77 (270)
+                      +..++++|+..++++.++..+++|.+++++   ++.+.|.++-++.++||+.++.+...+     .....+++|...++.
+T Consensus       228 ~~~~~~~r~~p~~~~~~~~~i~~g~~v~v~~~~~~~~~w~~v~~~g~~g~v~~~~l~~~~~~~~~~~~~~~~v~~~~~~~  307 (353)
+T 4KRT_A          228 VSTKLNIRAKGTTNSKIIGSIPAGETFKIKWVDEDYLGWYYVEYNGVVGYVNADYVEKLQMATTYNVSTFLNVREEGSLN  307 (353)
+T ss_dssp             CSSEEEEESSSSTTSCEEEEEETTCEEEEEECCGGGTTEEEEEETTEEEEEEGGGEEECEEEEESSCSSEEEEESSSSTT
+T ss_pred             ecCcEEEeecCCCCCceeEEEcCCCeEEEEEEecccCcEEEEEECCEEEEEEHHHeeecccCceeeeccceEEEecCCCC
+Confidence            445788999999999999999999999999   788999999999999999877655322     346788999999998
+
+
+Q T1002            78 SNIITVIPEKSRVEVLQVD---GDWSKVVY-DDKIGYVFNYFL  116 (270)
+Q Consensus        78 sniitvipeksrvevlqvd---gdwskvvy-ddkigyvfnyfl  116 (270)
+                      +.++..++...+++++...   +.|.+|.+ +.+.|||-.-++
+T Consensus       308 ~~~~~~l~~g~~v~i~~~~~~~~~w~~v~~~~g~~g~v~~~~l  350 (353)
+T 4KRT_A          308 SRIVDKINSGDIFRIDWVDSDFIGWYRITTKNGKVGFVNAEFV  350 (353)
+T ss_dssp             SCEEEEEETTCCEEEEECCGGGTTEEEEECTTSCEEEEEGGGE
+T ss_pred             cceeeEecCCCEEEEEEecCCCCcEEEEEecCCCEEEEEHHHe
+Confidence            9999899999999998754   88999987 678898876554
+
+
+No 32
+>4KRT_B Autolytic lysozyme (E.C.3.2.1.17 ); beta/alpha barrel, muramidase and putative; HET: MLA, ACT, EPE; 1.92A {Clostridium phage phiSM101}
+Probab=97.46  E-value=6.7e-07  Score=72.30  Aligned_cols=111  Identities=31%  Similarity=0.477  Sum_probs=93.2  Template_Neff=10.200
+
+Q T1002             6 ALANVNLRSAKSTNSSIITVIPQGAKMEVL---DEEDDWIKVMYNSQEGYVYKDLVSVSE-----YAWSNLNLREDKSTT   77 (270)
+Q Consensus         6 alanvnlrsakstnssiitvipqgakmevl---deeddwikvmynsqegyvykdlvsvse-----yawsnlnlredkstt   77 (270)
+                      +..++++|+..++++.++..+++|.+++++   ++.+.|.++-++.++||+.++.+...+     .....+++|...++.
+T Consensus       228 ~~~~~~~r~~p~~~~~~~~~i~~g~~v~v~~~~~~~~~w~~v~~~g~~g~v~~~~l~~~~~~~~~~~~~~~~v~~~~~~~  307 (353)
+T 4KRT_B          228 VSTKLNIRAKGTTNSKIIGSIPAGETFKIKWVDEDYLGWYYVEYNGVVGYVNADYVEKLQMATTYNVSTFLNVREEGSLN  307 (353)
+T ss_dssp             CSSEEEEESSSSTTSCEEEEEETTCEEEEEECCTTSTTEEEEEETTEEEEEEGGGEEECEEEEESSCSSEEEEESSSSTT
+T ss_pred             ecCcEEEeecCCCCCceeEEEcCCCeEEEEEEecccCcEEEEEECCEEEEEEHHHeeecccCceeeeccceEEEecCCCC
+Confidence            445788999999999999999999999999   788999999999999999877655322     346788999999998
+
+
+Q T1002            78 SNIITVIPEKSRVEVLQVD---GDWSKVVY-DDKIGYVFNYFL  116 (270)
+Q Consensus        78 sniitvipeksrvevlqvd---gdwskvvy-ddkigyvfnyfl  116 (270)
+                      +.++..++...+++++...   +.|.+|.+ +.+.|||-.-++
+T Consensus       308 ~~~~~~l~~g~~v~i~~~~~~~~~w~~v~~~~g~~g~v~~~~l  350 (353)
+T 4KRT_B          308 SRIVDKINSGDIFRIDWVDSDFIGWYRITTKNGKVGFVNAEFV  350 (353)
+T ss_dssp             SCEEEEEETTCEEEEEECCTTSTTEEEEECTTSCEEEEEGGGE
+T ss_pred             cceeeEecCCCEEEEEEecCCCCcEEEEEecCCCEEEEEHHHe
+Confidence            9999899999999998754   88999987 678898876554
+
+
+No 33
+>3NPF_B putative dipeptidyl-peptidase VI; Structural Genomics, Joint Center for; HET: MSE, CSA, GOL; 1.72A {Bacteroides ovatus}
+Probab=97.44  E-value=7.4e-07  Score=70.68  Aligned_cols=111  Identities=17%  Similarity=0.230  Sum_probs=91.9  Template_Neff=10.200
+
+Q T1002             7 LANVNLRSAKSTNSSIITVIPQGAKMEVLDEEDDWIKVMYN-SQEGYVYKDLVSVSEY--------------AWSNLNLR   71 (270)
+Q Consensus         7 lanvnlrsakstnssiitvipqgakmevldeeddwikvmyn-sqegyvykdlvsvsey--------------awsnlnlr   71 (270)
+                      ..++|+|+..++++.+++.++.|..++|+++ ++|.+|.+. ..+|||.++.+...+-              ...+++++
+T Consensus        18 ~~~~~vr~~p~~~~~~v~~l~~G~~v~v~~~-~~W~~V~~~dg~~GwV~~~~l~~~~~~~~~~~~~~~~~~v~~~~~~v~   96 (306)
+T 3NPF_B           18 ISVCNLREEGKFTSGMSTQALLGMPVKVLQY-NGWYEIQTPDDYTGWVHRMVITPMSKERYDEWNRAEKIVVTSHYGFAY   96 (306)
+T ss_dssp             SSEEEEESSSSTTSCEEEEEETTCEEEEEEE-SSEEEEECTTSCEEEEEGGGEEEECHHHHHHHHHSCEEEECSSEEEEE
+T ss_pred             eceEEeeccCCCCcceeEEeeCCCeEEEEEe-CCEEEEECCCCCeEEEEHHheeecChhhhhhhhhCCeEEEecCceeee
+Confidence            4578999999999999999999999999988 899999987 7799998876654321              12456777
+
+
+Q T1002            72 EDKSTTSNIITVIPEKSRVEVLQVDGDWSKVVY-DDKIGYVFNYFLSI  118 (270)
+Q Consensus        72 edksttsniitvipeksrvevlqvdgdwskvvy-ddkigyvfnyflsi  118 (270)
+                      ...++.+.++..++..+++.++..+++|-+|.+ +.+.||+...++..
+T Consensus        97 ~~~~~~~~~~~~l~~g~~v~v~~~~~~w~~V~~~~g~~g~v~~~~v~~  144 (306)
+T 3NPF_B           97 EKPDESSQPVSDVVAGNRLKWEGSKGHFYQVSYPDGRKAYLSKSISQP  144 (306)
+T ss_dssp             SSSSTTSCEEEEEETTCEEEEEEEETTEEEEECTTSCEEEEETTSEEE
+T ss_pred             eCCCCCCCceEEEeCCCEEEEeeecCcEEEEEcCCCCEEEEECceeCC
+Confidence            777777788888899999999999999999988 67789888776654
+
+
+No 34
+>3NPF_A putative dipeptidyl-peptidase VI; Structural Genomics, Joint Center for; HET: GOL; 1.72A {Bacteroides ovatus}
+Probab=97.38  E-value=1.1e-06  Score=69.73  Aligned_cols=111  Identities=17%  Similarity=0.230  Sum_probs=90.9  Template_Neff=10.200
+
+Q T1002             7 LANVNLRSAKSTNSSIITVIPQGAKMEVLDEEDDWIKVMYN-SQEGYVYKDLVSVSEY--------------AWSNLNLR   71 (270)
+Q Consensus         7 lanvnlrsakstnssiitvipqgakmevldeeddwikvmyn-sqegyvykdlvsvsey--------------awsnlnlr   71 (270)
+                      ...+|+|+..++++.+++.++.|..++|+.+ ++|.+|.+. ..+|||.++.+...+.              ...+++++
+T Consensus        18 ~~~~~vr~~p~~~~~~v~~l~~g~~v~v~~~-~~W~~V~~~~g~~Gwv~~~~l~~~~~~~~~~~~~~~~~~v~~~~~~v~   96 (306)
+T 3NPF_A           18 ISVCNLREEGKFTSGMSTQALLGMPVKVLQY-NGWYEIQTPDDYTGWVHRMVITPMSKERYDEWNRAEKIVVTSHYGFAY   96 (306)
+T ss_dssp             SSEEEEESSSSTTSCEEEEEETTCEEEEEEE-SSEEEEECTTSCEEEEEGGGEEEECHHHHHHHHHSCEEEECSSEEEEE
+T ss_pred             eceEEeeccCCCCcceeEEeeCCCeEEEEee-CCEEEEECCCCCeeEEEHHhEeecCHHHHhhhhhcCcEEEeCCceEee
+Confidence            3468999999999999999999999999988 899999987 7899998876543321              12456777
+
+
+Q T1002            72 EDKSTTSNIITVIPEKSRVEVLQVDGDWSKVVY-DDKIGYVFNYFLSI  118 (270)
+Q Consensus        72 edksttsniitvipeksrvevlqvdgdwskvvy-ddkigyvfnyflsi  118 (270)
+                      ...++.+..+..++...++.++...++|.+|.+ +.+.||+-.-++..
+T Consensus        97 ~~~~~~~~~~~~l~~G~~v~v~~~~~~w~~V~~~~g~~g~v~~~~~~~  144 (306)
+T 3NPF_A           97 EKPDESSQPVSDVVAGNRLKWEGSKGHFYQVSYPDGRKAYLSKSISQP  144 (306)
+T ss_dssp             SSSSTTSCEEEEEETTCEEEEEEEETTEEEEECTTSCEEEEETTSEEE
+T ss_pred             eCCCCCCCccEEEeCCCeEEEecccCcEEEEEcCCCCEEEEEcceeCC
+Confidence            777777778888889999999999999999988 66778887776554
+
+
+No 35
+>6NTW_A GIL01 gp7; l, d-transpeptidase, TRANSFERASE, transferase-transferase inhibitor; HET: SO4, MXR; 2.76A {Escherichia coli (strain K12)}
+Probab=95.79  E-value=0.00061  Score=65.77  Aligned_cols=44  Identities=14%  Similarity=0.213  Sum_probs=25.7  Template_Neff=6.500
+
+Q T1002           151 LIVTDLRNKYTYIFKKDNGGWGQLYKWQCTIGKPETPTITGIFYISGR  198 (270)
+Q Consensus       151 livtdlrnkytyifkkdnggwgqlykwqctigkpetptitgifyisgr  198 (270)
+                      .|+.|+.....+.|..  |  ..++.+.|.+|+|.++|-.|.+.|...
+T Consensus       346 ~I~VNip~~~L~~~~~--G--~~v~~~~V~vG~~~~~TP~g~~~I~~~  389 (585)
+T 6NTW_A          346 GIMVNIPAYSLVYYQN--G--NQVLDSRVIVGRPDRKTPMMSSALNNV  389 (585)
+T ss_dssp             EEEEEGGGTEEEEEET--T--EEEEEEEEEEECSSSCCCE--------
+T ss_pred             eEEEEcCCCEEEEEEC--C--EEEEEEEeEeCCCCCCCCcEEEEEEEE
+Confidence            4566666555566653  3  356788999999999998888887755
+
+
+No 36
+>2KRS_A Probable enterotoxin; all beta, SH3, EntD, CPF_0587; NMR {Clostridium perfringens}
+Probab=95.25  E-value=0.002  Score=40.77  Aligned_cols=51  Identities=27%  Similarity=0.619  Sum_probs=44.9  Template_Neff=10.500
+
+Q T1002             8 ANVNLRSAKSTNSSIITVIPQGAKMEVLDEEDDWIKVMYNSQEGYVYKDLV   58 (270)
+Q Consensus         8 anvnlrsakstnssiitvipqgakmevldeeddwikvmynsqegyvykdlv   58 (270)
+                      .+++++...+.++.++..+++|...++++.+.+|+++.++.+.||+..+.+
+T Consensus         9 ~~~~~~~~p~~~~~~~~~~~~g~~~~~~~~~~~w~~v~~~~~~gwv~~~~~   59 (74)
+T 2KRS_A            9 SALNMRSGPGSNYGVIGTLRNNDKVEIIKEVDGWYEIRFNGKVGYASKSYI   59 (74)
+T ss_dssp             SEEEEESSSSTTTCEEEEEETTCEEEEEEEETTEEEEEETTEEEEECSSSE
+T ss_pred             CceEeeeCCCCCcceEEEEeCCCEEEEEEeCCCEEEEEECCEEEEEEhHhE
+Confidence            468888888888899999999999999999999999999989999876654
+
+
+No 37
+>2KT8_A Probable surface protein; SH3 family, Clostridium perfringens, Structural; NMR {Clostridium perfringens}
+Probab=94.56  E-value=0.0058  Score=38.82  Aligned_cols=52  Identities=29%  Similarity=0.569  Sum_probs=39.9  Template_Neff=10.500
+
+Q T1002             8 ANVNLRSAKSTNSSIITVIPQGAKMEVLDEEDDWIKVMYNSQEGYVYKDLVS   59 (270)
+Q Consensus         8 anvnlrsakstnssiitvipqgakmevldeeddwikvmynsqegyvykdlvs   59 (270)
+                      .++++|...+.++.++..++.|..++++..+..|.+|.+....||+..+.+.
+T Consensus        11 ~~~~~~~~~~~~~~~~~~i~~g~~v~~~~~~~~w~~v~~~~~~g~v~~~~~~   62 (76)
+T 2KT8_A           11 SSLNVREGASTSSKVIGSLSGNTKVTIVGEEGAFYKIEYKGSHGYVAKEYIK   62 (76)
+T ss_dssp             -CCEEESSSSTTSCEEEEECTTCEEEEEEEETTEEEEEETTEEEEE------
+T ss_pred             CcEEEeeCCCCCCceEEEeCCCCEEEEEeeCCCEEEEEECCEEEEEEHHHcc
+Confidence            4567777777788889999999999999999999999999889998776553
+
+
+No 38
+>2KYB_A Mannosyl-glycoprotein endo-beta-N-acetylglucosaminidase domain protein, possible; Structural Genomics, PSI-2, Protein Structure; NMR {Clostridium perfringens}
+Probab=94.36  E-value=0.0075  Score=34.05  Aligned_cols=47  Identities=32%  Similarity=0.584  Sum_probs=37.9  Template_Neff=12.000
+
+Q T1002             8 ANVNLRSAKSTNSSIITVIPQGAKMEVLDEEDDWIKVMYNSQEGYVY   54 (270)
+Q Consensus         8 anvnlrsakstnssiitvipqgakmevldeeddwikvmynsqegyvy   54 (270)
+                      .+++++...+..+.++..+++|..+++++....|.+|.+....||+.
+T Consensus        10 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~v~~~~~~g~v~   56 (60)
+T 2KYB_A           10 SSLNVRSSASTSSKVIGSLSGNTKVTIVGEEGAFYKIEYKGSHGYVA   56 (60)
+T ss_dssp             -CCEEBSSSCGGGCCCEECCTTCEECCCCEETTEEECCBTTBCCEEE
+T ss_pred             CCeEEEcCCCCCCcEEEEeCCCCEEEEEeeCCCEEEEEECCEEEEEE
+Confidence            45677777777778888899999999999999999998876667664
+
+
+No 39
+>3M1U_A Putative gamma-D-glutamyl-L-diamino acid endopeptidase; Structural Genomics, Joint Center for; HET: GOL, MES, CL; 1.75A {Desulfovibrio vulgaris}
+Probab=94.16  E-value=0.0096  Score=53.90  Aligned_cols=108  Identities=12%  Similarity=0.073  Sum_probs=75.3  Template_Neff=8.000
+
+Q T1002             6 ALANVNLRSAKSTN----------------SSIITVIPQGAKMEVLDE--EDDWIKVMYNSQEGYVYKDLVSVSEY----   63 (270)
+Q Consensus         6 alanvnlrsakstn----------------ssiitvipqgakmevlde--eddwikvmynsqegyvykdlvsvsey----   63 (270)
+                      +..++|+|..-+++                +..++.++.|...+|+++  +.+|.+|......|+|.++-+...+-    
+T Consensus       120 ~~~~~~vR~~Pt~~~~~~~~~~~g~g~pfD~~q~s~l~~GtpV~Vl~~S~d~~W~~V~s~~~~GWV~~~~Ia~~~~~~~~  199 (434)
+T 3M1U_A          120 VVSNSALREVPTLRPMFTAPTRAGQGYPFDMFQRTAVWMGTPVFVGHATADRAWLYVETAFAAGWMPAADVARVDDAFMT  199 (434)
+T ss_dssp             ECSCEEEESSSCSSCCBSCTTSTTTSTTCCTTEEEEECTTCEEEEEEECTTSSEEEEECSSCEEEEEGGGEEECCHHHHH
+T ss_pred             EeeccccccCCCCCcccCCcccCCCCCCCCccccceecCCCeEEEEEEeCCCCEEEEEcCCcEEEEEHHHeEEcCHHHHH
+Confidence            45788999887777                888999999999999999  89999999999999999866654321    
+
+
+Q T1002            64 AWS----------NLNLREDKSTTSNIITVIPEKSRVEVLQVDG----DWSKVVY-DDKIGYVFNYFL  116 (270)
+Q Consensus        64 aws----------nlnlredksttsniitvipeksrvevlqvdg----dwskvvy-ddkigyvfnyfl  116 (270)
+                      .|.          +++++..   .+..+...+..+++.++.-++    .|-+|.. +.+.|++-..++
+T Consensus       200 ~~~~~~~~vVt~~~~~v~~~---~~~~~~~l~~Gt~lpv~~~~~~~~~~wv~V~~~~G~~g~v~~~~~  264 (434)
+T 3M1U_A          200 RYESGSLAAILRDDTSLNGA---DGTHLATAHIGTVLPLSGASQVGRTVLVPVRAPEGHAVVVPVLLT  264 (434)
+T ss_dssp             HHHSSCEEEECSTTEEEECT---TSCEEEEECTTCEEEBCC-----EEEEEEEECTTSBEEEEEEEEC
+T ss_pred             HHhhCCeEEEEcCCeeeeCC---CCcEEEEEeCCCEEEeccCCCCCceEEEEEECCCCCEEEEEEEee
+Confidence            122          1333322   234555666677777777665    7888877 456777765543
+
+
+No 40
+>2HBW_A NLP/P60 protein; Nlp/p60 family protein, structural genomics; HET: UNL; 1.05A {Anabaena variabilis}
+Probab=93.74  E-value=0.015  Score=47.40  Aligned_cols=52  Identities=17%  Similarity=0.273  Sum_probs=45.2  Template_Neff=8.800
+
+Q T1002             8 ANVNLRSAKSTNSSIITVIPQGAKMEVLDEE-DDWIKVMY--NSQEGYVYKDLVSV   60 (270)
+Q Consensus         8 anvnlrsakstnssiitvipqgakmevldee-ddwikvmy--nsqegyvykdlvsv   60 (270)
+                      ..+|||+..+ .+.+++.++.|.++++++++ ++|.+|-+  +..+|||.+..+..
+T Consensus        22 ~~~~lr~~p~-~s~~~~~l~~G~~v~i~~~~~~~W~~V~~~~~g~~GWv~~~~l~~   76 (235)
+T 2HBW_A           22 AALNLYDSPE-CTSLATQAAVGRHLQVTSNQQGAAVEVCLCEDDYPGWLSLGDLGL   76 (235)
+T ss_dssp             SCEEEESSTT-CCSEEEEECTTCEEEEEEEEETTEEEEEETTTTEEEEEEGGGGGG
+T ss_pred             eeeecccCCC-CCcccceecCCCEEEEEEeeCCCeEEEEECCCCcEEEEEhhhccc
+Confidence            5689999988 77999999999999999996 99999964  77899999876653
+
+
+No 41
+>6BIM_A Clan CA, family C40, NlpC/P60; peptidoglycan, peptidase, NlpC protein, HYDROLASE; HET: MSE; 1.547A {Trichomonas vaginalis}
+Probab=93.54  E-value=0.018  Score=45.28  Aligned_cols=54  Identities=22%  Similarity=0.474  Sum_probs=47.5  Template_Neff=10.400
+
+Q T1002             8 ANVNLRSAKSTNSSIITVIPQGAKMEVLDE-EDDWIKVMYNSQEGYVYKDLVSVS   61 (270)
+Q Consensus         8 anvnlrsakstnssiitvipqgakmevlde-eddwikvmynsqegyvykdlvsvs   61 (270)
+                      .++++|+..++++.++..+|.|.+++++++ +++|.+|.++.+.||+.++.+...
+T Consensus        91 ~~~~v~~~p~~~~~~~~~l~~G~~v~v~~~~~~~w~~V~~~g~~G~v~~~~~~~~  145 (278)
+T 6BIM_A           91 TEANIYSEPSRTGTIVRYVPANSQVTILDFNCDGFYRINYRGYIGYILEDALQYK  145 (278)
+T ss_dssp             SCEEEESSSSSSCCEEEEECTTCEEEEEEEEETTEEEEEETTEEEEEEGGGBSCC
+T ss_pred             eeEEEEeCCCCCCceEEEEcCCCEEEEEEeCCCcEEEEEeCCeEeeeeHHHheee
+Confidence            467888888889999999999999999998 899999999999999998876543
+
+
+No 42
+>2KQ8_A Cell wall hydrolase (E.C.3.5.1.28); GFT NMR, protein structure, NESG; NMR {Bacillus thuringiensis serovar konkukian}
+Probab=92.96  E-value=0.029  Score=35.49  Aligned_cols=53  Identities=40%  Similarity=0.710  Sum_probs=43.2  Template_Neff=10.300
+
+Q T1002             8 ANVNLRSAKSTNSSIITVIPQGAKMEVLDEEDDWIKVMYNSQEGYVYKDLVSV   60 (270)
+Q Consensus         8 anvnlrsakstnssiitvipqgakmevldeeddwikvmynsqegyvykdlvsv   60 (270)
+                      .+++++...+..+.++..++.|...++..+.+.|+++.++...||+-.+.+..
+T Consensus        10 ~~~~v~~~~~~~~~~~~~~~~g~~~~~~~~~~~w~~v~~~~~~g~v~~~~~~~   62 (70)
+T 2KQ8_A           10 SALNVRSGEGTNYRIIGALPQGQKVQVISENSGWSKINYNGQTGYIGTRYLSK   62 (70)
+T ss_dssp             SSSCSSSSSSSCTTSCCCCCSSSSCCCCEEETTEEEEEETTEEEEEETTSCSC
+T ss_pred             CeEEEecCCCCCCceEEEeCCCCEEEEEEeCCCEEEEEECCEEEEEEHHHccc
+Confidence            45678877777788888889999998888889999999988888887665543
+
+
+No 43
+>6BIO_A Clan CA, family C40, NlpC/P60; peptidase, NlpC protein, HYDROLASE; 1.2A {Trichomonas vaginalis}
+Probab=92.91  E-value=0.03  Score=44.27  Aligned_cols=54  Identities=22%  Similarity=0.474  Sum_probs=47.3  Template_Neff=10.300
+
+Q T1002             8 ANVNLRSAKSTNSSIITVIPQGAKMEVLDE-EDDWIKVMYNSQEGYVYKDLVSVS   61 (270)
+Q Consensus         8 anvnlrsakstnssiitvipqgakmevlde-eddwikvmynsqegyvykdlvsvs   61 (270)
+                      .++++|...++++.++..++.|.+..++++ +++|.+|.++.+.||+.++.+...
+T Consensus        91 ~~~~v~~~p~~~~~~~~~l~~G~~v~i~~~~~~~w~~V~~~g~~G~v~~~~~~~~  145 (278)
+T 6BIO_A           91 TEANIYSEPSRTGTIVRYVPANSQVTILDFNCDGFYRINYRGYIGYILEDALQYK  145 (278)
+T ss_dssp             SCEEEESSSSSSCCEEEEECTTCEEEEEEEEETTEEEEEETTEEEEEEGGGBSCC
+T ss_pred             eeEEEEeCCCCCCceEEEEcCCCEEEEEEcCCCcEEEEEeCCeeeeeeHHHhhee
+Confidence            467888888889999999999999999998 899999999999999998876543
+
+
+No 44
+>2KYB_A Mannosyl-glycoprotein endo-beta-N-acetylglucosaminidase domain protein, possible; Structural Genomics, PSI-2, Protein Structure; NMR {Clostridium perfringens}
+Probab=92.12  E-value=0.05  Score=30.69  Aligned_cols=47  Identities=32%  Similarity=0.579  Sum_probs=36.0  Template_Neff=12.000
+
+Q T1002            66 SNLNLREDKSTTSNIITVIPEKSRVEVLQVDGDWSKVVYDDKIGYVF  112 (270)
+Q Consensus        66 snlnlredksttsniitvipeksrvevlqvdgdwskvvyddkigyvf  112 (270)
+                      .+++++...+..+.++..++...+++++...+.|.+|.++...||+-
+T Consensus        10 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~v~~~~~~g~v~   56 (60)
+T 2KYB_A           10 SSLNVRSSASTSSKVIGSLSGNTKVTIVGEEGAFYKIEYKGSHGYVA   56 (60)
+T ss_dssp             -CCEEBSSSCGGGCCCEECCTTCEECCCCEETTEEECCBTTBCCEEE
+T ss_pred             CCeEEEcCCCCCCcEEEEeCCCCEEEEEeeCCCEEEEEECCEEEEEE
+Confidence            45667766666777777777788888888889999999887777764
+
+
+No 45
+>1XOV_A Ply protein(E.C.3.5.1.28); alpha/beta hydrolase, multi-domain, hydrolase; 1.8A {Listeria phage PSA} SCOP: c.56.5.6, b.34.11.4
+Probab=91.84  E-value=0.058  Score=44.16  Aligned_cols=58  Identities=21%  Similarity=0.338  Sum_probs=49.8  Template_Neff=10.000
+
+Q T1002            65 WSNLNLREDKSTTSNIITVIPEKSRVEVLQVDGDWSKVVYDDKIGYVFNYFLSIDGNK  122 (270)
+Q Consensus        65 wsnlnlredksttsniitvipeksrvevlqvdgdwskvvyddkigyvfnyflsidgnk  122 (270)
+                      -+.+|+|...+..+.++..++....+.++...+.|.++.++...|||..-++......
+T Consensus       201 ~~~~~vr~~~~~~~~~v~~~~~g~~~~v~~~~~~w~~v~~~~~~g~v~~~~~~~~~~~  258 (326)
+T 1XOV_A          201 VDSVPMLSKMDFKSSPIKMYKAGSSLLVYEHNKYWYKAYINDKLCYIYKSFCISNGKK  258 (326)
+T ss_dssp             CSEEEEESSSCTTSCEEEEEETTCEEEEEECSSSEEEEEETTEEEEEEGGGEEECCCC
+T ss_pred             ccceeccccCCCCCCceEEEcCCCEEEEEEeCCCEEEEEECCEEEEEEHHheEecCCc
+Confidence            3568899988888888888899999999999999999999999999988777766543
+
+
+No 46
+>6BIM_A Clan CA, family C40, NlpC/P60; peptidoglycan, peptidase, NlpC protein, HYDROLASE; HET: MSE; 1.547A {Trichomonas vaginalis}
+Probab=90.81  E-value=0.096  Score=41.30  Aligned_cols=54  Identities=11%  Similarity=0.002  Sum_probs=45.8  Template_Neff=10.400
+
+Q T1002            66 SNLNLRED---KSTTSN-IITVIPEKSRVEVLQVDGDWSKVVYDDKIGYVFNYFLSID  119 (270)
+Q Consensus        66 snlnlred---ksttsn-iitvipeksrvevlqvdgdwskvvyddkigyvfnyflsid  119 (270)
+                      .++|+|..   .++.+. +++.++....++++..+++|.+|.+.+..|||..-.|...
+T Consensus        26 ~~~~~r~~~~~p~~~~~~~~~~l~~g~~v~v~~~~~~W~~V~~~~~~Gwv~~~~l~~~   83 (278)
+T 6BIM_A           26 PGTNLVKAYKSSNPDLARNCYWLYFDYYVHILGYENGFAHVRIGTEDCWISKDSLEEI   83 (278)
+T ss_dssp             TTSSEEEEESSSSCCTTCCCEEEETTCEEEEEEEETTEEEEEETTEEEEEEGGGEEEE
+T ss_pred             CCccchhcccCCCcchheeeeEEeCCCeEEEEEEcCCEEEEEECCeEEEEEHHHeeec
+Confidence            46888887   776666 7778999999999999999999999999999987776554
+
+
+No 47
+>2KRS_A Probable enterotoxin; all beta, SH3, EntD, CPF_0587; NMR {Clostridium perfringens}
+Probab=90.75  E-value=0.098  Score=33.09  Aligned_cols=54  Identities=22%  Similarity=0.555  Sum_probs=43.2  Template_Neff=10.500
+
+Q T1002            66 SNLNLREDKSTTSNIITVIPEKSRVEVLQVDGDWSKVVYDDKIGYVFNYFLSID  119 (270)
+Q Consensus        66 snlnlredksttsniitvipeksrvevlqvdgdwskvvyddkigyvfnyflsid  119 (270)
+                      ++++++.+.+..+.++..++...+++++.-+++|.++.++...||+..-.+...
+T Consensus         9 ~~~~~~~~p~~~~~~~~~~~~g~~~~~~~~~~~w~~v~~~~~~gwv~~~~~~~~   62 (74)
+T 2KRS_A            9 SALNMRSGPGSNYGVIGTLRNNDKVEIIKEVDGWYEIRFNGKVGYASKSYITIV   62 (74)
+T ss_dssp             SEEEEESSSSTTTCEEEEEETTCEEEEEEEETTEEEEEETTEEEEECSSSEEES
+T ss_pred             CceEeeeCCCCCcceEEEEeCCCEEEEEEeCCCEEEEEECCEEEEEEhHhEEee
+Confidence            467788887777888888888889998888899999999888888866555443
+
+
+No 48
+>3H41_A NLP/P60 family protein, Water; NLPC/P60 FAMILY PROTEIN, STRUCTURAL GENOMICS; HET: PG4, DGL; 1.79A {Bacillus cereus ATCC 10987}
+Probab=90.72  E-value=0.1  Score=43.51  Aligned_cols=52  Identities=13%  Similarity=0.172  Sum_probs=43.9  Template_Neff=9.400
+
+Q T1002             9 NVNLRSAKSTNSSIITVIPQGAKMEVLDEEDDWIKVMYN-SQEGYVYKDLVSVS   61 (270)
+Q Consensus         9 nvnlrsakstnssiitvipqgakmevldeeddwikvmyn-sqegyvykdlvsvs   61 (270)
+                      ++++|+..++++.++ .++.|.++.++++.++|.+|.+. .+.||+.++.+...
+T Consensus       126 ~~~l~~~p~~~~~~~-~l~~gt~l~v~~~~~~w~~V~~~~g~~g~v~~~~v~~~  178 (311)
+T 3H41_A          126 TAILYINPSEKHKSL-EVSYNTRLPLLSEDTISYRVLLPNGQKAWLRKNDGTFY  178 (311)
+T ss_dssp             EEEEEESSCTTCCEE-EEETTCEEEEEEECSSEEEEECTTSCEEEEEGGGEEEE
+T ss_pred             ceEEEeCCCCCCceE-EEeCCcEEEeeecCCCeEEEECCCCCeeeEEeccccee
+Confidence            567888777888888 89999999999999999999985 57899998877653
+
+
+No 49
+>6BIO_A Clan CA, family C40, NlpC/P60; peptidase, NlpC protein, HYDROLASE; 1.2A {Trichomonas vaginalis}
+Probab=90.71  E-value=0.1  Score=41.36  Aligned_cols=56  Identities=11%  Similarity=-0.015  Sum_probs=46.7  Template_Neff=10.300
+
+Q T1002            64 AWSNLNLRED---KSTTSN-IITVIPEKSRVEVLQVDGDWSKVVYDDKIGYVFNYFLSID  119 (270)
+Q Consensus        64 awsnlnlred---ksttsn-iitvipeksrvevlqvdgdwskvvyddkigyvfnyflsid  119 (270)
+                      +-.++|+|..   .++.+. +++.++....++++..+++|.+|.+.+..|||..-.+...
+T Consensus        24 ~~~~~~~r~~~~~p~~~~~~~~~~l~~g~~v~v~~~~~~W~~V~~~~~~Gwv~~~~l~~~   83 (278)
+T 6BIO_A           24 TTPGTNLVKAYKSSNPDLARNCYWLYFDYYVHILGYENGFAHVRIGTEDCWISKDSLEEI   83 (278)
+T ss_dssp             CCTTSSEEEEESSSSCCTTCCCEEEETTCEEEEEEEETTEEEEEETTEEEEEEGGGEEEE
+T ss_pred             ecCCcceeecccCCCccccccceEEeCCCEEEEEEEcCCEEEEEECCeeEEEEHHHceec
+Confidence            3457889988   776666 6768899999999999999999999999999987776553
+
+
+No 50
+>2HBW_A NLP/P60 protein; Nlp/p60 family protein, structural genomics; HET: UNL; 1.05A {Anabaena variabilis}
+Probab=90.45  E-value=0.11  Score=42.44  Aligned_cols=53  Identities=21%  Similarity=0.205  Sum_probs=46.5  Template_Neff=8.800
+
+Q T1002            66 SNLNLREDKSTTSNIITVIPEKSRVEVLQVD-GDWSKVVY--DDKIGYVFNYFLSID  119 (270)
+Q Consensus        66 snlnlredksttsniitvipeksrvevlqvd-gdwskvvy--ddkigyvfnyflsid  119 (270)
+                      +.+++|...+ .+.+++.+++...|+++... ++|.+|.+  |++.|+|-..+|..-
+T Consensus        22 ~~~~lr~~p~-~s~~~~~l~~G~~v~i~~~~~~~W~~V~~~~~g~~GWv~~~~l~~~   77 (235)
+T 2HBW_A           22 AALNLYDSPE-CTSLATQAAVGRHLQVTSNQQGAAVEVCLCEDDYPGWLSLGDLGLL   77 (235)
+T ss_dssp             SCEEEESSTT-CCSEEEEECTTCEEEEEEEEETTEEEEEETTTTEEEEEEGGGGGGE
+T ss_pred             eeeecccCCC-CCcccceecCCCEEEEEEeeCCCeEEEEECCCCcEEEEEhhhcccc
+Confidence            6789999888 77999999999999999995 99999975  788999998887653
+
+
+No 51
+>3NPF_A putative dipeptidyl-peptidase VI; Structural Genomics, Joint Center for; HET: GOL; 1.72A {Bacteroides ovatus}
+Probab=90.43  E-value=0.11  Score=41.82  Aligned_cols=54  Identities=30%  Similarity=0.318  Sum_probs=47.3  Template_Neff=10.200
+
+Q T1002            65 WSNLNLREDKSTTSNIITVIPEKSRVEVLQVDGDWSKVVYD-DKIGYVFNYFLSID  119 (270)
+Q Consensus        65 wsnlnlredksttsniitvipeksrvevlqvdgdwskvvyd-dkigyvfnyflsid  119 (270)
+                      -..+|+|...++.+.+++.++....|+|+.. ++|.+|.+. +..|||..-.+...
+T Consensus        18 ~~~~~vr~~p~~~~~~v~~l~~g~~v~v~~~-~~W~~V~~~~g~~Gwv~~~~l~~~   72 (306)
+T 3NPF_A           18 ISVCNLREEGKFTSGMSTQALLGMPVKVLQY-NGWYEIQTPDDYTGWVHRMVITPM   72 (306)
+T ss_dssp             SSEEEEESSSSTTSCEEEEEETTCEEEEEEE-SSEEEEECTTSCEEEEEGGGEEEE
+T ss_pred             eceEEeeccCCCCcceeEEeeCCCeEEEEee-CCEEEEECCCCCeeEEEHHhEeec
+Confidence            4579999999999999999999999999988 899999987 88999987666543
+
+
+No 52
+>3H41_A NLP/P60 family protein, Water; NLPC/P60 FAMILY PROTEIN, STRUCTURAL GENOMICS; HET: PG4, DGL; 1.79A {Bacillus cereus ATCC 10987}
+Probab=90.31  E-value=0.12  Score=43.08  Aligned_cols=54  Identities=20%  Similarity=0.275  Sum_probs=47.6  Template_Neff=9.400
+
+Q T1002            67 NLNLREDKSTTSNIITVIPEKSRVEVLQVDGDWSKVVY---------DDKIGYVFNYFLSIDG  120 (270)
+Q Consensus        67 nlnlredksttsniitvipeksrvevlqvdgdwskvvy---------ddkigyvfnyflsidg  120 (270)
+                      +++.|...++.+.+++.++....|+|+..+++|.+|.+         +...|||....|+...
+T Consensus        47 ~~~~r~~~~~~~~v~~ql~~G~~v~Vl~~~~~W~~V~~~~q~~~~~~~g~~GWv~~~~l~~~~  109 (311)
+T 3H41_A           47 TLDEKLWLTNANKLETQALLGQEVTVVDKKGDWVKVLVHGQPTPRNEEGYPGWMPEKQLTYNQ  109 (311)
+T ss_dssp             CHHHHHHHHHTTCEEEEEETTCEEEEEEEETTEEEEEETTCCBTTBSSCEEEEEEGGGEECCH
+T ss_pred             CHHHHHhhccCCceeeeEeCCCEEEEEEeeCCEEEEEECCcCCCCCCCCCceeeeHHHeEeCH
+Confidence            45678888889999999999999999999999999997         8889999988777653
+
+
+No 53
+>6B26_A SH3 and cysteine-rich domain-containing protein; Excitation-contraction coupling, ion channel adaptor; 1.2A {Homo sapiens}
+Probab=90.11  E-value=0.13  Score=32.66  Aligned_cols=92  Identities=15%  Similarity=0.169  Sum_probs=49.8  Template_Neff=12.200
+
+Q T1002            26 IPQGAKMEVLDE-EDDWIKVMYNSQEGYVYKDLVSVSEYAWSNLNLREDKSTT-SNIITVIPEKSRVEVLQVD---GDWS  100 (270)
+Q Consensus        26 ipqgakmevlde-eddwikvmynsqegyvykdlvsvseyawsnlnlredkstt-sniitvipeksrvevlqvd---gdws  100 (270)
+                      +..|..+.++.+ .++|..+..+.+.|++-...+....-.-+......+-... +.-...+++...+.++...   .+|-
+T Consensus        22 ~~~g~~~~~~~~~~~~w~~~~~~~~~~~vp~~~~~~~~~~~~~~~~~~~~~~~~~~~~l~~~~g~~~~~~~~~~~~~~w~  101 (120)
+T 6B26_A           22 LQPGDRIMLVDDSNEDWWKGKIGDRVGFFPANFVQRVRPGENVWRCCQPFSGNKEQGYMSLKENQICVGVGRSKDADGFI  101 (120)
+T ss_dssp             BCTTCEEEEEECCSSSEEEEEETTEEEEEEGGGEEECCTTCEEEEESSCBCCCGGGTBCCBCTTCEEEECGGGCCTTSEE
+T ss_pred             cCCCCEEEEEEcCCCCEEEEEECCeEEEEehheEEEecCCCCceEEEeecCCCCCCCceeecCCcEEEEeeecCCCCCeE
+Confidence            345666777776 6789888888888877555432211000000000110010 1122233455556665543   3898
+
+
+Q T1002           101 KVVYDDKIGYVFNYFLS  117 (270)
+Q Consensus       101 kvvyddkigyvfnyfls  117 (270)
+                      .+.+..+.|+|.-.|+.
+T Consensus       102 ~~~~~~~~g~~p~~~~~  118 (120)
+T 6B26_A          102 RVSSGKKRGLVPVDALT  118 (120)
+T ss_dssp             EEEETTEEEEEEGGGEE
+T ss_pred             EEEeCCEEEEEEHHHee
+Confidence            88888889988765543
+
+
+No 54
+>6B27_D SH3 and cysteine-rich domain-containing protein; Excitation-contraction coupling, ion channel adaptor; HET: SO4; 1.73A {Homo sapiens}
+Probab=90.11  E-value=0.13  Score=32.66  Aligned_cols=92  Identities=15%  Similarity=0.169  Sum_probs=49.8  Template_Neff=12.200
+
+Q T1002            26 IPQGAKMEVLDE-EDDWIKVMYNSQEGYVYKDLVSVSEYAWSNLNLREDKSTT-SNIITVIPEKSRVEVLQVD---GDWS  100 (270)
+Q Consensus        26 ipqgakmevlde-eddwikvmynsqegyvykdlvsvseyawsnlnlredkstt-sniitvipeksrvevlqvd---gdws  100 (270)
+                      +..|..+.++.+ .++|..+..+.+.|++-...+....-.-+......+-... +.-...+++...+.++...   .+|-
+T Consensus        22 ~~~g~~~~~~~~~~~~w~~~~~~~~~~~vp~~~~~~~~~~~~~~~~~~~~~~~~~~~~l~~~~g~~~~~~~~~~~~~~w~  101 (120)
+T 6B27_D           22 LQPGDRIMLVDDSNEDWWKGKIGDRVGFFPANFVQRVRPGENVWRCCQPFSGNKEQGYMSLKENQICVGVGRSKDADGFI  101 (120)
+T ss_dssp             BCTTCEEEEEECCSSSEEEEEETTEEEEEEGGGEEECCTTCEEEEESSCBCCBTTTTBCCBCTTCEEEECCCCTTCCSCE
+T ss_pred             cCCCCEEEEEEcCCCCEEEEEECCeEEEEehheEEEecCCCCceEEEeecCCCCCCCceeecCCcEEEEeeecCCCCCeE
+Confidence            345666777776 6789888888888877555432211000000000110010 1122233455556665543   3898
+
+
+Q T1002           101 KVVYDDKIGYVFNYFLS  117 (270)
+Q Consensus       101 kvvyddkigyvfnyfls  117 (270)
+                      .+.+..+.|+|.-.|+.
+T Consensus       102 ~~~~~~~~g~~p~~~~~  118 (120)
+T 6B27_D          102 RVSSGKKRGLVPVDALT  118 (120)
+T ss_dssp             EEEETTEEEEECGGGEE
+T ss_pred             EEEeCCEEEEEEHHHee
+Confidence            88888889988765543
+
+
+No 55
+>2KT8_A Probable surface protein; SH3 family, Clostridium perfringens, Structural; NMR {Clostridium perfringens}
+Probab=90.09  E-value=0.13  Score=32.72  Aligned_cols=52  Identities=31%  Similarity=0.581  Sum_probs=37.5  Template_Neff=10.500
+
+Q T1002            66 SNLNLREDKSTTSNIITVIPEKSRVEVLQVDGDWSKVVYDDKIGYVFNYFLS  117 (270)
+Q Consensus        66 snlnlredksttsniitvipeksrvevlqvdgdwskvvyddkigyvfnyfls  117 (270)
+                      +++++|.+.+..+.++..++....++++...+.|.++.+....|||..-++.
+T Consensus        11 ~~~~~~~~~~~~~~~~~~i~~g~~v~~~~~~~~w~~v~~~~~~g~v~~~~~~   62 (76)
+T 2KT8_A           11 SSLNVREGASTSSKVIGSLSGNTKVTIVGEEGAFYKIEYKGSHGYVAKEYIK   62 (76)
+T ss_dssp             -CCEEESSSSTTSCEEEEECTTCEEEEEEEETTEEEEEETTEEEEE------
+T ss_pred             CcEEEeeCCCCCCceEEEeCCCCEEEEEeeCCCEEEEEECCEEEEEEHHHcc
+Confidence            4566776666777778888889999998889999999998888888665554
+
+
+No 56
+>3NPF_B putative dipeptidyl-peptidase VI; Structural Genomics, Joint Center for; HET: MSE, CSA, GOL; 1.72A {Bacteroides ovatus}
+Probab=90.04  E-value=0.13  Score=41.46  Aligned_cols=53  Identities=30%  Similarity=0.335  Sum_probs=47.0  Template_Neff=10.200
+
+Q T1002            66 SNLNLREDKSTTSNIITVIPEKSRVEVLQVDGDWSKVVYD-DKIGYVFNYFLSID  119 (270)
+Q Consensus        66 snlnlredksttsniitvipeksrvevlqvdgdwskvvyd-dkigyvfnyflsid  119 (270)
+                      .++|+|.+.++.+.+++.++....|+|+.. ++|.+|.+. ...|||..-.|...
+T Consensus        19 ~~~~vr~~p~~~~~~v~~l~~G~~v~v~~~-~~W~~V~~~dg~~GwV~~~~l~~~   72 (306)
+T 3NPF_B           19 SVCNLREEGKFTSGMSTQALLGMPVKVLQY-NGWYEIQTPDDYTGWVHRMVITPM   72 (306)
+T ss_dssp             SEEEEESSSSTTSCEEEEEETTCEEEEEEE-SSEEEEECTTSCEEEEEGGGEEEE
+T ss_pred             ceEEeeccCCCCcceeEEeeCCCeEEEEEe-CCEEEEECCCCCeEEEEHHheeec
+Confidence            579999999999999999999999999998 899999987 78999987766643
+
+
+No 57
+>6B25_A SH3 and cysteine-rich domain-containing protein; Excitation-contraction coupling, ion channel adaptor; HET: EPE; 2.39A {Homo sapiens}
+Probab=89.15  E-value=0.18  Score=32.23  Aligned_cols=90  Identities=17%  Similarity=0.230  Sum_probs=50.0  Template_Neff=12.000
+
+Q T1002            26 IPQGAKMEVLDE-EDDWIKVMYNSQEGYVYKDLVSVSEYAWSNL-NLREDKSTTS-NIITVIPEKSRVEVL-QVDGDWSK  101 (270)
+Q Consensus        26 ipqgakmevlde-eddwikvmynsqegyvykdlvsvseyawsnl-nlredkstts-niitvipeksrvevl-qvdgdwsk  101 (270)
+                      ...|..+.++.+ .++|..+..+.+.|++-.+.+...+-..... .++......+ .-++ .....++.++ ..+++|..
+T Consensus        22 ~~~g~~~~v~~~~~~~w~~~~~~~~~g~~p~~~~~~~~~~~~~~~~~~~~~~~~~~~~l~-~~~g~~~~v~~~~~~~w~~  100 (118)
+T 6B25_A           22 MRPGDIITLLEDSNEDWWKGKIQDRIGFFPANFVQRLQQNEKIFRCVRTFIGCKEQGQIT-LKENQICVSSEEEQDGFIR  100 (118)
+T ss_pred             cCCCCEEEEEEeCCCCeEEEEECCeEEEEehhheEEcCCCCCCcccccccccCCCccccc-cCCCCEEEEEEcCCCCEEE
+Confidence            445666777766 6789998888888887666543322111110 0000000111 1222 2333455555 35688988
+
+
+Q T1002           102 VVYDDKIGYVFNYFL  116 (270)
+Q Consensus       102 vvyddkigyvfnyfl  116 (270)
+                      +..+.+.|+|-..++
+T Consensus       101 ~~~~g~~G~vp~~~~  115 (118)
+T 6B25_A          101 VLSGKKKGLIPLDVL  115 (118)
+T ss_pred             EEECCeEEEEEhhhE
+Confidence            888888898876554
+
+
+No 58
+>1XOV_A Ply protein(E.C.3.5.1.28); alpha/beta hydrolase, multi-domain, hydrolase; 1.8A {Listeria phage PSA} SCOP: c.56.5.6, b.34.11.4
+Probab=87.41  E-value=0.3  Score=40.16  Aligned_cols=48  Identities=21%  Similarity=0.350  Sum_probs=40.7  Template_Neff=10.000
+
+Q T1002             9 NVNLRSA----KSTNSSIITVIPQGAKMEVLDEEDDWIKVMYNSQEGYVYKD   56 (270)
+Q Consensus         9 nvnlrsa----kstnssiitvipqgakmevldeeddwikvmynsqegyvykd   56 (270)
+                      .+++|..    .++++.++..++.|..+.++++..+|.+|-++.+.||+.++
+T Consensus       271 ~~~~~~~~~~~~~~~~~~v~~l~~g~~~~v~~~~~~w~~v~~~~~~g~v~~~  322 (326)
+T 1XOV_A          271 AKDLRIPVWNNTKLNSGKIKWYSPGTKLSWYDNKKGYLELWYEKDGWYYTAN  322 (326)
+T ss_dssp             TTTCCEEEESSTTCSSSSEEEECTTCEEEEECCSSSSEEEEETTTEEEEECG
+T ss_pred             cceeeeeeecCCCCCCcceeEeCCCCeEEEEeCCCCeEEEEEcCcEEEEEcc
+Confidence            3466665    67778889999999999999999999999998888888765
+
+
+No 59
+>2KQ8_A Cell wall hydrolase (E.C.3.5.1.28); GFT NMR, protein structure, NESG; NMR {Bacillus thuringiensis serovar konkukian}
+Probab=86.04  E-value=0.41  Score=30.26  Aligned_cols=47  Identities=34%  Similarity=0.685  Sum_probs=34.6  Template_Neff=10.300
+
+Q T1002            66 SNLNLREDKSTTSNIITVIPEKSRVEVLQVDGDWSKVVYDDKIGYVF  112 (270)
+Q Consensus        66 snlnlredksttsniitvipeksrvevlqvdgdwskvvyddkigyvf  112 (270)
+                      ++.+++...+..+.++..++....++++.-.+.|.++.+++..||+-
+T Consensus        10 ~~~~v~~~~~~~~~~~~~~~~g~~~~~~~~~~~w~~v~~~~~~g~v~   56 (70)
+T 2KQ8_A           10 SALNVRSGEGTNYRIIGALPQGQKVQVISENSGWSKINYNGQTGYIG   56 (70)
+T ss_dssp             SSSCSSSSSSSCTTSCCCCCSSSSCCCCEEETTEEEEEETTEEEEEE
+T ss_pred             CeEEEecCCCCCCceEEEeCCCCEEEEEEeCCCEEEEEECCEEEEEE
+Confidence            45566666666666677777777777777678999999888788764
+
+
+No 60
+>4KRT_A Autolytic lysozyme (E.C.3.2.1.17 ); beta/alpha barrel, muramidase and putative; HET: ACT, MLA, EPE; 1.92A {Clostridium phage phiSM101}
+Probab=85.67  E-value=0.44  Score=39.31  Aligned_cols=51  Identities=25%  Similarity=0.415  Sum_probs=42.5  Template_Neff=10.200
+
+Q T1002             8 ANVNLRSAKSTNSSIITVIPQGAKMEVLDEE---DDWIKVMY-NSQEGYVYKDLV   58 (270)
+Q Consensus         8 anvnlrsakstnssiitvipqgakmevldee---ddwikvmy-nsqegyvykdlv   58 (270)
+                      ..+++|+..++++.++..+|+|..+++++++   +.|.+|-+ +...|||.+..+
+T Consensus       296 ~~~~v~~~~~~~~~~~~~l~~g~~v~i~~~~~~~~~w~~v~~~~g~~g~v~~~~l  350 (353)
+T 4KRT_A          296 TFLNVREEGSLNSRIVDKINSGDIFRIDWVDSDFIGWYRITTKNGKVGFVNAEFV  350 (353)
+T ss_dssp             SEEEEESSSSTTSCEEEEEETTCCEEEEECCGGGTTEEEEECTTSCEEEEEGGGE
+T ss_pred             cceEEEecCCCCcceeeEecCCCEEEEEEecCCCCcEEEEEecCCCEEEEEHHHe
+Confidence            4678888888999999999999999999865   78999987 678888876543
+
+
+No 61
+>4KRT_B Autolytic lysozyme (E.C.3.2.1.17 ); beta/alpha barrel, muramidase and putative; HET: MLA, ACT, EPE; 1.92A {Clostridium phage phiSM101}
+Probab=85.67  E-value=0.44  Score=39.31  Aligned_cols=51  Identities=25%  Similarity=0.415  Sum_probs=42.5  Template_Neff=10.200
+
+Q T1002             8 ANVNLRSAKSTNSSIITVIPQGAKMEVLDEE---DDWIKVMY-NSQEGYVYKDLV   58 (270)
+Q Consensus         8 anvnlrsakstnssiitvipqgakmevldee---ddwikvmy-nsqegyvykdlv   58 (270)
+                      ..+++|+..++++.++..+|+|..+++++++   +.|.+|-+ +...|||.+..+
+T Consensus       296 ~~~~v~~~~~~~~~~~~~l~~g~~v~i~~~~~~~~~w~~v~~~~g~~g~v~~~~l  350 (353)
+T 4KRT_B          296 TFLNVREEGSLNSRIVDKINSGDIFRIDWVDSDFIGWYRITTKNGKVGFVNAEFV  350 (353)
+T ss_dssp             SEEEEESSSSTTSCEEEEEETTCEEEEEECCTTSTTEEEEECTTSCEEEEEGGGE
+T ss_pred             cceEEEecCCCCcceeeEecCCCEEEEEEecCCCCcEEEEEecCCCEEEEEHHHe
+Confidence            4678888888999999999999999999865   78999987 678888876543
+
+
+No 62
+>3NPF_A putative dipeptidyl-peptidase VI; Structural Genomics, Joint Center for; HET: GOL; 1.72A {Bacteroides ovatus}
+Probab=85.48  E-value=0.46  Score=38.42  Aligned_cols=53  Identities=11%  Similarity=0.208  Sum_probs=43.6  Template_Neff=10.200
+
+Q T1002             8 ANVNLRSAKSTNSSIITVIPQGAKMEVLDEEDDWIKVMY-NSQEGYVYKDLVSV   60 (270)
+Q Consensus         8 anvnlrsakstnssiitvipqgakmevldeeddwikvmy-nsqegyvykdlvsv   60 (270)
+                      .++++++..++.+..+..+++|.+..++.+.++|.+|-+ +.+.||+..+.+..
+T Consensus        91 ~~~~v~~~~~~~~~~~~~l~~G~~v~v~~~~~~w~~V~~~~g~~g~v~~~~~~~  144 (306)
+T 3NPF_A           91 HYGFAYEKPDESSQPVSDVVAGNRLKWEGSKGHFYQVSYPDGRKAYLSKSISQP  144 (306)
+T ss_dssp             SEEEEESSSSTTSCEEEEEETTCEEEEEEEETTEEEEECTTSCEEEEETTSEEE
+T ss_pred             CceEeeeCCCCCCCccEEEeCCCeEEEecccCcEEEEEcCCCCEEEEEcceeCC
+Confidence            456677777777888888999999999999999999987 77788888776543
+
+
+No 63
+>3NPF_B putative dipeptidyl-peptidase VI; Structural Genomics, Joint Center for; HET: MSE, CSA, GOL; 1.72A {Bacteroides ovatus}
+Probab=84.60  E-value=0.55  Score=37.99  Aligned_cols=53  Identities=11%  Similarity=0.208  Sum_probs=43.6  Template_Neff=10.200
+
+Q T1002             8 ANVNLRSAKSTNSSIITVIPQGAKMEVLDEEDDWIKVMY-NSQEGYVYKDLVSV   60 (270)
+Q Consensus         8 anvnlrsakstnssiitvipqgakmevldeeddwikvmy-nsqegyvykdlvsv   60 (270)
+                      .+++++...++++.++..++.|..+.++.+.++|.+|-+ +.++||+.+..+..
+T Consensus        91 ~~~~v~~~~~~~~~~~~~l~~g~~v~v~~~~~~w~~V~~~~g~~g~v~~~~v~~  144 (306)
+T 3NPF_B           91 HYGFAYEKPDESSQPVSDVVAGNRLKWEGSKGHFYQVSYPDGRKAYLSKSISQP  144 (306)
+T ss_dssp             SEEEEESSSSTTSCEEEEEETTCEEEEEEEETTEEEEECTTSCEEEEETTSEEE
+T ss_pred             CceeeeeCCCCCCCceEEEeCCCEEEEeeecCcEEEEEcCCCCEEEEECceeCC
+Confidence            345677777777888999999999999999999999987 77789988776654
+
+
+No 64
+>6ILU_A Lysin; cell-wall binding, endolysin, PBC5, SH3b; HET: SO4, EDO; 1.601A {Bacillus phage PBC5}
+Probab=83.52  E-value=0.67  Score=34.37  Aligned_cols=89  Identities=17%  Similarity=0.180  Sum_probs=56.7  Template_Neff=9.400
+
+Q T1002             8 ANVNLRSAKSTNSSIITVIPQGAKMEVLDE-----EDDWIKVMYNSQE-GYVYKDLVSVSEYA-------WSNLNLREDK   74 (270)
+Q Consensus         8 anvnlrsakstnssiitvipqgakmevlde-----eddwikvmynsqe-gyvykdlvsvseya-------wsnlnlredk   74 (270)
+                      ..+++++...+++. +..+|.|....++.+     ...|.++   ... ++|..+.+++....       -.+++++...
+T Consensus        23 ~~v~vy~~p~~~~~-~~~l~~g~~~~~~~~~~~~~g~~wy~v---g~~~~WV~~~~~~~~~~~~~~~~~~~~~~~v~~~p   98 (140)
+T 6ILU_A           23 YGVNLYERPSDPIY-AGNITKKIPYKVFAGYWGGGDKDMICL---GGEKQWAYNKHFTIDWYKVRSKYPVGWGVNFYDGP   98 (140)
+T ss_dssp             CCEEEEECTTSCEE-EEEECCCSCEEECEEECCSGGGCEEES---SSTTCEEEGGGEEEEECEEEESSCTTCCEEEESST
+T ss_pred             ceeEeeeCCCCCcc-ceecCCCCeEEEEeEEEcCCCcEEEEe---cCcceeEeccceeeeccccccccCCCCeEEEeeCC
+Confidence            45788888888888 889999999888876     6778877   334 77777666543211       1234444444
+
+
+Q T1002            75 STTSNIITVIPEKSRVEVLQVDGDWSKV  102 (270)
+Q Consensus        75 sttsniitvipeksrvevlqvdgdwskv  102 (270)
+                      +...  ...++..+++.++...+.|-++
+T Consensus        99 ~~~~--~~~l~~g~~~~v~~~~~~wy~v  124 (140)
+T 6ILU_A           99 SGNF--LGNIDGSEVYNAHNRVGGYVDI  124 (140)
+T ss_dssp             TCCE--EEEECSCCCEECCEEETTEEEC
+T ss_pred             CCce--eEEecCCCeEEEEeccceEEEe
+Confidence            3333  4455666777777655555544
+
+
+No 65
+>4KRT_B Autolytic lysozyme (E.C.3.2.1.17 ); beta/alpha barrel, muramidase and putative; HET: MLA, ACT, EPE; 1.92A {Clostridium phage phiSM101}
+Probab=82.60  E-value=0.78  Score=37.92  Aligned_cols=54  Identities=28%  Similarity=0.438  Sum_probs=46.0  Template_Neff=10.200
+
+Q T1002            66 SNLNLREDKSTTSNIITVIPEKSRVEVL---QVDGDWSKVVYDDKIGYVFNYFLSID  119 (270)
+Q Consensus        66 snlnlredksttsniitvipeksrvevl---qvdgdwskvvyddkigyvfnyflsid  119 (270)
+                      .++++|...++.+.++..++..+.++++   ...+.|.++.++...|||..-.+...
+T Consensus       230 ~~~~~r~~p~~~~~~~~~i~~g~~v~v~~~~~~~~~w~~v~~~g~~g~v~~~~l~~~  286 (353)
+T 4KRT_B          230 TKLNIRAKGTTNSKIIGSIPAGETFKIKWVDEDYLGWYYVEYNGVVGYVNADYVEKL  286 (353)
+T ss_dssp             SEEEEESSSSTTSCEEEEEETTCEEEEEECCTTSTTEEEEEETTEEEEEEGGGEEEC
+T ss_pred             CcEEEeecCCCCCceeEEEcCCCeEEEEEEecccCcEEEEEECCEEEEEEHHHeeec
+Confidence            3578888888888889999999999999   77899999999999999987666654
+
+
+No 66
+>4KRT_A Autolytic lysozyme (E.C.3.2.1.17 ); beta/alpha barrel, muramidase and putative; HET: ACT, MLA, EPE; 1.92A {Clostridium phage phiSM101}
+Probab=82.60  E-value=0.78  Score=37.92  Aligned_cols=54  Identities=28%  Similarity=0.438  Sum_probs=46.0  Template_Neff=10.200
+
+Q T1002            66 SNLNLREDKSTTSNIITVIPEKSRVEVL---QVDGDWSKVVYDDKIGYVFNYFLSID  119 (270)
+Q Consensus        66 snlnlredksttsniitvipeksrvevl---qvdgdwskvvyddkigyvfnyflsid  119 (270)
+                      .++++|...++.+.++..++..+.++++   ...+.|.++.++...|||..-.+...
+T Consensus       230 ~~~~~r~~p~~~~~~~~~i~~g~~v~v~~~~~~~~~w~~v~~~g~~g~v~~~~l~~~  286 (353)
+T 4KRT_A          230 TKLNIRAKGTTNSKIIGSIPAGETFKIKWVDEDYLGWYYVEYNGVVGYVNADYVEKL  286 (353)
+T ss_dssp             SEEEEESSSSTTSCEEEEEETTCEEEEEECCGGGTTEEEEEETTEEEEEEGGGEEEC
+T ss_pred             CcEEEeecCCCCCceeEEEcCCCeEEEEEEecccCcEEEEEECCEEEEEEHHHeeec
+Confidence            3578888888888889999999999999   77899999999999999987666654
+
+
+No 67
+>1M9S_A Internalin B; internalin, cell invasion, GW domains; 2.65A {Listeria monocytogenes} SCOP: b.34.11.1, b.1.18.15, c.10.2.1
+Probab=79.58  E-value=1.2  Score=39.83  Aligned_cols=92  Identities=13%  Similarity=0.122  Sum_probs=59.5  Template_Neff=10.100
+
+Q T1002            28 QGAKMEVLDE----EDDWIKVMYNSQEGYVYKDLVSVSEYAW--------------SNLNLREDKSTTSNIITVIP----   85 (270)
+Q Consensus        28 qgakmevlde----eddwikvmynsqegyvykdlvsvseyaw--------------snlnlredksttsniitvip----   85 (270)
+                      .|....|+++    ...|.+|.+   .|+|+.+.++.....-              ...+.+.-.+...+.+....    
+T Consensus       398 ~g~~~~i~~~~~~~~~~wy~i~~---~GWV~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  474 (605)
+T 1M9S_A          398 RCKALTVDREARNGGKLWYRLKN---IGWTKAENLSLDRYDKMEYDKGVTAYARVRNASGNSVWTKPYNTAGAKHVNKLS  474 (605)
+T ss_pred             cCCEEEEEeeEEcCCceEEEEEE---EEEEeHHHhcccCCCcccCCceeeeeeEEeecccceeeccccccccceeecccc
+Confidence            4667778888    889999988   8999999998863210              00222222222222111112    
+
+
+Q T1002            86 --EKSRVEVLQ----VDGDWSKVVYD-DKIGYVFNYFLSIDGNK  122 (270)
+Q Consensus        86 --eksrvevlq----vdgdwskvvyd-dkigyvfnyflsidgnk  122 (270)
+                        ....|++++    -.+.|.++-++ .++|+|....+......
+T Consensus       475 ~~~g~~v~i~~~~~~~~~~wy~i~~~~~~~GWv~~~~~~~~~~~  518 (605)
+T 1M9S_A          475 VYQGKNMRILREAKTPITTWYQFSIGGKVIGWVDTRALNTFYKQ  518 (605)
+T ss_pred             ccCCCEEEEEeeEecCCceEEEEEECCeEEEEEecccccccccc
+Confidence              144566666    58899999998 78999998888775544
+
+
+No 68
+>3M1U_A Putative gamma-D-glutamyl-L-diamino acid endopeptidase; Structural Genomics, Joint Center for; HET: GOL, MES, CL; 1.75A {Desulfovibrio vulgaris}
+Probab=76.13  E-value=1.8  Score=39.74  Aligned_cols=55  Identities=22%  Similarity=0.033  Sum_probs=46.8  Template_Neff=8.000
+
+Q T1002            65 WSNLNLREDKSTT----------------SNIITVIPEKSRVEVLQV--DGDWSKVVYDDKIGYVFNYFLSID  119 (270)
+Q Consensus        65 wsnlnlredkstt----------------sniitvipeksrvevlqv--dgdwskvvyddkigyvfnyflsid  119 (270)
+                      -.++|+|.-.++.                +..++.+.....|+|+..  |++|.+|...+..|+|-.-.+...
+T Consensus       121 ~~~~~vR~~Pt~~~~~~~~~~~g~g~pfD~~q~s~l~~GtpV~Vl~~S~d~~W~~V~s~~~~GWV~~~~Ia~~  193 (434)
+T 3M1U_A          121 VSNSALREVPTLRPMFTAPTRAGQGYPFDMFQRTAVWMGTPVFVGHATADRAWLYVETAFAAGWMPAADVARV  193 (434)
+T ss_dssp             CSCEEEESSSCSSCCBSCTTSTTTSTTCCTTEEEEECTTCEEEEEEECTTSSEEEEECSSCEEEEEGGGEEEC
+T ss_pred             eeccccccCCCCCcccCCcccCCCCCCCCccccceecCCCeEEEEEEeCCCCEEEEEcCCcEEEEEHHHeEEc
+Confidence            4678888777666                889999999999999999  999999999999999987666543
+
+
+No 69
+>1M9S_A Internalin B; internalin, cell invasion, GW domains; 2.65A {Listeria monocytogenes} SCOP: b.34.11.1, b.1.18.15, c.10.2.1
+Probab=73.19  E-value=2.5  Score=37.96  Aligned_cols=86  Identities=16%  Similarity=0.214  Sum_probs=50.8  Template_Neff=10.100
+
+Q T1002            28 QGAKMEVLDE----EDDWIKVMYN-SQEGYVYKDLVSVSEYAWSNLNLREDK----STTSNIITVIPE------------   86 (270)
+Q Consensus        28 qgakmevlde----eddwikvmyn-sqegyvykdlvsvseyawsnlnlredk----sttsniitvipe------------   86 (270)
+                      .|.+++|+++    ...|.+|.++ .+.|+|..+.+....-.-...+....+    ...+..+.++|.            
+T Consensus       477 ~g~~v~i~~~~~~~~~~wy~i~~~~~~~GWv~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  556 (605)
+T 1M9S_A          477 QGKNMRILREAKTPITTWYQFSIGGKVIGWVDTRALNTFYKQSMEKPTRLTRYVSANKAGESYYKVPVADNPVKRGTLAK  556 (605)
+T ss_pred             CCCEEEEEeeEecCCceEEEEEECCeEEEEEeccccccccccccccccccccceeeccccccceeeecCCCCceeeeecc
+Confidence            3778888884    8999999998 788999998776643321110000000    001112222332            
+
+
+Q T1002            87 --KSRVEVLQV----DGDWSKVVYDD-KIGYVFN  113 (270)
+Q Consensus        87 --ksrvevlqv----dgdwskvvydd-kigyvfn  113 (270)
+                        ...+.|++.    .++|-++.+++ ++|+|-.
+T Consensus       557 ~~g~~~~v~~~~~~~~~~wy~i~~~~~~~gWv~~  590 (605)
+T 1M9S_A          557 YKNQKLIVDCQATIEGQLWYRIRTSSTFIGWTKA  590 (605)
+T ss_pred             cCCcEEEEEEEEEcCCceEEEEEECCCeEEEEEc
+Confidence              444566553    48899997764 5888754
+
+
+No 70
+>1NG2_A Neutrophil cytosolic factor 1; p47phox, autoinhibited, SH3 domain, NADPH; 1.7A {Homo sapiens} SCOP: b.34.2.1
+Probab=64.59  E-value=5  Score=30.77  Aligned_cols=91  Identities=18%  Similarity=0.340  Sum_probs=48.7  Template_Neff=9.900
+
+Q T1002            28 QGAKMEVLDE-EDDWIKVMYNSQEGYVYKDLVSVSEYAWSN-----------LNLRED-KSTTSNIITVIPEKSRVEVLQ   94 (270)
+Q Consensus        28 qgakmevlde-eddwikvmynsqegyvykdlvsvseyawsn-----------lnlred-ksttsniitvipeksrvevlq   94 (270)
+                      .|..+.++.+ .++|..+..+.+.|++-...+...+..-..           .....+ .......+. +.+...|+++.
+T Consensus        32 ~g~~v~v~~~~~~~W~~~~~~~~~G~~P~~~~~~~~~~~~~~~~~~~~~~~~~~a~~~~~~~~~~els-~~~g~~v~v~~  110 (193)
+T 1NG2_A           32 TGDVVEVVEKSESGWWFCQMKAKRGWIPASFLEPLDSPDETEDPEPNYAGEPYVAIKAYTAVEGDEVS-LLEGEAVEVIH  110 (193)
+T ss_dssp             TTCEEEEEECCTTSCCEEEECCCCCCCCGGGCCCSSCSSCSCCCCCCTTCEEEEESSCBCCCSTTBCC-BCTTCEEEEEE
+T ss_pred             CCCEEEEEEcCCCCeEEEEECCceeeeehheeecCCCCCCCCCCCCCCCCCcEEEEeeecCCCCCccC-cCCCCEEEEEE
+Confidence            4555666655 678999988888888765544322211100           000000 000111111 12334455665
+
+
+Q T1002            95 -VDGDWSKVVYDDKIGYVFNYFLSID  119 (270)
+Q Consensus        95 -vdgdwskvvyddkigyvfnyflsid  119 (270)
+                       .+++|-.+.++.+.|++-..|+..-
+T Consensus       111 ~~~~~w~~~~~~g~~G~~P~~~v~~~  136 (193)
+T 1NG2_A          111 KLLDGWWVIRKDDVTGYFPSMYLQKS  136 (193)
+T ss_dssp             CCTTSEEEEEETTEEEEEEGGGEEET
+T ss_pred             ecCCCeEEEEECCEEEEEEHHHEEEc
+Confidence             5677888888888888876666543
+
+
+No 71
+>6B27_D SH3 and cysteine-rich domain-containing protein; Excitation-contraction coupling, ion channel adaptor; HET: SO4; 1.73A {Homo sapiens}
+Probab=55.49  E-value=9.4  Score=24.23  Aligned_cols=38  Identities=16%  Similarity=0.188  Sum_probs=26.9  Template_Neff=12.200
+
+Q T1002            22 IITVIPQGAKMEVLDEE---DDWIKVMYNSQEGYVYKDLVS   59 (270)
+Q Consensus        22 iitvipqgakmevldee---ddwikvmynsqegyvykdlvs   59 (270)
+                      ...-++.|..+.++...   ++|..+.+..+.|++..+.+.
+T Consensus        78 ~~l~~~~g~~~~~~~~~~~~~~w~~~~~~~~~g~~p~~~~~  118 (120)
+T 6B27_D           78 GYMSLKENQICVGVGRSKDADGFIRVSSGKKRGLVPVDALT  118 (120)
+T ss_dssp             TBCCBCTTCEEEECCCCTTCCSCEEEEETTEEEEECGGGEE
+T ss_pred             CceeecCCcEEEEeeecCCCCCeEEEEeCCEEEEEEHHHee
+Confidence            33445667777776543   489999988889998877654
+
+
+No 72
+>6B26_A SH3 and cysteine-rich domain-containing protein; Excitation-contraction coupling, ion channel adaptor; 1.2A {Homo sapiens}
+Probab=55.49  E-value=9.4  Score=24.23  Aligned_cols=38  Identities=16%  Similarity=0.188  Sum_probs=26.9  Template_Neff=12.200
+
+Q T1002            22 IITVIPQGAKMEVLDEE---DDWIKVMYNSQEGYVYKDLVS   59 (270)
+Q Consensus        22 iitvipqgakmevldee---ddwikvmynsqegyvykdlvs   59 (270)
+                      ...-++.|..+.++...   ++|..+.+..+.|++..+.+.
+T Consensus        78 ~~l~~~~g~~~~~~~~~~~~~~w~~~~~~~~~g~~p~~~~~  118 (120)
+T 6B26_A           78 GYMSLKENQICVGVGRSKDADGFIRVSSGKKRGLVPVDALT  118 (120)
+T ss_dssp             TBCCBCTTCEEEECGGGCCTTSEEEEEETTEEEEEEGGGEE
+T ss_pred             CceeecCCcEEEEeeecCCCCCeEEEEeCCEEEEEEHHHee
+Confidence            33445667777776543   489999988889998877654
+
+
+No 73
+>1UEC_A Neutrophil cytosol factor 1; NADPH oxidase, p47phox, phagocyte, SH3; 1.82A {Homo sapiens} SCOP: b.34.2.1
+Probab=54.50  E-value=10  Score=29.08  Aligned_cols=92  Identities=17%  Similarity=0.331  Sum_probs=45.9  Template_Neff=10.000
+
+Q T1002            27 PQGAKMEVLDE-EDDWIKVMYNSQEGYVYKDLVSVSEYAWSN-----------LNLREDKS-TTSNIITVIPEKSRVEVL   93 (270)
+Q Consensus        27 pqgakmevlde-eddwikvmynsqegyvykdlvsvseyawsn-----------lnlredks-ttsniitvipeksrvevl   93 (270)
+                      ..|..+.++.. .++|..+..+...|++-...+...+.....           .....+-. .....+. ......++++
+T Consensus        31 ~~g~~v~v~~~~~~~w~~~~~~~~~G~~P~~~~~~~~~~~~~~~~~~~~~~~~~~a~~~~~~~~~~els-~~~g~~v~v~  109 (193)
+T 1UEC_A           31 STGDVVEVVEKSESGWWFCQMKAKRGWIPASFLEPLDSPDETEDPEPNYAGEPYVAIKAYTAVEGDEVS-LLEGEAVEVI  109 (193)
+T ss_dssp             --TCEEEEEECCTTSCCEEEECCCCCCCCGGGCCCSSCSSCSCCCCCCTTCEEEEESSCBCCCSTTBCC-BCTTCEEEEE
+T ss_pred             CCCCEEEEEEeCCCCeEEEEeCCCcccccccccCCCCCCCCCCCCCCCCCCCeEEEeeeeCCCCCCcCC-cCCCCEEEEE
+Confidence            35666666665 678998888877888765544332211100           00000000 0011111 2233445555
+
+
+Q T1002            94 Q-VDGDWSKVVYDDKIGYVFNYFLSID  119 (270)
+Q Consensus        94 q-vdgdwskvvyddkigyvfnyflsid  119 (270)
+                      . .+.+|-.+.++.+.|++-..|+..-
+T Consensus       110 ~~~~~~w~~~~~~g~~G~~P~~~v~~~  136 (193)
+T 1UEC_A          110 HKLLDGWWVIRKDDVTGYFPSMYLQKS  136 (193)
+T ss_dssp             ECCTTSEEEEEETTEEEEEEGGG----
+T ss_pred             EeCCCCEEEEEECCeEEEEeHHHEEEc
+Confidence            5 6677888888888888876665443
+
+
+No 74
+>1OV3_B Neutrophil cytosol factor 1, Cytochrome; p47phox, p22phox, NADPH oxidase, complex; 1.8A {Homo sapiens} SCOP: b.34.2.1
+Probab=46.82  E-value=16  Score=23.68  Aligned_cols=29  Identities=21%  Similarity=0.548  Sum_probs=17.9  Template_Neff=12.300
+
+Q T1002            29 GAKMEVLDE-EDDWIKVMYNSQEGYVYKDL   57 (270)
+Q Consensus        29 gakmevlde-eddwikvmynsqegyvykdl   57 (270)
+                      |..+.++.+ ..+|..+..+.+.|++-...
+T Consensus        33 ~~~~~~~~~~~~~w~~~~~~~~~g~~~~~~   62 (138)
+T 1OV3_B           33 GDVVEVVEKSESGWWFCQMKAKRGWIPASF   62 (138)
+T ss_dssp             TCEEEEEEECTTSEEEEEECCCEEEEEGGG
+T ss_pred             CCEEEEEEeCCCCEEEEEECCeEEEEEHHH
+Confidence            344555554 56787777777777765543
+
+
+No 75
+>6B25_A SH3 and cysteine-rich domain-containing protein; Excitation-contraction coupling, ion channel adaptor; HET: EPE; 2.39A {Homo sapiens}
+Probab=45.89  E-value=17  Score=23.25  Aligned_cols=33  Identities=18%  Similarity=0.400  Sum_probs=24.0  Template_Neff=12.000
+
+Q T1002            26 IPQGAKMEVLDE-EDDWIKVMYNSQEGYVYKDLV   58 (270)
+Q Consensus        26 ipqgakmevlde-eddwikvmynsqegyvykdlv   58 (270)
+                      +.+|..+.++.+ .++|..+..+.+.|+|.++.+
+T Consensus        82 ~~~g~~~~v~~~~~~~w~~~~~~g~~G~vp~~~~  115 (118)
+T 6B25_A           82 LKENQICVSSEEEQDGFIRVLSGKKKGLIPLDVL  115 (118)
+T ss_pred             cCCCCEEEEEEcCCCCEEEEEECCeEEEEEhhhE
+Confidence            456666776653 478998888888888877654
+
+
+No 76
+>3GZR_A uncharacterized protein with a NTF2-like; NTF2-LIKE FOLD, STRUCTURAL GENOMICS, JOINT; HET: GOL, SO4, UNL; 1.4A {Caulobacter vibrioides}
+Probab=41.98  E-value=21  Score=23.34  Aligned_cols=30  Identities=20%  Similarity=0.391  Sum_probs=21.1  Template_Neff=12.300
+
+Q T1002           154 TDLRNKYTYIFKKDNGGWGQLYKWQCTIGKP  184 (270)
+Q Consensus       154 tdlrnkytyifkkdnggwgqlykwqctigkp  184 (270)
+                      ...+..++++|.+.+|+| ++...+++.-.+
+T Consensus       103 ~~~~~~~~~~~~~~~g~W-ki~~~~~~~~~~  132 (146)
+T 3GZR_A          103 PRAHDRLTLLAVEREGVW-RFIHGHNTIVNP  132 (146)
+T ss_pred             ceeeeeEEEEEEEeCCeE-EEEEEEeecCCC
+Confidence            346778899999999999 445555554443
+
+
+No 77
+>3GZR_B uncharacterized protein with a NTF2-like; NTF2-LIKE FOLD, STRUCTURAL GENOMICS, JOINT; HET: SO4, MSE, GOL, UNL; 1.4A {Caulobacter vibrioides}
+Probab=41.79  E-value=22  Score=23.32  Aligned_cols=30  Identities=20%  Similarity=0.391  Sum_probs=21.1  Template_Neff=12.300
+
+Q T1002           154 TDLRNKYTYIFKKDNGGWGQLYKWQCTIGKP  184 (270)
+Q Consensus       154 tdlrnkytyifkkdnggwgqlykwqctigkp  184 (270)
+                      ...+..++++|.+.+|+| ++...+++.-.+
+T Consensus       103 ~~~~~~~~~~~~~~~g~W-ki~~~~~~~~~~  132 (146)
+T 3GZR_B          103 PRAHDRLTLLAVEREGVW-RFIHGHNTIVNP  132 (146)
+T ss_dssp             CCEEEEEEEEEEEETTEE-EEEEEEEEECCT
+T ss_pred             CCcccEEEEEEEEECCEE-EEEEEEEeeeCc
+Confidence            356778899999999999 445555554443
+
+
+No 78
+>3CU3_A Domain of unknown function with; Structural genomics, Joint Center for; HET: EDO; 2.0A {Nostoc punctiforme} SCOP: d.17.4.28
+Probab=41.77  E-value=22  Score=25.14  Aligned_cols=30  Identities=20%  Similarity=0.233  Sum_probs=21.3  Template_Neff=11.400
+
+Q T1002           155 DLRNKYTYIFKKDNGGWGQLYKWQCTIGKPE  185 (270)
+Q Consensus       155 dlrnkytyifkkdnggwgqlykwqctigkpe  185 (270)
+                      ..+..++++|++.+|+| ++..++++.-.+.
+T Consensus       112 ~~~~~~~~~~~~~~g~W-kI~~~~~~~~~~~  141 (172)
+T 3CU3_A          112 SRDSLPLYVVTKGDEGW-QIEGLLNTRKLTL  141 (172)
+T ss_dssp             GGCBCCEEEEEEETTEE-EEEEEECCBCCCH
+T ss_pred             ccceeeEEEEEEeCCcE-EEEEEEEeccccc
+Confidence            45678899999999999 5556666554443
+
+
+No 79
+>1GRI_A GROWTH FACTOR BOUND PROTEIN 2; SH2, SH3, SIGNAL TRANSDUCTION ADAPTOR; 3.1A {Homo sapiens} SCOP: b.34.2.1, d.93.1.1
+Probab=40.65  E-value=23  Score=25.39  Aligned_cols=36  Identities=25%  Similarity=0.675  Sum_probs=24.8  Template_Neff=11.900
+
+Q T1002            27 PQGAKMEVLDE--EDDWIKVMYNSQEGYVYKDLVSVSE   62 (270)
+Q Consensus        27 pqgakmevlde--eddwikvmynsqegyvykdlvsvse   62 (270)
+                      ..|..++|+++  .+.|.+++.+.++|++-...+....
+T Consensus        20 ~~Gd~v~v~~~~~~~~W~~~~~~~~~G~~P~~~~~~~~   57 (217)
+T 1GRI_A           20 KRGDILKVLNEECDQNWYKAELNGKDGFIPKNYIEMKP   57 (217)
+T ss_dssp             CTTCEEEC------CCEEEEESSSCEEEEEGGGEECCC
+T ss_pred             cCCCEEEEEecCCCccceeeeccCCcceeehheEEecC
+Confidence            46788888865  6789999999999998776655433
+
+
+No 80
+>4EPC_A N-acetylmuramoyl-L-alanine amidase (E.C.3.5.1.28); SH3b Fold, Extracellular, HYDROLASE; 2.9A {Staphylococcus epidermidis}
+Probab=36.81  E-value=29  Score=29.89  Aligned_cols=89  Identities=12%  Similarity=0.171  Sum_probs=49.7  Template_Neff=9.200
+
+Q T1002            27 PQGAKMEVLDE----EDDWIKVMYNS---QEGYVYKDLVSVSEYA-----------WSNLNLREDKSTT-SNIITVIP--   85 (270)
+Q Consensus        27 pqgakmevlde----eddwikvmyns---qegyvykdlvsvseya-----------wsnlnlredkstt-sniitvip--   85 (270)
+                      ..|...+|+.+    ...|.+|.++.   +.|+|-.+-+......           -.+.+++.....+ +..+..+.  
+T Consensus       218 ~~g~~~~v~~~a~~~~~~wy~v~~~~~~~~~GWv~~~~v~~~~~~~~~~~~~~~~v~~~~~v~~~p~~~~~~~~~~l~~~  297 (334)
+T 4EPC_A          218 QIQRTLSVTKAATLGDKKFYLVGDYNTGTNYGWVKQDEVIYNTAKSPVKINQTYNVKPGVKLHTVPWGTYNQVAGTVSGK  297 (334)
+T ss_dssp             CCSSCBEEEEEEEETTEEEEEEECTTTCCEEEEEEGGGEEEEEBCCCEEEEEEEEECTTCEEESSTTCCGGGEEEECCSS
+T ss_pred             cCCCEEEEEEEEEeCCeeEEEEEeCCCCCEEEEEEHhheeEcCCCCCeeeceEEEecCCCeeeeecCCCcceEeeecccc
+Confidence            36777777776    67899998874   4788877655433211           1223333222111 12222222  
+
+
+Q T1002            86 EKSRVEVLQV----DGDWSKVVYDDKIGYVFNYF  115 (270)
+Q Consensus        86 eksrvevlqv----dgdwskvvyddkigyvfnyf  115 (270)
+                      ....+.|++.    .+.|-++-++.++|+|-...
+T Consensus       298 ~g~~~~V~~~~~~~~~~wy~i~~~g~~GWI~~~~  331 (334)
+T 4EPC_A          298 GDQTFKATKQQQIDKATYLYGTVNGKSGWISKYY  331 (334)
+T ss_dssp             SCEEEEEEEEEEETTEEEEEEEETTEEEEEEGGG
+T ss_pred             cCcEEEEEEEEEeCCceEEEEEECCEEEEEEhhh
+Confidence            2334445443    57788887788888875433
+
+
+No 81
+>2UX0_C CALCIUM-CALMODULIN DEPENDENT PROTEIN KINASE (CAM; TRANSFERASE, CALMODULIN, PROTEIN KINASE, OLIGOMERISATION; HET: GLY; 2.46A {HOMO SAPIENS} SCOP: d.17.4.7
+Probab=36.80  E-value=29  Score=21.90  Aligned_cols=26  Identities=15%  Similarity=0.482  Sum_probs=17.1  Template_Neff=12.900
+
+Q T1002           156 LRNKYTYIFKKDNGGWGQLYKWQCTIG  182 (270)
+Q Consensus       156 lrnkytyifkkdnggwgqlykwqctig  182 (270)
+                      .+..++.+|++.+|+|. +...+.+..
+T Consensus       112 ~~~~~~~~~~~~~g~Wk-i~~~~~~~~  137 (143)
+T 2UX0_C          112 SQSEETRVWHRRDGKWL-NVHYHCSGA  137 (143)
+T ss_dssp             EEEEEEEEEEEETTEEE-EEEEEEECC
+T ss_pred             eeeeeEEEEEEECCEEE-EEEEEEecC
+Confidence            55678888999988883 334444433
+
+
+No 82
+>1WLP_B Cytochrome b-245 light chain/Neutrophil cytosol; SH3 domain, polyproline, OXIDOREDUCTASE-Signaling Protein; NMR {Homo sapiens} SCOP: b.34.2.1
+Probab=36.61  E-value=29  Score=22.70  Aligned_cols=33  Identities=18%  Similarity=0.532  Sum_probs=21.3  Template_Neff=12.100
+
+Q T1002            26 IPQGAKMEVLDE-EDDWIKVMYNSQEGYVYKDLV   58 (270)
+Q Consensus        26 ipqgakmevlde-eddwikvmynsqegyvykdlv   58 (270)
+                      +..|..+.++.. ...|..+..+.+.|++-...+
+T Consensus        29 ~~~~~~~~~~~~~~~~w~~~~~~~~~g~~p~~~~   62 (138)
+T 1WLP_B           29 LSTGDVVEVVEKSESGWWFCQMKAKRGWIPASFL   62 (138)
+T ss_dssp             ECTTCEEEEEEECSSSEEEEECSSCEEEEETTTE
+T ss_pred             cCCCCEEEEEEeCCCCEEEEEECCeEEEEEhheE
+Confidence            345556666654 466888877777787655443
+
+
+No 83
+>1HKX_E CALCIUM/CALMODULIN-DEPENDENT PROTEIN KINASE TYPE II; TRANSFERASE, SERINE/THREONINE-PROTEIN KINASE, CALMODULIN-BINDING, PHOSPHORYLATION; HET: CL, TBR; 2.65A {MUS MUSCULUS} SCOP: d.17.4.7
+Probab=35.80  E-value=31  Score=21.90  Aligned_cols=25  Identities=12%  Similarity=0.440  Sum_probs=17.1  Template_Neff=12.900
+
+Q T1002           156 LRNKYTYIFKKDNGGWGQLYKWQCTI  181 (270)
+Q Consensus       156 lrnkytyifkkdnggwgqlykwqcti  181 (270)
+                      .+..++.+|.+.+|+|- +...+.+.
+T Consensus       116 ~~~~~~~~~~~~~g~Wk-i~~~~~~~  140 (147)
+T 1HKX_E          116 AQSEETRVWHRRDGKWQ-IVHFHRSG  140 (147)
+T ss_dssp             EEEEEEEEEEEETTEEE-EEEEEEES
+T ss_pred             cceeeEEEEEEeCCeEE-EEEEEEeC
+Confidence            36678889999999884 44444443
+
+
+No 84
+>6OF9_D CaMKII hub; Chlamydomonas reinhardtii CaMKII hub domain; 3.0A {Chlamydomonas reinhardtii}
+Probab=34.49  E-value=33  Score=21.60  Aligned_cols=19  Identities=26%  Similarity=0.704  Sum_probs=14.7  Template_Neff=12.700
+
+Q T1002           155 DLRNKYTYIFKKDNGGWGQ  173 (270)
+Q Consensus       155 dlrnkytyifkkdnggwgq  173 (270)
+                      .....++.+|++++|+|--
+T Consensus       107 ~~~~~~~~~~~~~~g~Wki  125 (134)
+T 6OF9_D          107 TVQAEETRVWEKKDGGWIH  125 (134)
+T ss_dssp             EEEEEEEEEEEEETTEEEE
+T ss_pred             EEEEEEEEEEEEECCeEEE
+Confidence            3467788899999988853
+
+
+No 85
+>6OF9_C CaMKII hub; Chlamydomonas reinhardtii CaMKII hub domain; 3.0A {Chlamydomonas reinhardtii}
+Probab=34.49  E-value=33  Score=21.60  Aligned_cols=19  Identities=26%  Similarity=0.704  Sum_probs=14.7  Template_Neff=12.700
+
+Q T1002           155 DLRNKYTYIFKKDNGGWGQ  173 (270)
+Q Consensus       155 dlrnkytyifkkdnggwgq  173 (270)
+                      .....++.+|++++|+|--
+T Consensus       107 ~~~~~~~~~~~~~~g~Wki  125 (134)
+T 6OF9_C          107 TVQAEETRVWEKKDGGWIH  125 (134)
+T ss_dssp             EEEEEEEEEEEEETTEEEE
+T ss_pred             EEEEEEEEEEEEECCeEEE
+Confidence            3467788899999988853
+
+
+No 86
+>3DUK_B NTF2-like protein of unknown function; NTF2-LIKE PROTEIN, STRUCTURAL GENOMICS, JOINT; HET: MSE, EDO; 2.2A {Methylobacillus flagellatus KT}
+Probab=33.01  E-value=37  Score=21.72  Aligned_cols=19  Identities=21%  Similarity=0.529  Sum_probs=15.7  Template_Neff=12.200
+
+Q T1002           154 TDLRNKYTYIFKKDNGGWG  172 (270)
+Q Consensus       154 tdlrnkytyifkkdnggwg  172 (270)
+                      ...+..++++|.+.+|+|-
+T Consensus        97 ~~~~~~~~~~~~~~~g~Wk  115 (125)
+T 3DUK_B           97 TNFKFSDLFLLLKLDGKWT  115 (125)
+T ss_dssp             TTEEEEEEEEEEEETTEEE
+T ss_pred             cCceEEEEEEEEEECCEEE
+Confidence            3567788999999999994
+
+
+No 87
+>3HZP_A NTF2-like protein of unknown function; YP_291699.1, NTF2-like protein of unknown; HET: 1PE; 1.4A {Prochlorococcus marinus}
+Probab=31.76  E-value=40  Score=23.15  Aligned_cols=20  Identities=35%  Similarity=0.360  Sum_probs=16.2  Template_Neff=11.000
+
+Q T1002           155 DLRNKYTYIFKKDNGGWGQL  174 (270)
+Q Consensus       155 dlrnkytyifkkdnggwgql  174 (270)
+                      ..+..|+.+|+|.+|+|--.
+T Consensus        96 ~~~~~~~~v~~k~~g~Wki~  115 (131)
+T 3HZP_A           96 DDLPTVTSIFKKIDEKWKVA  115 (131)
+T ss_dssp             EEBCEEEEEEEEETTEEEEE
+T ss_pred             ccccEEEEEEEEECCEEEEE
+Confidence            45788999999999988543
+
+
+No 88
+>3B8L_A Uncharacterized protein; PUTATIVE AROMATIC RING HYDROXYLASE, STRUCTURAL; HET: GOL; 1.75A {Novosphingobium aromaticivorans} SCOP: d.17.4.28
+Probab=31.21  E-value=41  Score=23.65  Aligned_cols=26  Identities=12%  Similarity=0.572  Sum_probs=18.1  Template_Neff=11.300
+
+Q T1002           155 DLRNKYTYIFKKDNGGWGQLYKWQCTI  181 (270)
+Q Consensus       155 dlrnkytyifkkdnggwgqlykwqcti  181 (270)
+                      .....++++|++.+|+| ++...+++.
+T Consensus       126 ~~~~~~~~~~~~~~g~W-kI~~~~~~~  151 (163)
+T 3B8L_A          126 TVNGRYFFEVRRTEKGW-KATRYTMDF  151 (163)
+T ss_dssp             EEEEEEEEEEEEETTEE-EEEEEEEEE
+T ss_pred             EEEEEEEEEEEEeCCeE-EEEEEEEEE
+Confidence            45677889999999999 344444443
+
+
+No 89
+>3B8L_F Uncharacterized protein; PUTATIVE AROMATIC RING HYDROXYLASE, STRUCTURAL; HET: MSE, GOL; 1.75A {Novosphingobium aromaticivorans} SCOP: d.17.4.28
+Probab=31.21  E-value=41  Score=23.65  Aligned_cols=26  Identities=12%  Similarity=0.572  Sum_probs=18.1  Template_Neff=11.300
+
+Q T1002           155 DLRNKYTYIFKKDNGGWGQLYKWQCTI  181 (270)
+Q Consensus       155 dlrnkytyifkkdnggwgqlykwqcti  181 (270)
+                      .....++++|++.+|+| ++...+++.
+T Consensus       126 ~~~~~~~~~~~~~~g~W-kI~~~~~~~  151 (163)
+T 3B8L_F          126 TVNGRYFFEVRRTEKGW-KATRYTMDF  151 (163)
+T ss_dssp             EEEEEEEEEEEEETTEE-EEEEEEEEE
+T ss_pred             EEEEEEEEEEEEeCCeE-EEEEEEEEE
+Confidence            45677889999999999 344444443
+
+
+No 90
+>5O3U_M Prolyl oligopeptidase, Alpha-amanitin proprotein; segetalin biosynthesis, prolyl oligopeptidase, macrocyclase; 1.86A {Vaccaria hispanica}
+Probab=30.90  E-value=42  Score=24.61  Aligned_cols=27  Identities=33%  Similarity=0.488  Sum_probs=19.7  Template_Neff=1.200
+
+Q T1002           192 IFYISGRKPSFGTDEYSVKYATRIKGG  218 (270)
+Q Consensus       192 ifyisgrkpsfgtdeysvkyatrikgg  218 (270)
+                      -|-+.|-||||++.-.+.-..|....|
+T Consensus         4 sfq~dglkpsf~~~~~~~piqtqv~ng   30 (38)
+T 5O3U_M            4 SFQFDGLKPSFSASYSSKPIQTQVSNG   30 (38)
+T ss_pred             ceeecCcccccccccCCCCcceeccCC
+Confidence            367789999999987666655655554
+
+
+No 91
+>2RCD_C Uncharacterized protein; STRUCTURAL GENOMICS, JOINT CENTER FOR; HET: MSE; 2.32A {Pectobacterium atrosepticum SCRI1043} SCOP: d.17.4.18
+Probab=29.16  E-value=47  Score=21.02  Aligned_cols=18  Identities=17%  Similarity=0.230  Sum_probs=14.2  Template_Neff=12.500
+
+Q T1002           156 LRNKYTYIFKKDNGGWGQ  173 (270)
+Q Consensus       156 lrnkytyifkkdnggwgq  173 (270)
+                      .+..++.+|++.+|+|.-
+T Consensus       102 ~~~~~~~~~~~~~g~Wki  119 (129)
+T 2RCD_C          102 KIGRQMQTWVKMPEGWRI  119 (129)
+T ss_dssp             SCEEEEEEEEEETTEEEE
+T ss_pred             eeEEEEEEEEEeCCcEEE
+Confidence            466788999999998853
+
+
+No 92
+>4I4K_B uncharacterized protein SgcJ; Structural Genomics, PSI-Biology, Midwest Center; HET: PG4, 1PE, CIT, MSE; 1.7A {Streptomyces globisporus}
+Probab=28.34  E-value=50  Score=21.10  Aligned_cols=18  Identities=17%  Similarity=0.473  Sum_probs=14.2  Template_Neff=12.700
+
+Q T1002           155 DLRNKYTYIFKKDNGGWG  172 (270)
+Q Consensus       155 dlrnkytyifkkdnggwg  172 (270)
+                      ..+..++++|++.+|+|-
+T Consensus       114 ~~~~~~~~~~~~~~g~W~  131 (143)
+T 4I4K_B          114 DGAVRASWLAVEQDGQWR  131 (143)
+T ss_dssp             GGEEEEEEEEEEETTEEE
+T ss_pred             CccEEEEEEEEEECCEEE
+Confidence            346678899999999883
+
+
+No 93
+>4I4K_A uncharacterized protein SgcJ; Structural Genomics, PSI-Biology, Midwest Center; HET: CIT, PG4, 1PE; 1.7A {Streptomyces globisporus}
+Probab=28.34  E-value=50  Score=21.10  Aligned_cols=18  Identities=17%  Similarity=0.473  Sum_probs=14.2  Template_Neff=12.700
+
+Q T1002           155 DLRNKYTYIFKKDNGGWG  172 (270)
+Q Consensus       155 dlrnkytyifkkdnggwg  172 (270)
+                      ..+..++++|++.+|+|-
+T Consensus       114 ~~~~~~~~~~~~~~g~W~  131 (143)
+T 4I4K_A          114 DGAVRASWLAVEQDGQWR  131 (143)
+T ss_dssp             GGEEEEEEEEEEETTEEE
+T ss_pred             CccEEEEEEEEEECCEEE
+Confidence            346678899999999883
+
+
+No 94
+>4EPC_A N-acetylmuramoyl-L-alanine amidase (E.C.3.5.1.28); SH3b Fold, Extracellular, HYDROLASE; 2.9A {Staphylococcus epidermidis}
+Probab=27.58  E-value=52  Score=28.41  Aligned_cols=40  Identities=8%  Similarity=0.268  Sum_probs=0.0  Template_Neff=9.200
+
+Q T1002            22 IITVIP--QGAKMEVLDE----EDDWIKVMYNSQEGYVYKDLVSVS   61 (270)
+Q Consensus        22 iitvip--qgakmevlde----eddwikvmynsqegyvykdlvsvs   61 (270)
+                      .+..++  +|..+++..+    ...|.++..+.+-|+|..+.++..
+T Consensus       126 ~~~~~~~~~~~~~~v~~~~~~~~~~~y~i~~~g~~gWV~~~~l~~~  171 (334)
+T 4EPC_A          126 VASKVSGTGNQTFKATKQQQIDKATYLYGTVNGKSGWISKYYLTTA  171 (334)
+T ss_dssp             ----------------------------------------------
+T ss_pred             eeeecccccCceEEEEEEEEeCCceEEEEEECCEEEEEEhhheecc
+Confidence            344444  5666666653    578999988888899988777654
+
+
+No 95
+>4OVM_D uncharacterized protein SgcJ; neocarzinostatin biosynthesis, unknown funciton, PSI-biology; HET: MSE; 2.719A {Streptomyces carzinostaticus subsp. neocarzinostaticus}
+Probab=27.48  E-value=53  Score=20.78  Aligned_cols=18  Identities=28%  Similarity=0.617  Sum_probs=14.3  Template_Neff=12.900
+
+Q T1002           155 DLRNKYTYIFKKDNGGWG  172 (270)
+Q Consensus       155 dlrnkytyifkkdnggwg  172 (270)
+                      ..+..++.+|++.+|+|-
+T Consensus       115 ~~~~~~~~~~~~~~g~Wk  132 (144)
+T 4OVM_D          115 DKEIRATWVLGKRDGAWL  132 (144)
+T ss_dssp             TTCEEEEEEEEEETTEEE
+T ss_pred             CeeEEEEEEEEEeCCEEE
+Confidence            356778899999999883
+
+
+No 96
+>4OVM_F uncharacterized protein SgcJ; neocarzinostatin biosynthesis, unknown funciton, PSI-biology; HET: MSE; 2.719A {Streptomyces carzinostaticus subsp. neocarzinostaticus}
+Probab=27.48  E-value=53  Score=20.78  Aligned_cols=18  Identities=28%  Similarity=0.617  Sum_probs=14.3  Template_Neff=12.900
+
+Q T1002           155 DLRNKYTYIFKKDNGGWG  172 (270)
+Q Consensus       155 dlrnkytyifkkdnggwg  172 (270)
+                      ..+..++.+|++.+|+|-
+T Consensus       115 ~~~~~~~~~~~~~~g~Wk  132 (144)
+T 4OVM_F          115 DKEIRATWVLGKRDGAWL  132 (144)
+T ss_dssp             TTEEEEEEEEEEETTEEE
+T ss_pred             CeeEEEEEEEEEeCCEEE
+Confidence            356778899999999883
+
+
+No 97
+>2F86_H Hypothetical protein K11E8.1d; unc-43  oligomerization domain, TRANSFERASE; 2.64A {Caenorhabditis elegans} SCOP: d.17.4.7
+Probab=27.39  E-value=53  Score=21.44  Aligned_cols=21  Identities=14%  Similarity=0.349  Sum_probs=15.8  Template_Neff=12.300
+
+Q T1002           156 LRNKYTYIFKKDNGGWGQLYK  176 (270)
+Q Consensus       156 lrnkytyifkkdnggwgqlyk  176 (270)
+                      ....++.+|++.+|+|--.+.
+T Consensus       108 ~~~~~~~v~~~~~g~Wki~~~  128 (143)
+T 2F86_H          108 RQSQESRVWSKKQGRWVCVHV  128 (143)
+T ss_dssp             EEEEEEEEEEEETTEEEEEEE
+T ss_pred             eeceeeEEEEEECCeEEEEEE
+Confidence            456788999999999865443
+
+
+No 98
+>3B7C_A Uncharacterized protein; NTF-2 LIKE PROTEIN, STRUCTURAL GENOMICS; HET: EDO; 1.7A {Shewanella oneidensis} SCOP: d.17.4.16
+Probab=26.40  E-value=57  Score=19.73  Aligned_cols=18  Identities=17%  Similarity=0.363  Sum_probs=14.2  Template_Neff=13.100
+
+Q T1002           155 DLRNKYTYIFKKDNGGWG  172 (270)
+Q Consensus       155 dlrnkytyifkkdnggwg  172 (270)
+                      ..+..++.+|.+.+|+|-
+T Consensus        97 ~~~~~~~~~~~~~~g~W~  114 (122)
+T 3B7C_A           97 TPTGVFTLLVEKIDDRWV  114 (122)
+T ss_dssp             CCEEEEEEEEEEETTEEE
+T ss_pred             CCCceEEEEEEEECCEEE
+Confidence            356778889999999884
+
+
+No 99
+>3KSP_A Calcium/calmodulin-dependent kinase II association domain; Cystatin-like fold, structural genomics, Joint; HET: NHE; 2.59A {Exiguobacterium sibiricum 255-15}
+Probab=26.07  E-value=58  Score=20.38  Aligned_cols=21  Identities=19%  Similarity=0.322  Sum_probs=15.7  Template_Neff=12.700
+
+Q T1002           155 DLRNKYTYIFKKDNGGWGQLY  175 (270)
+Q Consensus       155 dlrnkytyifkkdnggwgqly  175 (270)
+                      .....++.+|++.+|+|--..
+T Consensus       100 ~~~~~~~~~~~~~~g~W~i~~  120 (129)
+T 3KSP_A          100 IGRFRSVSLYHWANEGWKWHF  120 (129)
+T ss_dssp             EEEEEEEEEEEEETTEEEEEE
+T ss_pred             EEEEEEEEEEEEeCCeEEEEE
+Confidence            456678889999999986543
+
+
+No 100
+>2R4I_A Uncharacterized protein; NTF2-LIKE PROTEIN, STRUCTURAL GENOMICS, JOINT; HET: CIT, IPA, GOL; 1.6A {Cytophaga hutchinsonii ATCC 33406} SCOP: d.17.4.15
+Probab=25.63  E-value=60  Score=19.78  Aligned_cols=17  Identities=24%  Similarity=0.554  Sum_probs=13.0  Template_Neff=13.000
+
+Q T1002           157 RNKYTYIFKKDNGGWGQ  173 (270)
+Q Consensus       157 rnkytyifkkdnggwgq  173 (270)
+                      ...++.+|.+++|+|--
+T Consensus        98 ~~~~~~~~~~~~g~Wki  114 (123)
+T 2R4I_A           98 TFRYLRVWKLFDGNWKV  114 (123)
+T ss_dssp             EEEEEEEEEEETTEEEE
+T ss_pred             eEEEEEEEEEeCCEEEE
+Confidence            34778889999998853
+
+
+No 101
+>4Q2W_A Putative endo-beta-N-acetylglucosaminidase (E.C.3.2.1.96); all-beta module, GH73, Hydrolase; HET: GOL; 1.65A {Streptococcus pneumoniae}
+Probab=25.47  E-value=60  Score=29.77  Aligned_cols=40  Identities=15%  Similarity=0.299  Sum_probs=34.4  Template_Neff=6.700
+
+Q T1002            22 IITVIPQGAKM---EVLDEEDDWIKVMYNSQEGYVYKDLVSVS   61 (270)
+Q Consensus        22 iitvipqgakm---evldeeddwikvmynsqegyvykdlvsvs   61 (270)
+                      ..|-|++|..|   +.++..++++|||.....|||-.+-|.+.
+T Consensus        37 ~~tyv~~~~~~~~~~~~~~~~~~v~v~~~g~~g~v~~~~~~~~   79 (290)
+T 4Q2W_A           37 KLSYISQGSVVWLDKDRKSDDKRLAITISGLSGYMKTEDLQAL   79 (290)
+T ss_dssp             EEEEEETTCEEEECTTSCCCSSEEEEEETTEEEEEEGGGEEEC
+T ss_pred             eeeEecCCeeEEeeecccCCCCEEEEEECCEEEEeeHHHeEEE
+Confidence            58999999999   77788999999999999999988765544
+
+
+No 102
+>2RFR_A Uncharacterized protein; Structural genomics, Joint Center for; 1.16A {Novosphingobium aromaticivorans} SCOP: d.17.4.28
+Probab=24.15  E-value=66  Score=21.19  Aligned_cols=18  Identities=17%  Similarity=0.564  Sum_probs=14.3  Template_Neff=12.400
+
+Q T1002           155 DLRNKYTYIFKKDNGGWG  172 (270)
+Q Consensus       155 dlrnkytyifkkdnggwg  172 (270)
+                      .....++++|.+++|+|-
+T Consensus       116 ~~~~~~~~~~~~~~g~Wk  133 (155)
+T 2RFR_A          116 HRVSANRWTFRRTPAGWR  133 (155)
+T ss_dssp             EEEEEEEEEEEEETTEEE
+T ss_pred             EEEEEEEEEEEEcCCeEE
+Confidence            345678889999999993
+
+
+No 103
+>6OF8_A Calcium/calmodulin-dependent protein kinase type II; CaMKII hub domain, SIGNALING PROTEIN; HET: GOL; 2.1A {Homo sapiens}
+Probab=23.74  E-value=68  Score=19.89  Aligned_cols=18  Identities=17%  Similarity=0.597  Sum_probs=14.0  Template_Neff=13.000
+
+Q T1002           156 LRNKYTYIFKKDNGGWGQ  173 (270)
+Q Consensus       156 lrnkytyifkkdnggwgq  173 (270)
+                      ....++.+|++++|+|.-
+T Consensus       107 ~~~~~~~~~~~~~g~w~i  124 (135)
+T 6OF8_A          107 AQSEETRVWHRRDGKWQH  124 (135)
+T ss_pred             EeeeEEEEEEEECCEEEE
+Confidence            466788889999998843
+
+
+No 104
+>6OF8_E Calcium/calmodulin-dependent protein kinase type II; CaMKII hub domain, SIGNALING PROTEIN; HET: GOL; 2.1A {Homo sapiens}
+Probab=23.35  E-value=70  Score=19.84  Aligned_cols=18  Identities=17%  Similarity=0.597  Sum_probs=14.0  Template_Neff=13.000
+
+Q T1002           156 LRNKYTYIFKKDNGGWGQ  173 (270)
+Q Consensus       156 lrnkytyifkkdnggwgq  173 (270)
+                      ....++.+|++++|+|.-
+T Consensus       107 ~~~~~~~~~~~~~g~w~i  124 (135)
+T 6OF8_E          107 AQSEETRVWHRRDGKWQH  124 (135)
+T ss_dssp             EEEEEEEEEEEETTEEEE
+T ss_pred             eeeeeEEEEEEeCCeEEE
+Confidence            356788899999998843
+
+
+No 105
+>5IG4_E CaMKII-A hub; Ca2+/CaM-dependent kinase, sea anemone, closed-ring; HET: GOL; 2.35A {Nematostella vectensis}
+Probab=21.94  E-value=78  Score=20.48  Aligned_cols=18  Identities=28%  Similarity=0.637  Sum_probs=14.3  Template_Neff=12.500
+
+Q T1002           155 DLRNKYTYIFKKDNGGWG  172 (270)
+Q Consensus       155 dlrnkytyifkkdnggwg  172 (270)
+                      .....++.+|++.+|+|.
+T Consensus       117 ~~~~~~~~~~~~~~g~wk  134 (145)
+T 5IG4_E          117 TLQQEETRVWQKKGGNWI  134 (145)
+T ss_dssp             EEEEEEEEEEEEETTEEE
+T ss_pred             EEEEeeEEEEEEeCCeEE
+Confidence            456678899999998884
+
+
+No 106
+>5IG4_C CaMKII-A hub; Ca2+/CaM-dependent kinase, sea anemone, closed-ring; HET: GOL; 2.35A {Nematostella vectensis}
+Probab=21.94  E-value=78  Score=20.48  Aligned_cols=18  Identities=28%  Similarity=0.637  Sum_probs=14.3  Template_Neff=12.500
+
+Q T1002           155 DLRNKYTYIFKKDNGGWG  172 (270)
+Q Consensus       155 dlrnkytyifkkdnggwg  172 (270)
+                      .....++.+|++.+|+|.
+T Consensus       117 ~~~~~~~~~~~~~~g~wk  134 (145)
+T 5IG4_C          117 TLQQEETRVWQKKGGNWI  134 (145)
+T ss_dssp             EEEEEEEEEEEEETTEEE
+T ss_pred             EEEEeeEEEEEEeCCeEE
+Confidence            456678899999998884
+
+
+No 107
+>5KVB_A Hexachlorocyclohexane dehydrochlorinase; dehydrochlorinase, Lyase; 1.45A {Novosphingobium barchaimii LL02}
+Probab=21.55  E-value=81  Score=21.93  Aligned_cols=18  Identities=22%  Similarity=0.567  Sum_probs=14.6  Template_Neff=11.400
+
+Q T1002           156 LRNKYTYIFKKDNGGWGQ  173 (270)
+Q Consensus       156 lrnkytyifkkdnggwgq  173 (270)
+                      ...+|+.+|++.+|+|--
+T Consensus       116 ~~~~~~~~~~~~~g~WkI  133 (156)
+T 5KVB_A          116 IAAVYTSEYERRDGVWKF  133 (156)
+T ss_dssp             EEEEEEEEEEEETTEEEE
+T ss_pred             EEEEEEeEEEEECCEEEE
+Confidence            467789999999999843
+
+
+No 108
+>2RGQ_C Domain of Unknown Function with; Structural genomics, Joint Center for; HET: MSE, GOL; 1.8A {Nostoc punctiforme} SCOP: d.17.4.25
+Probab=20.63  E-value=87  Score=20.25  Aligned_cols=17  Identities=24%  Similarity=0.155  Sum_probs=13.3  Template_Neff=12.500
+
+Q T1002           156 LRNKYTYIFKKDNGGWG  172 (270)
+Q Consensus       156 lrnkytyifkkdnggwg  172 (270)
+                      ....++.+|.+.+|+|-
+T Consensus       103 ~~~~~~~~~~~~~g~Wk  119 (144)
+T 2RGQ_C          103 GSAFVKDQVRKINGKWY  119 (144)
+T ss_dssp             EEEEEEEEEEEETTEEE
+T ss_pred             EEEEEEEEEEEECCEEE
+Confidence            45567889999999884
+
+
+No 109
+>2CHC_A PROTEIN RV3472; RV3472, MYCOBACTERIUM, TUBERCULOSIS, HYPOTHETICAL PROTEIN; 1.69A {MYCOBACTERIUM TUBERCULOSIS} SCOP: d.17.4.25
+Probab=20.13  E-value=90  Score=22.79  Aligned_cols=19  Identities=21%  Similarity=0.330  Sum_probs=15.2  Template_Neff=10.700
+
+Q T1002           155 DLRNKYTYIFKKDNGGWGQ  173 (270)
+Q Consensus       155 dlrnkytyifkkdnggwgq  173 (270)
+                      .....++++|++++|+|.-
+T Consensus       106 ~~~~~~~~~~~k~~g~WkI  124 (170)
+T 2CHC_A          106 LGSGEYQDRLIKQDGQWRI  124 (170)
+T ss_dssp             EEEEEEEEEEEEETTEEEE
+T ss_pred             EEEEEEEEEEEEECCEEEE
+Confidence            4567889999999999943
+
+
+No 110
+>2CHC_B PROTEIN RV3472; RV3472, MYCOBACTERIUM, TUBERCULOSIS, HYPOTHETICAL PROTEIN; 1.69A {MYCOBACTERIUM TUBERCULOSIS} SCOP: d.17.4.25
+Probab=20.13  E-value=90  Score=22.79  Aligned_cols=19  Identities=21%  Similarity=0.330  Sum_probs=15.2  Template_Neff=10.700
+
+Q T1002           155 DLRNKYTYIFKKDNGGWGQ  173 (270)
+Q Consensus       155 dlrnkytyifkkdnggwgq  173 (270)
+                      .....++++|++++|+|.-
+T Consensus       106 ~~~~~~~~~~~k~~g~WkI  124 (170)
+T 2CHC_B          106 LGSGEYQDRLIKQDGQWRI  124 (170)
+T ss_dssp             EEEEEEEEEEEEETTEEEE
+T ss_pred             EEEEEEEEEEEEECCEEEE
+Confidence            4567889999999999943
+
+
+No 111
+>3M1U_A Putative gamma-D-glutamyl-L-diamino acid endopeptidase; Structural Genomics, Joint Center for; HET: GOL, MES, CL; 1.75A {Desulfovibrio vulgaris}
+Probab=20.04  E-value=91  Score=29.17  Aligned_cols=46  Identities=13%  Similarity=0.099  Sum_probs=32.6  Template_Neff=8.000
+
+Q T1002            10 VNLRSAKSTNSSIITVIPQGAKMEVLDEED----DWIKVMY-NSQEGYVYKDLV   58 (270)
+Q Consensus        10 vnlrsakstnssiitvipqgakmevldeed----dwikvmy-nsqegyvykdlv   58 (270)
+                      +++++.   ++..+..++.|+.+.++.+++    .|++|-. +.+.|++...+.
+T Consensus       214 ~~v~~~---~~~~~~~l~~Gt~lpv~~~~~~~~~~wv~V~~~~G~~g~v~~~~~  264 (434)
+T 3M1U_A          214 TSLNGA---DGTHLATAHIGTVLPLSGASQVGRTVLVPVRAPEGHAVVVPVLLT  264 (434)
+T ss_dssp             EEEECT---TSCEEEEECTTCEEEBCC-----EEEEEEEECTTSBEEEEEEEEC
+T ss_pred             eeeeCC---CCcEEEEEeCCCEEEeccCCCCCceEEEEEECCCCCEEEEEEEee
+Confidence            455543   556778889999999999876    8999987 456788877753
+
+
+No 112
+>4GB5_A Uncharacterized protein; Structural Genomics, PSI-Biology, Midwest Center; HET: PGE; 1.55A {Kribbella flavida}
+Probab=20.03  E-value=91  Score=21.54  Aligned_cols=25  Identities=20%  Similarity=0.304  Sum_probs=17.4  Template_Neff=11.600
+
+Q T1002           156 LRNKYTYIFKKDNGGWGQLYKWQCTI  181 (270)
+Q Consensus       156 lrnkytyifkkdnggwgqlykwqcti  181 (270)
+                      ...+|+.+|++.+|+| .+...+++.
+T Consensus       117 ~~~~~~~~~~~~~g~W-ki~~~~~~~  141 (159)
+T 4GB5_A          117 VVGFYDNEAVRTADGW-RLSSVKLTA  141 (159)
+T ss_dssp             EEEEEEEEEEEETTEE-EEEEEEEEE
+T ss_pred             EEEEEEEEEEEcCCEE-EEEEEEEEE
+Confidence            4567888999999999 344444443
+
+

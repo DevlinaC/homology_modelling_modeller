@@ -1,0 +1,157 @@
+Query         T1001 Q6MIM9, Bdellovibrio bacteriovorus, 140 residues
+Match_columns 140
+No_of_seqs    1 out of 1
+Neff          1
+Searched_HMMs 80569
+Date          Wed Mar 25 15:47:50 2020
+Command       hhsearch -i T1001.fasta -d ../hhbits_database/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 3QH7_A CT296; CT296, Iron, mod  25.0      62 0.00077   24.7   0.0   25  108-132    17-41  (157)
+  2 1ENW_A ELONGATION FACTOR TFIIS  24.5      65  0.0008   22.4   0.0   18  112-129    91-108 (114)
+  3 3QH6_A CT296; CT296, Iron, mod  21.2      83   0.001   24.1   0.0   24  108-131    17-40  (157)
+  4 5M0T_A Alpha-ketoglutarate-dep  19.8      93  0.0012   23.4   0.0   25  108-132    30-54  (294)
+  5 5M0T_B Alpha-ketoglutarate-dep  19.8      93  0.0012   23.4   0.0   25  108-132    30-54  (294)
+  6 2CYU_A 2-OXOGLUTARATE DEHYDROG  19.4      96  0.0012   17.9   0.0   23   36-60      2-24  (40)
+  7 5YLB_A Uncharacterized protein  19.1      98  0.0012   22.3   0.0   34   96-129     4-37  (187)
+  8 2EQ9_C Pyruvate dehydrogenase   18.7   1E+02  0.0013   17.9   0.0   24   36-61      3-26  (41)
+  9 2LW4_A Transcription elongatio  18.5   1E+02  0.0013   21.1   0.0   18  112-129    81-98  (113)
+ 10 4ZPI_B Putative oxidase/hydrox  18.3 1.1E+02  0.0013   22.3   0.0   24  108-131    14-37  (258)
+
+No 1
+>3QH7_A CT296; CT296, Iron, modeling, Chlamydia, UNKNOWN; 2.497A {Chlamydia trachomatis}
+Probab=25.05  E-value=62  Score=24.74  Aligned_cols=25  Identities=20%  Similarity=0.521  Sum_probs=21.4  Template_Neff=6.800
+
+Q T1001           108 LEGVFVYSGQLPAEEVARMNEEFTL  132 (140)
+Q Consensus       108 legvfvysgqlpaeevarmneeftl  132 (140)
+                      -.|+.+..|-++++++++|++++.-
+T Consensus        17 edG~v~l~~~ls~~~v~~Lr~~~~~   41 (157)
+T 3QH7_A           17 NHGHILFEGLAPVSDCKQLEAELKL   41 (157)
+T ss_dssp             HHSEEEETTSSCHHHHHHHHHHHHH
+T ss_pred             HcCeEEecCCCCHHHHHHHHHHHHH
+Confidence            3689999999999999999988743
+
+
+No 2
+>1ENW_A ELONGATION FACTOR TFIIS; helix-bundle, TRANSCRIPTION; NMR {Saccharomyces cerevisiae} SCOP: a.5.4.1
+Probab=24.55  E-value=65  Score=22.42  Aligned_cols=18  Identities=17%  Similarity=0.287  Sum_probs=15.2  Template_Neff=8.000
+
+Q T1001           112 FVYSGQLPAEEVARMNEE  129 (140)
+Q Consensus       112 fvysgqlpaeevarmnee  129 (140)
+                      -|.+|.++++++++|..+
+T Consensus        91 ~il~G~i~p~~l~~ms~e  108 (114)
+T 1ENW_A           91 KIANGDITPEFLATCDAK  108 (114)
+T ss_pred             HHHcCCCCHHHHhcCCHH
+Confidence            357899999999999865
+
+
+No 3
+>3QH6_A CT296; CT296, Iron, modeling, Chlamydia, UNKNOWN; HET: PG4; 1.8A {Chlamydia trachomatis}
+Probab=21.19  E-value=83  Score=24.09  Aligned_cols=24  Identities=17%  Similarity=0.487  Sum_probs=20.7  Template_Neff=6.800
+
+Q T1001           108 LEGVFVYSGQLPAEEVARMNEEFT  131 (140)
+Q Consensus       108 legvfvysgqlpaeevarmneeft  131 (140)
+                      -.|+.+..|-+++++|++|++++.
+T Consensus        17 edG~v~l~~vls~~ev~~Lr~~id   40 (157)
+T 3QH6_A           17 NHGHILFEGLAPVSDCKQLEAELK   40 (157)
+T ss_pred             HcCeEEecCCCCHHHHHHHHHHHH
+Confidence            358889999999999999998764
+
+
+No 4
+>5M0T_A Alpha-ketoglutarate-dependent non-heme iron oxygenase EasH; cycloclavine biosynthesis, EasH, Alpha-ketoglutarate-dependent non-heme; HET: AKG; 2.2A {Aspergillus japonicus}
+Probab=19.80  E-value=93  Score=23.41  Aligned_cols=25  Identities=36%  Similarity=0.551  Sum_probs=20.6  Template_Neff=9.900
+
+Q T1001           108 LEGVFVYSGQLPAEEVARMNEEFTL  132 (140)
+Q Consensus       108 legvfvysgqlpaeevarmneeftl  132 (140)
+                      -.|..|..+-+++|+++++++++.-
+T Consensus        30 ~~G~vvi~~~l~~e~v~~l~~~~~~   54 (294)
+T 5M0T_A           30 EDGVVVIEGFMSADQVRRFNGEIDP   54 (294)
+T ss_dssp             HHSEEEEETSSCHHHHHHHHHHHGG
+T ss_pred             HhCEEEEcCCCCHHHHHHHHHHHHH
+Confidence            4688888999999999999887643
+
+
+No 5
+>5M0T_B Alpha-ketoglutarate-dependent non-heme iron oxygenase EasH; cycloclavine biosynthesis, EasH, Alpha-ketoglutarate-dependent non-heme; HET: AKG; 2.2A {Aspergillus japonicus}
+Probab=19.80  E-value=93  Score=23.41  Aligned_cols=25  Identities=36%  Similarity=0.551  Sum_probs=20.6  Template_Neff=9.900
+
+Q T1001           108 LEGVFVYSGQLPAEEVARMNEEFTL  132 (140)
+Q Consensus       108 legvfvysgqlpaeevarmneeftl  132 (140)
+                      -.|..|..+-+++|+++++++++.-
+T Consensus        30 ~~G~vvi~~~l~~e~v~~l~~~~~~   54 (294)
+T 5M0T_B           30 EDGVVVIEGFMSADQVRRFNGEIDP   54 (294)
+T ss_dssp             HHSEEEEETSSCHHHHHHHHHHHGG
+T ss_pred             HhCEEEEcCCCCHHHHHHHHHHHHH
+Confidence            4688888999999999999887643
+
+
+No 6
+>2CYU_A 2-OXOGLUTARATE DEHYDROGENASE MULTIENZYME COMPLEX (E.C.2.3.1.61); helix bundle, downhill folding protein; NMR {N/A} SCOP: a.9.1.1
+Probab=19.37  E-value=96  Score=17.93  Aligned_cols=23  Identities=35%  Similarity=0.752  Sum_probs=16.0  Template_Neff=7.700
+
+Q T1001            36 FLPSVRSFVATHASGIPGSDIQGVG   60 (140)
+Q Consensus        36 flpsvrsfvathasgipgsdiqgvg   60 (140)
+                      ..|.+|.+...|  ||.-++|+|-|
+T Consensus         2 ~sP~ar~la~~~--gi~~~~i~gtg   24 (40)
+T 2CYU_A            2 LSPAIRRLLAEH--NLDASAIKGTG   24 (40)
+T ss_pred             CCHHHHHHHHHh--CCCHHHCCCCC
+Confidence            357777777766  67777777765
+
+
+No 7
+>5YLB_A Uncharacterized protein P8A3.02c; beta barrel, OXIDOREDUCTASE; 1.79A {Schizosaccharomyces pombe  (strain 972 / ATCC 24843)}
+Probab=19.10  E-value=98  Score=22.29  Aligned_cols=34  Identities=15%  Similarity=0.240  Sum_probs=25.9  Template_Neff=9.200
+
+Q T1001            96 PPKALPLYAHNALEGVFVYSGQLPAEEVARMNEE  129 (140)
+Q Consensus        96 ppkalplyahnalegvfvysgqlpaeevarmnee  129 (140)
+                      .|...+.|..+...|+++..+-++.+|-..+-++
+T Consensus         4 ~~~~~~~~~~~~~~Gl~~~~~fl~~~e~~~l~~~   37 (187)
+T 5YLB_A            4 DFENWTVVPVETIEGINYYPNCLPESVQRNLINN   37 (187)
+T ss_dssp             TCTTCEECCGGGSTTEEEETTCSCHHHHHHHHHT
+T ss_pred             ChhhcceeecCCCCcEEEcCCCCCHHHHHHHHHh
+Confidence            4566778888888898888888888877665443
+
+
+No 8
+>2EQ9_C Pyruvate dehydrogenase complex, dihydrolipoamide dehydrogenase; PROTEIN-PROTEIN COMPLEX, OXIDOREDUCTASE, Structural Genomics; HET: FAD; 2.09A {Thermus thermophilus}
+Probab=18.68  E-value=1e+02  Score=17.92  Aligned_cols=24  Identities=29%  Similarity=0.591  Sum_probs=16.4  Template_Neff=7.700
+
+Q T1001            36 FLPSVRSFVATHASGIPGSDIQGVGV   61 (140)
+Q Consensus        36 flpsvrsfvathasgipgsdiqgvgv   61 (140)
+                      ..|++|.+...|  ||.-++|+|-|.
+T Consensus         3 ~sP~ar~la~~~--~id~~~i~~tg~   26 (41)
+T 2EQ9_C            3 AVPAARKLAREL--GIPIEEVPGSGP   26 (41)
+T ss_dssp             BCHHHHHHHHHT--TCCGGGSCCCST
+T ss_pred             CCHHHHHHHHHh--CCCHHHCCCCCC
+Confidence            457788877766  576777777653
+
+
+No 9
+>2LW4_A Transcription elongation factor A protein; Structural Genomics, NORTHEAST STRUCTURAL GENOMICS; NMR {Homo sapiens}
+Probab=18.46  E-value=1e+02  Score=21.13  Aligned_cols=18  Identities=28%  Similarity=0.473  Sum_probs=14.5  Template_Neff=8.300
+
+Q T1001           112 FVYSGQLPAEEVARMNEE  129 (140)
+Q Consensus       112 fvysgqlpaeevarmnee  129 (140)
+                      -+++|.++++++++|..+
+T Consensus        81 ~il~g~i~~~~l~~m~~~   98 (113)
+T 2LW4_A           81 NVLCGAITPQQIAVMTSE   98 (113)
+T ss_dssp             HHHTTSSCHHHHHHSCHH
+T ss_pred             HHHCCCCCHHHHhcCCHH
+Confidence            367889999999998754
+
+
+No 10
+>4ZPI_B Putative oxidase/hydroxylase; oxidoreductase, double stranded beta helix; HET: SIN; 2.504A {Streptomyces hygroscopicus subsp. hygroscopicus}
+Probab=18.26  E-value=1.1e+02  Score=22.26  Aligned_cols=24  Identities=25%  Similarity=0.426  Sum_probs=20.2  Template_Neff=10.300
+
+Q T1001           108 LEGVFVYSGQLPAEEVARMNEEFT  131 (140)
+Q Consensus       108 legvfvysgqlpaeevarmneeft  131 (140)
+                      -+|..+..+-+++++++++++++.
+T Consensus        14 ~~G~~vl~~~l~~~~~~~l~~~~~   37 (258)
+T 4ZPI_B           14 TTGFLVIPGVFGSGEVESFRSELE   37 (258)
+T ss_dssp             HHSEEEETTCSCHHHHHHHHHHHH
+T ss_pred             hhCeEEecCCCCHHHHHHHHHHHH
+Confidence            468888889999999999988764
+
+
