@@ -1,4 +1,5 @@
-# Homology Models 
+# Homology Models
+
 # building models using modeller 9.23 and a single template
 # will add more scripts to generate models using multiple templates
 
@@ -6,3 +7,6 @@
 python making_models_single.py 3qh7_A.pdb T1001.ali
 
 # saves the output and models in T1001-models
+
+# to convert fasta to ali, use convert_fileformat_modeller.py, note: there are other useful scripts in the scripts folder 
+# to run PSI-BLAST, HHsearch and to read the outputs and download PDBs from the search outputs
