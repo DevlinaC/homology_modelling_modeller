@@ -1,1 +1,8 @@
-#Homology Models
+# Homology Models 
+# building models using modeller 9.23 and a single template
+# will add more scripts to generate models using multiple templates
+
+# to run 
+python making_models_single.py 3qh7_A.pdb T1001.ali
+
+# saves the output and models in T1001-models
