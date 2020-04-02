@@ -1,9 +1,10 @@
 # Homology Models
 
 # building models using modeller 9.23 and a single template
-# will add more scripts to generate models using multiple templates
+# added scripts to generate models using multiple templates too
 
-# before running, please change the Path to templates and where models must be saved in making_models_single.py
+# before running, please change the Path to templates and where models must be saved in making_models_single.py 
+# and making_models_mult_templates.py
 
 # to run using single template 
 python making_models_single.py 3qh7_A.pdb T1001.ali
