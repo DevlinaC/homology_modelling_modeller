@@ -1,0 +1,41 @@
+ _aln.pos         10        20        30        40        50        60
+2x0i_A    MKLGFVGAGRVGSTSAFTCLLNLDVDEIALVDIAEDLAVGEAMDLAHAAAGIDKYPKIVGGADYSLLK 
+2x0j_A    MKLGFVGAGRVGSTSAFTCLLNLDVDEIALVDIAEDLAVGEAMDLAHAAAGIDKYPKIVGGADYSLLK 
+3qh7_A    -------------------------------------------------------------SRRAVLH 
+T1001     -------------------------------------------------------------------- 
+ _consrvd
+
+ _aln.p   70        80        90       100       110       120       130
+2x0i_A    GSE----------IIVVTA-------GLARKPGMT---RLDLAH--KNAGIIKD-IAKKIVENAPE-- 
+2x0j_A    GSE----------IIVVTA-------GLARKPGMT---RLDLAH--KNAGIIKD-IAKKIVENAPE-- 
+3qh7_A    LEHKRYFQNHGHILFEGLAPVSDCKQLEAELKLFLKRWRENVHRTLPGVQIVKRVRLDHLAAELTHRS 
+T1001     --------------------------------------SISTRIGEYRSAQSKEDLIQKYLNQLPGSL 
+ _consrvd                                                     *
+
+ _aln.pos  140       150       160       170       180       190       200
+2x0i_A    ----------------------SKILVVT--------------------------NPMDVMTYIMWKE 
+2x0j_A    ----------------------SKILVVT--------------------------NPMDVMTYIMWKE 
+3qh7_A    RVALVRDLWVQKQEEILFDDCDCSVLLCLSGEKAGWGLFFSGEYPQDVFDWGAGDTAII----LRFSS 
+T1001     CV-------------------FFKFL-----------------P--------------SVRSFVATHA 
+ _consrvd                          *
+
+ _aln.pos    210       220       230       240       250       260       270
+2x0i_A    SGKPRNEVFGMGNQLDSQRLKERLYNAGARNIRRAWIIGEHGDSMFVAKSLADFDGEVDWEAVENDVR 
+2x0j_A    SGKPRNEVFGMGNQLDSQRLKERLYNAGARNIRRAWIIGEHGDSMFVAKSLADFDGEVDWEAVENDVR 
+3qh7_A    -------------------------------------------------------------------- 
+T1001     SGIPGSDIQGVGVQLESN------------------DMKELSSQMAI---------------GLLPPR 
+ _consrvd
+
+ _aln.pos      280       290       300       310       320       330       340
+2x0i_A    FVAAEVIKRKGATIFGPAVAIYRMVKAVVEDTGEIIPTSMILQGEYGIENVAVGVPAKLGKNGAEVAD 
+2x0j_A    FVAAEVIKRKGATIFGPAVAIYRMVKAVVEDTGEIIPTSMILQGEYGIENVAVGVPAKLGKNGAEVAD 
+3qh7_A    -------------------------------------------------------------------- 
+T1001     FTEMLV----EAFHFSPPKA---------------LP-----------------LYAHNALEGVFVYS 
+ _consrvd
+
+ _aln.pos        350       360
+2x0i_A    IKLSDEEIEKLRNSAKILRERLEELGY 
+2x0j_A    IKLSDEEIEKLRNSAKILRERLEELGY 
+3qh7_A    --------------------------- 
+T1001     GQLPAEEVARMNEEFTLLSLCYS--HF 
+ _consrvd
