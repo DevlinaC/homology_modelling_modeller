@@ -7,8 +7,9 @@ import itertools as itts
 # reads ecod data file #
 def read_description(inFile: Path = None):
     if inFile is None:
-       loc = Path("/Users/dc1321/testing_domain_contacts/old_files")
-       inFile = loc / "ecod.latest.domains.txt"
+       loc = Path("/Users/dc1321/testing_domain_contacts/old_files") # change to working directory
+       inFile = loc / "ecod.latest.domains.txt" # to get this file from 
+                                                # http://prodata.swmed.edu/ecod/distributions/ecod.latest.domains.txt
 
     out_data = []
     with open(inFile) as oF:
@@ -34,7 +35,7 @@ def read_description(inFile: Path = None):
     return out_data
 
 # only get info for pdb you want #
-input_file = "list_pdb.txt"
+input_file = "list_pdb.txt" # included a test file to play with #
 set_tokeep = set()
 
 with open (input_file) as IF:
