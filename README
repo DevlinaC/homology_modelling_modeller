@@ -1,14 +1,18 @@
 # Homology Models
 
-# building models using modeller 9.23 and a single template
-# will add more scripts to generate models using multiple templates
+## building models using modeller 9.23 and a single template
+added scripts to generate models using multiple templates too
 
-# before running, please change the Path to templates and where models must be saved in making_models_single.py
+## before running, please change the Path to templates and where models must be saved in making_models_single.py 
+and making_models_mult_templates.py
 
-# to run 
+## to run using single template 
 python making_models_single.py 3qh7_A.pdb T1001.ali
 
-# saves the output and models in T1001-models
+## to run using multiple templates
+python making_models_mult_templates.py T1001 list_templates.txt
 
-# to convert fasta to ali, use convert_fileformat_modeller.py, note: there are other useful scripts in the scripts folder 
-# for running PSI-BLAST, HHsearch and to read the outputs and download PDBs from the search outputs
+## saves the outputs and models in T1001-models and T1001-mult-models for single and multiple template prediction respectively
+
+## to convert fasta to ali, use convert_fileformat_modeller.py, note: there are other useful scripts in the scripts folder 
+for running PSI-BLAST, HHsearch and to read the outputs and download PDBs from the search outputs
